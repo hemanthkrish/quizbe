@@ -1,1 +1,89 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Vocab Quiz</title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+		/>
+	</head>
+	<body>
+		<audio id="correctAudio" src="{{ url_for('static', filename='correct.mp3') }}" preload="auto"></audio>
+		<audio id="wrongAudio" src="{{ url_for('static', filename='wrong.mp3') }}" preload="auto"></audio>
 
+		<div class="start_btn"><button>Start Quiz</button></div>
+
+		<div class="info_box">
+			<div class="info-title"><span>Quiz Rules & Setup</span></div>
+			<div class="info-list">
+				<div class="info">1. You have <span>15 seconds</span> per question.</div>
+				<div class="info">2. Once you select an answer, it can't be undone.</div>
+				<div class="info">3. You can't select an option after time runs out.</div>
+			</div>
+			
+			<!-- Topic and Slab Selection -->
+			<div class="selection-area">
+				<div>
+					<label for="topicDropdown">1. Choose a Topic:</label>
+					<select id="topicDropdown">
+						<!-- Topics will be populated by Jinja -->
+						{% for key, topic in topics.items() %}
+							<option value="{{ key }}" 
+									data-total-questions="{{ topic.total_questions }}" 
+									data-slab-size="{{ topic.slab_size }}">
+								{{ topic.display_name }}
+							</option>
+						{% endfor %}
+					</select>
+				</div>
+				<div>
+					<label for="slabDropdown">2. Choose a Question Slab:</label>
+					<select id="slabDropdown"></select>
+				</div>
+				<p id="output" style="margin-top: 10px; color: #007bff; height: 20px;"></p>
+			</div>
+
+			<div class="buttons">
+				<button class="quit">Exit Quiz</button>
+				<button class="restart">Continue</button>
+			</div>
+		</div>
+
+		<!-- Quiz and Result Boxes (No changes here) -->
+		<div class="quiz_box">
+			<header>
+				<div class="title">FixedPrep🎡</div>
+				<div class="timer">
+					<div class="time_left_txt">Time Left</div>
+					<div class="timer_sec">15</div>
+				</div>
+				<div class="time_line"></div>
+			</header>
+			<section>
+				<div class="que_text"></div>
+				<div class="option_list"></div>
+			</section>
+			<footer>
+				<div class="total_que"></div>
+				<button class="next_btn">Next</button>
+			</footer>
+		</div>
+
+		<div class="result_box">
+			<div class="icon"><i class="fas fa-crown"></i></div>
+			<div class="complete_text">You've completed the Quiz!</div>
+			<div class="score_text"></div>
+			<div class="buttons">
+				<button class="restart">Replay Quiz</button>
+				<button class="quit">Quit Quiz</button>
+			</div>
+		</div>
+		
+		<!-- Main JavaScript files -->
+		<script src="{{ url_for('static', filename='js/setup.js') }}"></script>
+		<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+	</body>
+</html>
