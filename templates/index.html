@@ -23,10 +23,17 @@
 				<div class="info">2. Once you select an answer, it can't be undone.</div>
 				<div class="info">3. You can't select an option after time runs out.</div>
 			</div>
+			<div style="display: flex; justify-content: space-around">
+					<img
+						src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25hZXZyOHZtendwYzNtbDZmaXkxZTF6NnYwdTd2a3lsNWIwazE0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3m05kYod6Y7nWszsy/giphy.gif"
+						alt="all the best"
+						style="width: 150px; height: 150px; align-content: center"
+					/>
+				</div>
 			
 			<!-- Topic and Slab Selection -->
 			<div class="selection-area">
-				<div>
+				<div style = "padding : 10px">
 					<label for="topicDropdown">1. Choose a Topic:</label>
 					<select id="topicDropdown">
 						<!-- Topics will be populated by Jinja -->
@@ -39,7 +46,7 @@
 						{% endfor %}
 					</select>
 				</div>
-				<div>
+				<div style = "padding : 10px">
 					<label for="slabDropdown">2. Choose a Question Slab:</label>
 					<select id="slabDropdown"></select>
 				</div>
@@ -55,7 +62,7 @@
 		<!-- Quiz and Result Boxes (No changes here) -->
 		<div class="quiz_box">
 			<header>
-				<div class="title">FixedPrep🎡</div>
+				<div class="title">🎡</div>
 				<div class="timer">
 					<div class="time_left_txt">Time Left</div>
 					<div class="timer_sec">15</div>
