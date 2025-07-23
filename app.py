@@ -91,6 +91,11 @@ def get_questions_slab():
 
     return jsonify(selected_questions)
 
-# --- Main entry point for running the application ---
+# # --- Main entry point for running the application ---
+# if __name__ == '__main__':
+#     app.run(debug=True)
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
+
