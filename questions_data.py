@@ -1093,7 +1093,7 @@ PHRASAL_VERBS_DATA = {"Abide by": ["To follow a rule, decision, or instruction"]
     "Come up": ["To arise or occur"],
     "Come up with": ["To suggest or think of an idea or plan"],
     "Come upon": ["To find or discover by chance"],
-    "Con into": ["To trick someone into doing something"],// 1-200 done// 201 starts here
+    "Con into": ["To trick someone into doing something"],
     "Con out of": ["To deceive someone in order to take something from them"],
     "Cool off": ["To calm down or reduce in intensity"],
     "Cope with": ["To deal effectively with something difficult"],
