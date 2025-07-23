@@ -1,7 +1,7 @@
 import os
 import random
 from flask import Flask, jsonify, render_template, request, abort
-from questions_data import PREPOSITIONS_DATA, PHRASAL_VERBS_DATA, generate_all_questions
+from questions_data import PREPOSITIONS_DATA, PHRASAL_VERBS_DATA, MM_IDIOMS_DATA, MM_OWS_DATA, generate_all_questions
 
 # Initialize the Flask application
 app = Flask(__name__)
