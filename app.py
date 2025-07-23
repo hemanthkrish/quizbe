@@ -21,13 +21,13 @@ TOPICS = {
         "slab_size": 35,
         "questions": [], # Will be populated at startup
     },
-    "phrasal_verbs": {
+    "idioms_mm": {
         "display_name": "Idioms-MM",
         "data": MM_IDIOMS_DATA,
         "slab_size": 60,
         "questions": [], # Will be populated at startup
     },
-    "phrasal_verbs": {
+    "ows_mm": {
         "display_name": "Ows-MM",
         "data": MM_OWS_DATA,
         "slab_size": 60,
