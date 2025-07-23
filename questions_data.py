@@ -1961,8 +1961,10 @@ def generate_all_questions(data_source):
     """
     if not data_source:
         return []
-        
-    swapped_data = swap_key_value(data_source)
+
+    # this was removed as it was creating some issues with common answer questions
+    # swapped_data = swap_key_value(data_source)
+    swapped_data = data_source
     data_entries = list(swapped_data.items())
     all_answers = [item[1][0] for item in data_entries]
     
