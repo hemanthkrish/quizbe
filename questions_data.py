@@ -1936,9 +1936,5742 @@ PHRASAL_VERBS_DATA = {"Abide by": ["To follow a rule, decision, or instruction"]
     "Zoom in": ["To focus more closely something, to adjust a camera to make person or thing being photographed appear larger or closer"]
 }
 
+MM_IDIOMS_DATA = {
+  "A bird in the hand is worth two in the bush": [
+    "Having something certain is better than the possibility of getting something better."
+  ],
+  "A bird\"s eye view": [
+    "A general view from above."
+  ],
+  "A blessing/boon in disguise": [
+    "An apparent misfortune that eventually has good results."
+  ],
+  "A blue-eyed boy": [
+    "One who is favourite."
+  ],
+  "A bolt from the blue": [
+    "Something unexpected and unpleasant."
+  ],
+  "A bone of contention": [
+    "A cause of dispute or quarrel."
+  ],
+  "A bull in a China shop": [
+    "A clumsy person in a delicate situation."
+  ],
+  "A cakewalk": [
+    "An easy achievement or victory."
+  ],
+  "A carrot and stick approach": [
+    "Rewards and punishments that influence someone’s behaviour."
+  ],
+  "A change of heart": [
+    "A change in one’s opinion or feelings."
+  ],
+  "A close-fisted person": [
+    "A miser."
+  ],
+  "A cold fish": [
+    "Someone who seems unfriendly and who does not share his feelings."
+  ],
+  "A cut above something": [
+    "Superior to."
+  ],
+  "A damp squib": [
+    "A disappointing result or situation less impressive than expected."
+  ],
+  "A dark horse": [
+    "An unexpected winner or competitor of unknown capabilities."
+  ],
+  "A dime a dozen": [
+    "Very common and easily obtainable."
+  ],
+  "A dog’s life": [
+    "A miserable existence."
+  ],
+  "A drop in a bucket": [
+    "A very small part too insignificant to matter."
+  ],
+  "A dry run": [
+    "A rehearsal or practice session."
+  ],
+  "A fire in someone’s belly": [
+    "One who is energetic and enthusiastic about something."
+  ],
+  "A fish out of water": [
+    "A person in an unfamiliar or uncomfortable environment."
+  ],
+  "A flying visit": [
+    "A very short visit."
+  ],
+  "A fool’s paradise": [
+    "A state of happiness based on ignorance of potential trouble."
+  ],
+  "A gentleman at large": [
+    "A man without a job."
+  ],
+  "A golden mean": [
+    "Middle course between two extremes; neither too much nor too little."
+  ],
+  "A green horn": [
+    "An inexperienced man."
+  ],
+  "A grey area": [
+    "An unclear or undefined situation."
+  ],
+  "A hairbreadth escape": [
+    "A narrow escape."
+  ],
+  "A hard nut to crack": [
+    "A tough challenge or difficult person."
+  ],
+  "A hornet’s nest": [
+    "An unpleasant, difficult, or troublesome situation."
+  ],
+  "A hot potato": [
+    "A controversial or difficult issue."
+  ],
+  "A house of cards": [
+    "A fragile or unstable situation that can easily collapse."
+  ],
+  "A kick in the teeth": [
+    "A grave setback or great disappointment."
+  ],
+  "A lame excuse": [
+    "A weak or unsatisfactory explanation."
+  ],
+  "A laughing stock": [
+    "An object of ridicule or laughter."
+  ],
+  "A left handed compliment": [
+    "An ambiguous compliment that may be insulting."
+  ],
+  "A leopard can’t change its spots": [
+    "It is impossible for one to change one’s character."
+  ],
+  "A little bird told me": [
+    "To receive information from a secret source without naming it."
+  ],
+  "A live wire": [
+    "A person who is full of energy."
+  ],
+  "A lot on your plate": [
+    "Having many responsibilities or problems to deal with."
+  ],
+  "A man of letters": [
+    "A scholar; someone proficient in literary art."
+  ],
+  "A man of straw": [
+    "A man of no substance; a weak or cowardly person."
+  ],
+  "A mare’s nest": [
+    "A complicated situation or false invention."
+  ],
+  "A needle in a haystack": [
+    "Something very difficult to locate or attempt."
+  ],
+  "A pain in the neck": [
+    "Something or someone that is annoying or a nuisance."
+  ],
+  "A Penelope’s web": [
+    "An endless, never-ending job."
+  ],
+  "A penny for your thoughts": [
+    "A way of asking what someone is thinking."
+  ],
+  "A picture paints a thousand words": [
+    "An image conveying meaning more effectively than description."
+  ],
+  "A piece of cake": [
+    "A very easy task."
+  ],
+  "A plum job": [
+    "An easy, pleasant job that pays well."
+  ],
+  "A queer fish": [
+    "An eccentric or unconventional person."
+  ],
+  "A red letter day": [
+    "An important or memorable day."
+  ],
+  "A red rag to a bull": [
+    "An act certain to provoke someone."
+  ],
+  "A rolling stone gathers no moss": [
+    "A person who does not settle in one place and therefore gains no advantage."
+  ],
+  "A rotten apple": [
+    "A single bad person in a group."
+  ],
+  "A safe pair of hands": [
+    "A reliable person who can be trusted to do something efficiently."
+  ],
+  "A sea change": [
+    "A profound or notable transformation."
+  ],
+  "A shot in the arm": [
+    "Something that gives encouragement."
+  ],
+  "A skeleton in the cupboard": [
+    "An embarrassing fact or shameful secret to be kept hidden."
+  ],
+  "A square deal": [
+    "A fair and honest agreement."
+  ],
+  "A stitch in time saves nine": [
+    "Fixing a problem promptly prevents it from worsening."
+  ],
+  "A stone’s throw away": [
+    "A very short distance."
+  ],
+  "A storm in a teacup": [
+    "A big fuss or excitement about a trivial matter."
+  ],
+  "A thorn in the flesh": [
+    "A source of continual annoyance or trouble."
+  ],
+  "A turning point": [
+    "A time when an important change begins."
+  ],
+  "A wet blanket": [
+    "A person who discourages enjoyment or enthusiasm."
+  ],
+  "A wolf in sheep’s clothing": [
+    "A dangerous person pretending to be harmless."
+  ],
+  "Above board": [
+    "Honest and frank; without any secret."
+  ],
+  "Above/Over one’s head": [
+    "Beyond one’s capability to understand something."
+  ],
+  "Achilles’ heel": [
+    "A weakness or vulnerable point."
+  ],
+  "Acid test": [
+    "Definitive proof of truth or falsehood."
+  ],
+  "Actions speak louder than words": [
+    "What you do is more important than what you say; intentions judged by actions."
+  ],
+  "Add fuel to the fire/flames": [
+    "Make a bad situation worse."
+  ],
+  "Add insult to injury": [
+    "To further a loss with mockery, making a bad situation even worse."
+  ],
+  "After one’s own heart": [
+    "Having likes and dislikes similar to one’s own."
+  ],
+  "Against the clock": [
+    "Work very fast to complete something within a deadline."
+  ],
+  "Alive and kicking": [
+    "In good health."
+  ],
+  "All agog": [
+    "Amazed or full of interest and excitement."
+  ],
+  "All and sundry": [
+    "Everybody without distinction; all included."
+  ],
+  "All at sea": [
+    "Puzzled; in a state of confusion or lost."
+  ],
+  "All eyes": [
+    "Watching eagerly; to watch something intently."
+  ],
+  "All eyes and ears": [
+    "To be attentive and fully focused on something."
+  ],
+  "All moonshine": [
+    "Nonsense; far from reality or concocted."
+  ],
+  "All our might and main": [
+    "Exercising full force; with all one’s strength and energy."
+  ],
+  "All thumbs": [
+    "Clumsy; physically awkward."
+  ],
+  "Alpha and omega": [
+    "The beginning and the end; everything."
+  ],
+  "Alphabet soup": [
+    "A confusing jumble of abbreviations or acronyms."
+  ],
+  "An eye opener": [
+    "A shocking revelation."
+  ],
+  "An iron hand": [
+    "Strict and harsh control."
+  ],
+  "An iron will": [
+    "A firm opinion; strong determination."
+  ],
+  "An open book": [
+    "Someone or something with no secrets; fully transparent."
+  ],
+  "Apple of discord": [
+    "The cause of a quarrel or animosity."
+  ],
+  "Apple of one’s eye": [
+    "Someone very precious or dearly loved."
+  ],
+  "Apples and oranges": [
+    "Unequal comparisons between two unlike things."
+  ],
+  "Argus-eyed": [
+    "Carefully observant and attentive; vigilant."
+  ],
+  "Armed to the teeth": [
+    "Heavily armed or fortified."
+  ],
+  "Around the corner": [
+    "Happening very soon; occurring shortly."
+  ],
+  "As daft as a brush": [
+    "Extremely silly or foolish."
+  ],
+  "As fit as a fiddle": [
+    "Strong, healthy, in top condition."
+  ],
+  "As hard as a nail": [
+    "Emotionless or unrelenting; having no feelings."
+  ],
+  "As the crow flies": [
+    "By the shortest, direct route in a straight line."
+  ],
+  "At a crossroads": [
+    "A point in life where decisions will have long-term consequences."
+  ],
+  "At a snail’s pace": [
+    "Doing something very slowly."
+  ],
+  "At beck and call": [
+    "Always available to help; at one’s disposal."
+  ],
+  "At cross purposes": [
+    "Having opposing viewpoints or intentions; misunderstanding each other."
+  ],
+  "At daggers drawn": [
+    "To be bitterly hostile or open enemies."
+  ],
+  "At large": [
+    "A criminal who has escaped or is not yet captured."
+  ],
+  "At loggerheads": [
+    "In conflict with someone; to disagree strongly."
+  ],
+  "At loose ends": [
+    "In an uncertain or unsettled situation."
+  ],
+  "At one’s wits’ end": [
+    "Completely confused or perplexed."
+  ],
+  "At sixes and sevens": [
+    "In disorder or confusion."
+  ],
+  "At the drop of a hat/dime": [
+    "Without any hesitation; instantly or without planning."
+  ],
+  "At the eleventh hour": [
+    "At the very last moment; just before the deadline."
+  ],
+  "Back out of": [
+    "Withdraw from a commitment."
+  ],
+  "Back to square one": [
+    "Return to the starting point; having to start all over again."
+  ],
+  "Back to the drawing board": [
+    "An idea has failed and must be redesigned."
+  ],
+  "Back up": [
+    "Defend or support."
+  ],
+  "Backseat driver": [
+    "Interfering in affairs without authority; someone who offers unsolicited advice."
+  ],
+  "Bad blood": [
+    "Angry feeling or enmity between people."
+  ],
+  "Bag and baggage": [
+    "With all one’s belongings; with full luggage."
+  ],
+  "Baker’s dozen": [
+    "A group of 13 items; one more than a usual dozen."
+  ],
+  "Ball is in your court": [
+    "It is up to you to make the next decision or be responsible for further action."
+  ],
+  "Barking up the wrong tree": [
+    "Trying to do something in a way that will not work or accusing the wrong person."
+  ],
+  "Be all ears": [
+    "Listening intently; eager to hear."
+  ],
+  "Be behind the times": [
+    "Outdated or old-fashioned."
+  ],
+  "Be glad to see the back of": [
+    "Feel happy when someone or something leaves."
+  ],
+  "Be going places": [
+    "To be talented and likely to succeed."
+  ],
+  "Be hard up": [
+    "To be very short of money."
+  ],
+  "Be in the red": [
+    "To be in debt or losing money."
+  ],
+  "Be in two minds": [
+    "Unable to decide; holding conflicting opinions."
+  ],
+  "Be like chalk and cheese": [
+    "To be completely different from each other."
+  ],
+  "Be out for the count": [
+    "To be unconscious or in deep sleep."
+  ],
+  "Be out of order": [
+    "An object or device not working properly."
+  ],
+  "Be under somebody’s thumb": [
+    "To be completely controlled or dominated by someone."
+  ],
+  "Be wet behind the ears": [
+    "To be inexperienced or naive."
+  ],
+  "Bear a grudge": [
+    "To hold resentment or feel anger against someone for a past incident."
+  ],
+  "Bear fruit": [
+    "To yield positive results."
+  ],
+  "Bear the brunt of": [
+    "To suffer the worst of something; to endure the maximum impact."
+  ],
+  "Bear the palm": [
+    "Win or be declared the victor."
+  ],
+  "Bear up with": [
+    "Endure a difficult situation; be strong enough to continue."
+  ],
+  "Beat about/around the bush": [
+    "Speak vaguely or avoid the main topic."
+  ],
+  "Bed of roses": [
+    "A comfortable, pleasant situation or life."
+  ],
+  "Behind closed doors": [
+    "Do something secretly."
+  ],
+  "Behind one’s back": [
+    "In someone’s absence; without their knowledge."
+  ],
+  "Behind the eight ball": [
+    "In a difficult or disadvantaged position."
+  ],
+  "Behind the scenes": [
+    "Secretly or out of public view."
+  ],
+  "Bell the cat": [
+    "Do the impossible or most dangerous job."
+  ],
+  "Below the belt": [
+    "A cruel or unfair action."
+  ],
+  "Bend over backwards": [
+    "Try very hard to accommodate or please someone."
+  ],
+  "Beside oneself": [
+    "Almost out of one’s senses with emotion."
+  ],
+  "Beside the mark": [
+    "Irrelevant or not applicable."
+  ],
+  "Best of both worlds": [
+    "A situation offering two different advantages simultaneously."
+  ],
+  "Best thing since sliced bread": [
+    "A truly remarkable innovation or idea."
+  ],
+  "Better late than never": [
+    "It is better to arrive late than not to come at all."
+  ],
+  "Between a rock and a hard place": [
+    "Stuck between two very bad options."
+  ],
+  "Between Scylla and Charybdis": [
+    "Choice between two equally unpleasant alternatives."
+  ],
+  "Between the devil and the deep blue sea": [
+    "Stuck between two very bad options."
+  ],
+  "Beyond the pale": [
+    "Unacceptable or unreasonable."
+  ],
+  "Bid defiance": [
+    "To offer resistance; disregard recklessly."
+  ],
+  "Birds of the same feather": [
+    "Two people of the same character or interests."
+  ],
+  "Bite off more than one can chew": [
+    "Take on more responsibility than one can handle."
+  ],
+  "Bite someone’s head off": [
+    "Speak angrily without any reason."
+  ],
+  "Bite the bullet": [
+    "To force yourself to do something unpleasant because inevitable."
+  ],
+  "Bite the dust": [
+    "Suffer a defeat; die."
+  ],
+  "Bite your tongue": [
+    "Stop yourself from saying something."
+  ],
+  "Black and blue": [
+    "Describe someone badly bruised or to beat mercilessly."
+  ],
+  "Black sheep": [
+    "A single bad person in a group because of bad conduct."
+  ],
+  "Blaze a trail": [
+    "Lead the way as a pioneer; initiate something new."
+  ],
+  "Blow one’s own trumpet": [
+    "Praise oneself; talk boastfully about one’s achievements."
+  ],
+  "Blue-blooded": [
+    "Of noble birth."
+  ],
+  "Body and soul": [
+    "With all your energy."
+  ],
+  "Boil the ocean": [
+    "Undertaking an impossible chore or task."
+  ],
+  "Bone to pick": [
+    "Cause of quarrel; to be angry about something and want to discuss it."
+  ],
+  "Born with a silver spoon in one’s mouth": [
+    "To be born into a wealthy, privileged family."
+  ],
+  "Bread and butter": [
+    "The means of livelihood; main source of income."
+  ],
+  "Break a leg": [
+    "To wish someone good luck or to perform well."
+  ],
+  "Break in": [
+    "To force entry into a building illegally."
+  ],
+  "Break new/fresh ground": [
+    "To innovate; to do or discover something new."
+  ],
+  "Break the bank": [
+    "To be very expensive or to win more money than is held by the bank."
+  ],
+  "Break the ice": [
+    "To initiate a conversation or to break a painful silence and make someone comfortable."
+  ],
+  "Breathing down someone’s neck": [
+    "Watching all someone’s actions closely; monitoring them."
+  ],
+  "Bring about": [
+    "Cause to happen."
+  ],
+  "Bring home the bacon": [
+    "To be successful; to earn a living."
+  ],
+  "Bring someone to book": [
+    "To punish someone for wrongdoing or hold them accountable."
+  ],
+  "Bring the house down": [
+    "To make an audience applaud enthusiastically."
+  ],
+  "Broke down": [
+    "Wept bitterly; cried."
+  ],
+  "Broken reed": [
+    "A weak person; support that failed."
+  ],
+  "Build castles in the air": [
+    "To have unrealistic ideas or dreams."
+  ],
+  "Bull’s-eye": [
+    "The centre of a target; a perfect hit."
+  ],
+  "Burn one’s bridges/boats": [
+    "To destroy all relations or make return impossible."
+  ],
+  "Burn the midnight oil": [
+    "To work or study very late at night."
+  ],
+  "Burning question": [
+    "An important, pressing question or issue."
+  ],
+  "Bury the hatchet": [
+    "To make peace; end a quarrel."
+  ],
+  "Butterflies in the stomach": [
+    "To be anxious and nervous."
+  ],
+  "By and by": [
+    "Gradually; after a while."
+  ],
+  "By and large": [
+    "In general; on the whole."
+  ],
+  "By courtesy of": [
+    "Given or allowed by; with kindly consideration."
+  ],
+  "By fair means or foul": [
+    "In any way, by honest or dishonest methods."
+  ],
+  "By fits and starts": [
+    "Unsteadily; irregularly."
+  ],
+  "By hook or by crook": [
+    "By any means, good or bad; using whatever methods."
+  ],
+  "By leaps and bounds": [
+    "Very quickly; rapidly; swiftly."
+  ],
+  "By the skin of one’s teeth": [
+    "By the narrowest margin; barely manage to achieve something."
+  ],
+  "Call in question": [
+    "To challenge; dispute something."
+  ],
+  "Call it a day": [
+    "To decide to stop doing something and go home."
+  ],
+  "Call on": [
+    "To pay a visit."
+  ],
+  "Call the shots": [
+    "To be in control; to make decisions."
+  ],
+  "Called for": [
+    "To require something; to demand."
+  ],
+  "Can’t cut the mustard": [
+    "To be unable to do a job; not measure up."
+  ],
+  "Carry out": [
+    "To execute or complete something."
+  ],
+  "Carry the day": [
+    "To win a victory; emerge as the winner."
+  ],
+  "Cat nap": [
+    "To have disturbed sleep; a brief sleep."
+  ],
+  "Catch 22": [
+    "A particular situation in which one cannot do anything."
+  ],
+  "Catch a tartar": [
+    "To catch someone unexpectedly powerful or troublesome."
+  ],
+  "Catch red-handed": [
+    "To catch someone doing something illegal; in the act of committing a crime."
+  ],
+  "Change hands": [
+    "Pass from one person to another; change of ownership."
+  ],
+  "Chapter and verse": [
+    "To give exact information or minute details."
+  ],
+  "Charley horse": [
+    "A cramp in a muscle."
+  ],
+  "Cheek by jowl": [
+    "Very close together."
+  ],
+  "Chew the cud": [
+    "To think slowly and carefully about something."
+  ],
+  "Chew the fat": [
+    "Gossip and make small talk; have friendly talks."
+  ],
+  "Chew the scenery": [
+    "To act over-dramatically."
+  ],
+  "Chicken out": [
+    "To decide not to do something because you are too frightened; withdraw."
+  ],
+  "Chicken-hearted": [
+    "Cowardly; easily frightened."
+  ],
+  "Child’s play": [
+    "Something very easy to do; a very easy task."
+  ],
+  "Chill out": [
+    "To calm down."
+  ],
+  "Chinks in the armour": [
+    "Small flaws or weaknesses."
+  ],
+  "Chip off the old block": [
+    "Resembling one’s father in character or behaviour."
+  ],
+  "Cloak and dagger": [
+    "An activity involving secrecy and mystery."
+  ],
+  "Close shave": [
+    "A narrow escape from danger or disaster."
+  ],
+  "Cock and bull story": [
+    "An unbelievable or absurd story."
+  ],
+  "Cold comfort": [
+    "Slight satisfaction; little consolation."
+  ],
+  "Come hell or high water": [
+    "In spite of any obstacles; no matter what."
+  ],
+  "Come in handy": [
+    "To turn out to be useful."
+  ],
+  "Come of age": [
+    "To mature and develop fully."
+  ],
+  "Come rain or shine": [
+    "Under any circumstances; whatever the weather."
+  ],
+  "Come to blows": [
+    "To get into a physical fight."
+  ],
+  "Come to light": [
+    "To be revealed; become known publicly."
+  ],
+  "Come what may": [
+    "No matter what happens."
+  ],
+  "Cook the books": [
+    "To falsify financial records; dishonest accounting."
+  ],
+  "Cool as a cucumber": [
+    "Not nervous or emotional; calm and composed."
+  ],
+  "Cool your heels": [
+    "To be kept waiting; unwillingly wait for something or someone."
+  ],
+  "Cost an arm and a leg": [
+    "To be very expensive; a large amount of money."
+  ],
+  "Couch potato": [
+    "A person who watches too much television; a lazy person."
+  ],
+  "Crack someone up": [
+    "Laugh out loud; to make someone laugh."
+  ],
+  "Cross one’s mind": [
+    "To think of something; to be thought of by one."
+  ],
+  "Cross swords": [
+    "To disagree; to fight."
+  ],
+  "Cross that bridge when you come to it": [
+    "To deal with a problem only when it arises."
+  ],
+  "Cross your fingers": [
+    "To hope that things will happen the way you want them to; to wish for good luck or success."
+  ],
+  "Crux of the matter": [
+    "The most important or critical point."
+  ],
+  "Cry for the moon": [
+    "To make an impractical, unreasonable request; to aspire to the impossible."
+  ],
+  "Cry in the wilderness": [
+    "An unrealistic demand; an unheeded warning."
+  ],
+  "Cry over spilt milk": [
+    "To complain about a loss from the past; feeling sorry over a mistake that cannot be changed."
+  ],
+  "Cup of tea": [
+    "One’s chosen or preferred thing; something that pleases one."
+  ],
+  "Currying favour with": [
+    "Behaving obsequiously to ingratiate oneself with someone."
+  ],
+  "Cut and dried": [
+    "Ready made; already decided."
+  ],
+  "Cuts corners": [
+    "To save money, time, or effort by omitting necessary parts."
+  ],
+  "Cut no ice with me": [
+    "Had no influence on me."
+  ],
+  "Cut one short": [
+    "To interrupt someone."
+  ],
+  "Cut someone some slack": [
+    "Not to criticize too strictly; to be more lenient."
+  ],
+  "Cut the Gordian knot": [
+    "Solve a complex problem by a bold stroke; remove the difficulty."
+  ],
+  "Cut the mustard": [
+    "To perform well; to succeed."
+  ],
+  "Cut to the chase": [
+    "To come to the point; get to the important matters."
+  ],
+  "Cut to the quick": [
+    "Hurt intensely; deeply offend."
+  ],
+  "Dance to someone’s tune": [
+    "Do what others want you to do."
+  ],
+  "Dead ringer": [
+    "An exact duplicate."
+  ],
+  "Desperate times call for desperate measures": [
+    "When you are extremely desperate you need extremely drastic actions."
+  ],
+  "Died in harness": [
+    "Worked or served until death."
+  ],
+  "Do a good turn": [
+    "Render a service; help someone."
+  ],
+  "Don’t (or never) judge a book by its cover": [
+    "We should not judge something by its outward appearance."
+  ],
+  "Done for": [
+    "Ruined; beyond help."
+  ],
+  "Donkey’s years": [
+    "A very long time."
+  ],
+  "Don’t count your chickens before they hatch": [
+    "Don’t make plans based on events that have not yet happened."
+  ],
+  "Don’t put all your eggs in one basket": [
+    "Don’t rely on just one plan or resource."
+  ],
+  "Dot one’s i’s and cross one’s t’s": [
+    "Be detailed and exact; pay attention to every minor point."
+  ],
+  "Down in the dumps": [
+    "Sad and depressed."
+  ],
+  "Down the drain": [
+    "Wasted or lost."
+  ],
+  "Down to earth": [
+    "Practical and sensible."
+  ],
+  "Drag one’s feet": [
+    "To be reluctant to act; do something deliberately at a slow pace."
+  ],
+  "Draw a blank": [
+    "Fail to find or obtain anything; come up with nothing."
+  ],
+  "Draw a line": [
+    "To fix a limit; accept something only up to a certain point."
+  ],
+  "Drew on his fancy": [
+    "To use one’s imagination; draw upon creative powers."
+  ],
+  "Drive home": [
+    "To emphasize or make something clearly understood."
+  ],
+  "Drive someone up the wall": [
+    "To make someone very irritated or angry."
+  ],
+  "Drop names": [
+    "To name‐drop; hint at high connections by mentioning famous people."
+  ],
+  "Dropping like flies": [
+    "Collapsing in large numbers; a great many people or things falling ill or dying."
+  ],
+  "Eagle eye": [
+    "An eye with sharp visual power; a careful or close watcher."
+  ],
+  "Easier said than done": [
+    "More easily talked about than actually accomplished."
+  ],
+  "Eat anyone’s salt": [
+    "To be one’s guest; enjoy someone’s hospitality."
+  ],
+  "Eats like a horse": [
+    "To eat a lot of food."
+  ],
+  "Egg on": [
+    "To encourage or provoke someone."
+  ],
+  "Elbow grease": [
+    "A lot of physical effort; hard manual work."
+  ],
+  "Elbow room": [
+    "Freedom to act; enough space to move or operate."
+  ],
+  "Ended in a fiasco": [
+    "A complete failure."
+  ],
+  "Every cloud has a silver lining": [
+    "Every unpleasant situation has a positive side."
+  ],
+  "Every dog has his day": [
+    "Everyone enjoys success or good luck at some point."
+  ],
+  "Eye wash": [
+    "A deception or pretence."
+  ],
+  "Face the music": [
+    "To accept punishment for a mistake; bear the consequences."
+  ],
+  "Fair weather friends": [
+    "Friends who are supportive in good times only; convenient allies."
+  ],
+  "Fall back on": [
+    "To resort to something; seek support out of necessity."
+  ],
+  "Fall flat": [
+    "To fail to produce the intended effect; have no impact."
+  ],
+  "Fallout": [
+    "To quarrel; stop being friendly after an argument."
+  ],
+  "Far cry from": [
+    "To be very different from; nothing like."
+  ],
+  "Feather in one’s cap": [
+    "An accomplishment to be proud of."
+  ],
+  "Feather one’s own nest": [
+    "To enrich oneself improperly; profit by dishonest means."
+  ],
+  "Fed up": [
+    "Annoyed; irritated."
+  ],
+  "Feel the pinch": [
+    "Have financial problems all of a sudden."
+  ],
+  "Few and far between": [
+    "Rare or seldom seen; not frequent or usual."
+  ],
+  "Fight shy of": [
+    "To avoid encountering."
+  ],
+  "Finding their feet": [
+    "Beginning to understand the work and feeling confident."
+  ],
+  "First and foremost": [
+    "Highest priority; the most important aspect."
+  ],
+  "Flash in the pan": [
+    "Something whose success is short-lived and unlikely to be repeated."
+  ],
+  "Flying off the handle": [
+    "To lose one’s temper suddenly; become enraged."
+  ],
+  "Follow suit": [
+    "To imitate what others have done."
+  ],
+  "Foot the bill": [
+    "To pay for something; pay the cost."
+  ],
+  "Forty winks": [
+    "A short nap or sleep during the day."
+  ],
+  "Fought to the bitter end": [
+    "Carried on regardless of the consequences."
+  ],
+  "From rags to riches": [
+    "To go from very poor to very wealthy."
+  ],
+  "From the bottom of my heart": [
+    "Sincerely; with genuine feeling."
+  ],
+  "Full of beans": [
+    "Lively and energetic; full of energy."
+  ],
+  "Full of hot air": [
+    "Merely loud and angry words but ineffectual."
+  ],
+  "Gall and wormwood": [
+    "To feel hatred or bitterness; something extremely unpleasant."
+  ],
+  "Gave the game away": [
+    "To leak or reveal a secret unintentionally."
+  ],
+  "Gave vent to something": [
+    "To express something forcefully; to let feelings out."
+  ],
+  "Get a foot in the door": [
+    "To gain an initial advantage or entry into a position."
+  ],
+  "Get a second wind": [
+    "To have a burst of renewed energy after fatigue."
+  ],
+  "Get a taste of your own medicine": [
+    "To be given the same (bad) treatment that you have given to others."
+  ],
+  "Get down to brass tacks": [
+    "To start discussing only the important facts of a situation."
+  ],
+  "Get into hot water": [
+    "To get into trouble; to be in a difficult situation in which you can be criticised."
+  ],
+  "Get on like a house on fire": [
+    "To become friends very quickly."
+  ],
+  "Get on somebody’s nerves": [
+    "To irritate or annoy someone."
+  ],
+  "Get out of hand": [
+    "To become uncontrollable; to get out of control."
+  ],
+  "Get someone’s goat": [
+    "To irritate someone."
+  ],
+  "Get something off one’s chest": [
+    "To express something that has been worrying you; get it out in the open."
+  ],
+  "Get the axe": [
+    "To lose one’s job; be fired."
+  ],
+  "Get the hang of": [
+    "To learn how to use; to grasp the main idea."
+  ],
+  "Get the sack": [
+    "To be dismissed; lose one’s job."
+  ],
+  "Get up on the wrong side of the bed": [
+    "To wake up in a bad mood that persists all day."
+  ],
+  "Get wind of something": [
+    "To hear about something; come to know."
+  ],
+  "Get your act together": [
+    "To organize your work in a better way; get oneself under control."
+  ],
+  "Getting a new lease of life": [
+    "A chance to continue living or to become successful or popular again; regain energy."
+  ],
+  "Gift of the gab": [
+    "Ability to speak eloquently and persuasively; a talent for talking."
+  ],
+  "Give a free hand": [
+    "To exercise complete control over something; have full freedom of action."
+  ],
+  "Give a piece of one’s mind": [
+    "To rebuke someone sharply; scold."
+  ],
+  "Give a wide berth to": [
+    "To stay well away from; avoid."
+  ],
+  "Give and take": [
+    "Adjustment; mutual concessions."
+  ],
+  "Give in": [
+    "To yield or surrender."
+  ],
+  "Give it a shot/whirl": [
+    "To try out something; have a go."
+  ],
+  "Give me a hand with": [
+    "To assist; help someone."
+  ],
+  "Give oneself airs": [
+    "To pretend to be superior; act haughty."
+  ],
+  "Give someone the cold shoulder": [
+    "To ignore someone deliberately; be unfriendly."
+  ],
+  "Give someone the slip": [
+    "To escape from someone; elude."
+  ],
+  "Give the benefit of the doubt": [
+    "To accept someone as innocent until proven guilty."
+  ],
+  "Give up the ghost": [
+    "To collapse or die; to cease functioning."
+  ],
+  "Go against the grain": [
+    "To act in a way contrary to one’s natural inclination or values."
+  ],
+  "Go belly up": [
+    "To go bankrupt; fail completely."
+  ],
+  "Go cold turkey": [
+    "To quit an addictive habit abruptly and completely."
+  ],
+  "Go down in flames": [
+    "To fail completely; fail miserably."
+  ],
+  "Go down like a lead balloon": [
+    "To be received badly by an audience."
+  ],
+  "Go for a song": [
+    "To be sold cheaply."
+  ],
+  "Go for the jugular": [
+    "To attack in the most aggressive way; go all out."
+  ],
+  "Go-getter": [
+    "A real achiever; an ambitious, energetic person."
+  ],
+  "Go the extra mile": [
+    "To exceed expectations; make an extra effort."
+  ],
+  "Go through fire and water": [
+    "To experience many dangers in order to achieve something."
+  ],
+  "Go through the roof": [
+    "To rise very high."
+  ],
+  "Go to rack and ruin": [
+    "To be ruined or deteriorate shockingly."
+  ],
+  "Go to the dogs": [
+    "To be ruined or fall into a very poor state."
+  ],
+  "Go to the wall": [
+    "To be ruined; to fail completely."
+  ],
+  "Go/start with a bang": [
+    "To begin in a very exciting and successful way."
+  ],
+  "God’s ape": [
+    "A born fool."
+  ],
+  "Got the green light": [
+    "To receive permission to go ahead with something."
+  ],
+  "Grasp at straws": [
+    "To make a desperate attempt to succeed when nothing else will work."
+  ],
+  "Grease the palm": [
+    "To bribe someone discreetly."
+  ],
+  "Great minds think alike": [
+    "Said when two people make the same choice or have the same idea."
+  ],
+  "Green thumb": [
+    "A person with a natural talent for gardening."
+  ],
+  "Green-eyed": [
+    "Full of envy; jealous."
+  ],
+  "Grist to the mill": [
+    "Something which provides useful advantage; turns to one’s benefit."
+  ],
+  "Halcyon days": [
+    "A time of peace and happiness; idyllic prosperity."
+  ],
+  "Hale and hearty": [
+    "Strong and healthy."
+  ],
+  "Hand in glove": [
+    "In a very close association or partnership; working together intimately."
+  ],
+  "Hand over fist": [
+    "Quickly and continuously (often of earning or losing money)."
+  ],
+  "Hang in there": [
+    "Don’t give up; persist in a difficult situation."
+  ],
+  "Hang up one’s boots": [
+    "To retire from a sport or profession; stop doing it."
+  ],
+  "Hanging by a thread": [
+    "To be in a dangerous or precarious situation."
+  ],
+  "Hard and fast": [
+    "That cannot be altered; strict and fixed."
+  ],
+  "Hard of hearing": [
+    "Partially deaf; having difficulty hearing."
+  ],
+  "Haste makes waste": [
+    "Doing things in a hurry results in poor outcomes."
+  ],
+  "Haul over the coals": [
+    "To scold someone severely for an error."
+  ],
+  "Have a bee in her bonnet": [
+    "To talk and think a lot; to be obsessed with something."
+  ],
+  "Have a chip on one’s shoulder": [
+    "To be upset about something in the past; to harbor a grudge."
+  ],
+  "Have a finger in every pie": [
+    "To be involved in many varied activities or enterprises."
+  ],
+  "Have a whale of a time": [
+    "To have an exceptionally fun or exciting experience."
+  ],
+  "Have an axe to grind": [
+    "To have a private interest or ulterior motive."
+  ],
+  "Have bigger fish to fry": [
+    "To have more important work to attend to."
+  ],
+  "Have green fingers": [
+    "To be naturally gifted at gardening."
+  ],
+  "Have one’s hands full": [
+    "To be very busy; have too much to do."
+  ],
+  "Have one’s heart in one’s mouth": [
+    "To be extremely frightened and nervous."
+  ],
+  "Have your back to/against the wall": [
+    "To be in a desperate situation with very few options."
+  ],
+  "Head in the clouds": [
+    "Daydreaming; being absent-minded."
+  ],
+  "Head over heels": [
+    "Madly in love; completely enamored."
+  ],
+  "Heads will roll": [
+    "Those responsible will be punished or dismissed."
+  ],
+  "Heart and soul": [
+    "Completely; with all the effort you can put in."
+  ],
+  "Heart to heart talk": [
+    "Frank, candid discussion."
+  ],
+  "Helter-skelter": [
+    "In disorderly haste; here and there."
+  ],
+  "Herculean task": [
+    "A very difficult, demanding task."
+  ],
+  "High and dry": [
+    "Neglected; abandoned in a difficult situation."
+  ],
+  "High and mighty": [
+    "Arrogant; puffed up with pride."
+  ],
+  "High time": [
+    "Past the appropriate or proper time; overdue."
+  ],
+  "Hit a bad patch": [
+    "To experience difficulty; go through a rough period."
+  ],
+  "Hit a brick wall": [
+    "To be unable to make any progress; encounter an obstacle."
+  ],
+  "Hit the books": [
+    "To study very hard."
+  ],
+  "Hit the ceiling/roof": [
+    "To explode in anger; lose one’s temper."
+  ],
+  "Hit the jackpot": [
+    "To make money quickly; to find exactly what was sought."
+  ],
+  "Hold one’s tongue": [
+    "To be silent; to keep quiet."
+  ],
+  "Hold out an olive branch": [
+    "To make a peace offering; to show a desire to end a disagreement."
+  ],
+  "Hold the fort": [
+    "To take temporary responsibility for a situation."
+  ],
+  "Hold water": [
+    "To appear acceptable or reasonable; remain valid."
+  ],
+  "Hold your horses": [
+    "To be patient; to wait."
+  ],
+  "Hope against hope": [
+    "To nurture an impossible hope; expect success despite little chance."
+  ],
+  "Hue and cry": [
+    "A noisy expression of protest or anger; loud clamour."
+  ],
+  "I can’t think straight": [
+    "To feel unable to think rationally due to overwhelming emotion."
+  ],
+  "I don’t buy it": [
+    "I am not convinced; I doubt its truth."
+  ],
+  "Icing on the cake": [
+    "Something that makes a good situation even better."
+  ],
+  "Ignorance is bliss": [
+    "To remain unaware of things that could cause stress; sometimes it’s better not to know."
+  ],
+  "Ill at ease": [
+    "To feel uncomfortable or worried in a situation."
+  ],
+  "In a jiffy": [
+    "Very quickly; in a moment or two."
+  ],
+  "In a nutshell": [
+    "Briefly and concisely; in a few words."
+  ],
+  "In a pickle": [
+    "Experiencing a difficult situation; in trouble."
+  ],
+  "In a tight corner/spot": [
+    "In a difficult or awkward situation."
+  ],
+  "In apple-pie order": [
+    "In perfect order; neatly arranged."
+  ],
+  "In black and white": [
+    "In writing; printed or recorded."
+  ],
+  "In cold blood": [
+    "Angrily or cruelly, without any emotions; deliberately."
+  ],
+  "In deep water": [
+    "In great difficulty; in trouble."
+  ],
+  "In dire straits": [
+    "In a very bad or difficult situation."
+  ],
+  "In full swing": [
+    "Very active; at the height of activity."
+  ],
+  "In high/good spirits": [
+    "Full of hope and enthusiasm; joyful; cheerful."
+  ],
+  "In seventh heaven": [
+    "Extremely happy; in delight."
+  ],
+  "In the air": [
+    "When an emotion or idea is on everyone’s mind; prevalent."
+  ],
+  "In the blink of an eye": [
+    "Within a very short period of time; almost instantly."
+  ],
+  "In the blues": [
+    "Cheerless and depressed; low-spirited."
+  ],
+  "In the dark": [
+    "To not know something others are aware of."
+  ],
+  "In the doldrums": [
+    "In low spirits and despair."
+  ],
+  "In the driver's seat": [
+    "In charge or in control of a situation."
+  ],
+  "In the eye of a storm": [
+    "In the middle of a difficult situation."
+  ],
+  "In the fast lane": [
+    "A life filled with great excitement."
+  ],
+  "In the good books": [
+    "In favour with someone."
+  ],
+  "In the heat of the moment": [
+    "Acting impulsively under strong emotions."
+  ],
+  "In the long run": [
+    "Eventually after a significant time."
+  ],
+  "In the nick of time": [
+    "At the very last possible moment."
+  ],
+  "In the pink": [
+    "In good health."
+  ],
+  "In the same boat": [
+    "Facing the same difficult situation."
+  ],
+  "In the soup": [
+    "In trouble or difficulty."
+  ],
+  "In the teeth of": [
+    "In spite of opposition or difficulty."
+  ],
+  "In vogue": [
+    "Popular or in fashion."
+  ],
+  "Ins and outs": [
+    "Full details or complexities of something."
+  ],
+  "It’s Greek to me": [
+    "I cannot understand it at all."
+  ],
+  "It’s Raining Cats and Dogs": [
+    "It’s raining very heavily."
+  ],
+  "Ivory towers": [
+    "Detachment and seclusion from practical affairs."
+  ],
+  "Jump the gun": [
+    "Start something too soon or prematurely."
+  ],
+  "Keep a straight face": [
+    "To maintain a serious expression despite wanting to laugh."
+  ],
+  "Keep an ear to the ground": [
+    "Stay informed about developments."
+  ],
+  "Keep at arm’s length": [
+    "Maintain a safe or distant relationship."
+  ],
+  "Keep in touch": [
+    "Continue to communicate with someone."
+  ],
+  "Keep one’s head": [
+    "Remain calm and composed in difficult situations."
+  ],
+  "Keep under one’s hat": [
+    "Keep something secret or confidential."
+  ],
+  "Keep up appearances": [
+    "To pretend to be happier or richer so as to conceal the real situation."
+  ],
+  "Keep your chin up": [
+    "To remain cheerful and hopeful in difficult circumstances."
+  ],
+  "Keep/hold something at bay": [
+    "To control something and prevent it from causing you problems or moving closer."
+  ],
+  "Kick the bucket": [
+    "To die."
+  ],
+  "Kicked up a row": [
+    "To make a great fuss or cause a disturbance."
+  ],
+  "Kill two birds with one stone": [
+    "To achieve two results with a single effort."
+  ],
+  "Kith and kin": [
+    "One’s blood relatives or family members."
+  ],
+  "Know something inside out": [
+    "To know everything about something thoroughly."
+  ],
+  "Latin and Greek": [
+    "Unable to understand."
+  ],
+  "Lay out": [
+    "Spend."
+  ],
+  "Lead someone by the nose": [
+    "To completely control or dominate someone."
+  ],
+  "Learn by heart": [
+    "To memorize something."
+  ],
+  "Learn/Know the ropes": [
+    "To learn how to do a job or task properly."
+  ],
+  "Leave no stone unturned": [
+    "To try every possible course of action in order to achieve something."
+  ],
+  "Leaves you in the lurch": [
+    "To desert someone in difficulties."
+  ],
+  "Left out in cold": [
+    "To be ignored."
+  ],
+  "Lend me your ear": [
+    "Pay attention to me."
+  ],
+  "Lend someone a hand": [
+    "To help or assist, especially voluntarily."
+  ],
+  "Let bygones be bygones": [
+    "To forgive and forget past conflicts."
+  ],
+  "Let sleeping dogs lie": [
+    "To avoid old controversies and let things remain undisturbed."
+  ],
+  "Let the cat out of the bag": [
+    "To reveal a secret carelessly or by mistake."
+  ],
+  "Let the chips fall where they may": [
+    "To accept whatever happens without worrying about the consequences."
+  ],
+  "Let the grass grow under one’s feet": [
+    "To remain idle and do nothing."
+  ],
+  "Let your hair down": [
+    "To behave freely and uninhibitedly / to relax and enjoy."
+  ],
+  "Level playing field": [
+    "A situation where everyone has a fair and equal chance to succeed."
+  ],
+  "Light at the end of the tunnel": [
+    "Signs of improvement in a difficult situation."
+  ],
+  "Like a shag on a rock": [
+    "Completely alone."
+  ],
+  "Like two peas in a pod": [
+    "Things that are very similar in appearance or always together."
+  ],
+  "Lily-livered": [
+    "Not brave or cowardly."
+  ],
+  "Lion’s mouth": [
+    "A difficult or dangerous situation."
+  ],
+  "Live from hand to mouth": [
+    "To survive with just enough money, without saving anything extra."
+  ],
+  "Lock, stock and barrel": [
+    "Completely; including all or every part of something."
+  ],
+  "Look before you leap": [
+    "Think carefully about the consequences before acting."
+  ],
+  "Look down your nose at": [
+    "Regard with contempt or consider someone inferior."
+  ],
+  "Loosen the purse strings": [
+    "To increase the money available for expenditure."
+  ],
+  "Lose face": [
+    "To become embarrassed or lose respect."
+  ],
+  "Lose one’s head": [
+    "To panic or lose self-control."
+  ],
+  "Lose your marbles": [
+    "To become mentally confused or insane."
+  ],
+  "Made a clean breast of": [
+    "To admit or confess something fully."
+  ],
+  "Made light of": [
+    "To treat something lightly or with little importance."
+  ],
+  "Maiden speech": [
+    "The first speech ever given by someone."
+  ],
+  "Make a beeline for": [
+    "To go straight to something."
+  ],
+  "Make a hash of": [
+    "To do something very badly or make a mess of it."
+  ],
+  "Make a quick buck": [
+    "To earn money quickly and easily."
+  ],
+  "Make head or tail of something": [
+    "To understand or figure something out."
+  ],
+  "Make no bones about": [
+    "To state something clearly and without hesitation."
+  ],
+  "Make one’s blood boil": [
+    "To become extremely angry."
+  ],
+  "Make one’s mark": [
+    "To distinguish oneself or attain recognition."
+  ],
+  "Make up with (someone)": [
+    "To settle differences and become friendly again."
+  ],
+  "Making hay while the sun shines": [
+    "To take advantage of a favorable opportunity."
+  ],
+  "Mealy mouthed": [
+    "To be afraid to state something directly or to speak insincerely."
+  ],
+  "Method to my madness": [
+    "A reason or purpose behind apparently crazy or random actions."
+  ],
+  "Milk and water": [
+    "Weak ideas or statements."
+  ],
+  "Much ado about nothing": [
+    "Making a big fuss over a small matter."
+  ],
+  "Neck of the woods": [
+    "Neighbourhood or region."
+  ],
+  "New kid on the block": [
+    "Someone new to a place or activity."
+  ],
+  "Nine days’ wonder": [
+    "A short-lived sensation."
+  ],
+  "Nip in the bud": [
+    "To stop something at the start before it develops."
+  ],
+  "No love lost between": [
+    "There is intense dislike or people are not on good terms."
+  ],
+  "Not fit to hold a candle": [
+    "Inferior to or cannot be compared to another."
+  ],
+  "Not hold water": [
+    "To not seem reasonable or believable."
+  ],
+  "Not mince words": [
+    "To be blunt or frank."
+  ],
+  "Not to look a gift horse in the mouth": [
+    "To not find fault with what is received as a gift."
+  ],
+  "Off and on / On and Off": [
+    "Occasionally or periodically."
+  ],
+  "It’s a small world": [
+    "People often meet unexpectedly or have common acquaintances."
+  ],
+  "Lock horns": [
+    "To get into an argument or fight."
+  ],
+  "Make one's flesh crawl/creep": [
+    "To be very frightened or disgusted."
+  ],
+  "Mouth watering": [
+    "Appealing to taste; looks or smells delicious."
+  ],
+  "Move heaven and earth": [
+    "Do everything possible to achieve something."
+  ],
+  "Not one’s cup of tea": [
+    "Not something one likes or enjoys."
+  ],
+  "Null and void": [
+    "Invalid; without legal force."
+  ],
+  "Of the first water": [
+    "Of the best quality."
+  ],
+  "Off the hook": [
+    "No longer in difficulty or trouble."
+  ],
+  "On a roll": [
+    "To be experiencing a period of repeated success."
+  ],
+  "On cloud nine": [
+    "Extremely happy and excited."
+  ],
+  "On tenterhooks": [
+    "In suspense or anxious."
+  ],
+  "On the back burner": [
+    "To temporarily not deal with something as it is less urgent."
+  ],
+  "On the ball": [
+    "To be alert and quick to respond."
+  ],
+  "On the breadline": [
+    "Very poor or living at a subsistence level."
+  ],
+  "On the brink/verge of": [
+    "At the edge of a major change or event."
+  ],
+  "On the cards": [
+    "Likely to happen or probable."
+  ],
+  "On the face of it": [
+    "According to what appears on the surface."
+  ],
+  "On the horizon": [
+    "An event that is likely to happen soon."
+  ],
+  "On the same page": [
+    "To be in agreement or think in the same way."
+  ],
+  "On the spur of the moment": [
+    "Acting impulsively without thinking."
+  ],
+  "On the wane": [
+    "On the decline or decreasing."
+  ],
+  "On thin ice": [
+    "In a dangerous or risky situation."
+  ],
+  "Once and for all": [
+    "To bring to an end conclusively or finally."
+  ],
+  "Once bitten, twice shy": [
+    "An unpleasant experience makes one cautious for future."
+  ],
+  "Once in a blue moon": [
+    "Rarely or very infrequently."
+  ],
+  "Out of date": [
+    "Out of date."
+  ],
+  "Out of sorts": [
+    "To be unwell or slightly sick."
+  ],
+  "Out of the blue": [
+    "Completely unexpectedly."
+  ],
+  "Out of the question": [
+    "Impossible."
+  ],
+  "Out of the woods": [
+    "Out of the woods."
+  ],
+  "Over the moon": [
+    "Extremely happy or delighted."
+  ],
+  "Pandora’s Box": [
+    "A source of many unforeseen problems or trouble."
+  ],
+  "Part and parcel": [
+    "An essential or integral element."
+  ],
+  "Pass the buck": [
+    "To refuse responsibility or blame someone else."
+  ],
+  "Pass the hat round/around": [
+    "To collect money."
+  ],
+  "Pat on the back": [
+    "To praise or approve for doing something good."
+  ],
+  "Pay lip service": [
+    "To pretend to agree or say something without meaning it."
+  ],
+  "Penny wise and pound foolish": [
+    "Careful with trivial matters but wasteful in large issues."
+  ],
+  "Pig in a poke": [
+    "Something bought without examining properly."
+  ],
+  "Pillar to post": [
+    "Moving from one place to another repeatedly."
+  ],
+  "Pipe dream": [
+    "A dream or idea that is unlikely to happen."
+  ],
+  "Play devil’s advocate": [
+    "To argue the opposite just for the sake of argument."
+  ],
+  "Play it by ear": [
+    "To do something without special preparation or to improvise."
+  ],
+  "Play one’s ace": [
+    "To use one’s best weapon or resource."
+  ],
+  "Play to the gallery": [
+    "To seek to win approval or to impress others."
+  ],
+  "Play with fire": [
+    "To do something dangerous or take a foolish risk."
+  ],
+  "Played ducks and drakes": [
+    "To squander or waste recklessly."
+  ],
+  "Pocket an insult": [
+    "To bear an insult quietly or tolerate it without protest."
+  ],
+  "Point-blank": [
+    "Directly or very close."
+  ],
+  "Poke one’s nose": [
+    "To interfere or meddle in others’ affairs."
+  ],
+  "Pour/Throw cold water": [
+    "To discourage by showing indifference."
+  ],
+  "Pull someone up": [
+    "To criticize or reprimand someone."
+  ],
+  "Pull someone’s leg": [
+    "To play a joke on or tease someone."
+  ],
+  "Pull strings": [
+    "To use personal influence."
+  ],
+  "Pull the plug": [
+    "To stop something from happening or continuing."
+  ],
+  "Pull up your socks": [
+    "To put in extra effort or improve performance."
+  ],
+  "Pull yourself together": [
+    "To calm yourself down and behave appropriately."
+  ],
+  "Pulled all the stops": [
+    "To do something with maximum effort or ability."
+  ],
+  "Put off": [
+    "To postpone or delay something."
+  ],
+  "Put one’s foot down": [
+    "To take a firm stand or assert authority."
+  ],
+  "Put two and two together": [
+    "To deduce or reason logically from facts."
+  ],
+  "Putting the cart before the horse": [
+    "To do things in the wrong order."
+  ],
+  "Queer pitch": [
+    "To spoil somebody’s chance of doing something."
+  ],
+  "Rained on the bride’s parade": [
+    "To spoil and ruin someone’s happiness or plans."
+  ],
+  "Raise a few eyebrows": [
+    "To cause surprise or mild shock in others."
+  ],
+  "Raise the alarm": [
+    "To warn of a dangerous situation."
+  ],
+  "Ran in the groove": [
+    "To move in harmony or smoothly."
+  ],
+  "Rat race": [
+    "Fierce competition for power or success."
+  ],
+  "Read between the lines": [
+    "To find a hidden meaning not explicitly stated."
+  ],
+  "Red-tape": [
+    "Official procedures causing delay or excessive bureaucracy."
+  ],
+  "Rest on one’s laurels": [
+    "To be satisfied with past success and not make further effort."
+  ],
+  "Ring a bell": [
+    "To sound familiar or remind you of something."
+  ],
+  "Rise like a phoenix": [
+    "To become successful again or to emerge with new life."
+  ],
+  "Rise to the occasion": [
+    "To deal successfully with a difficult situation."
+  ],
+  "Rock the boat": [
+    "To disturb a stable situation."
+  ],
+  "Roll up your sleeves": [
+    "To get ready to do something difficult or hard work."
+  ],
+  "Rub somebody the wrong way": [
+    "To irritate or annoy someone."
+  ],
+  "Run out of steam": [
+    "To lose impetus or enthusiasm and stop doing something."
+  ],
+  "Rule the roost": [
+    "To dominate or make all the decisions; be in complete control."
+  ],
+  "Salt of the earth": [
+    "A good, reliable, honest person."
+  ],
+  "Scapegoats": [
+    "People who are blamed or punished for others’ misdeeds."
+  ],
+  "Scrape the bottom of the barrel": [
+    "To use one’s last and weakest resource."
+  ],
+  "See eye to eye": [
+    "To be in full agreement with someone."
+  ],
+  "See the light of day": [
+    "To become publicly known or visible."
+  ],
+  "Selling like hot cakes": [
+    "Selling very quickly and in large numbers."
+  ],
+  "Separate the wheat from the chaff": [
+    "To sort out the valuable from the worthless."
+  ],
+  "Shake off": [
+    "To get rid of something."
+  ],
+  "Sharp as a tack": [
+    "Extremely intelligent and mentally active."
+  ],
+  "Shed crocodile tears": [
+    "To pretend to be sad or show false sympathy."
+  ],
+  "Shot in the dark": [
+    "A random attempt with little chance of success."
+  ],
+  "Sit on the fence": [
+    "To remain neutral or undecided between two options."
+  ],
+  "Snake in the grass": [
+    "An unreliable and deceitful person."
+  ],
+  "Snowed under": [
+    "Busy."
+  ],
+  "Soft option": [
+    "Easy and agreeable option."
+  ],
+  "Sought after": [
+    "In great demand."
+  ],
+  "Sow wild oats": [
+    "To waste time by doing foolish things, especially in youth."
+  ],
+  "Speak of the devil": [
+    "The person we were just talking about showed up."
+  ],
+  "Speaks volumes": [
+    "Gives enough proof without using words."
+  ],
+  "Spick and span": [
+    "Very neat, clean, or tidy."
+  ],
+  "Spill the beans": [
+    "Disclose the secrets accidentally."
+  ],
+  "Spin one’s wheels": [
+    "Expel much effort for little or no gain."
+  ],
+  "Split one’s sides (laughing)": [
+    "Be extremely amused."
+  ],
+  "Spread like wildfire": [
+    "Spread rapidly."
+  ],
+  "Slap on the wrist": [
+    "Mild punishment."
+  ],
+  "Sleep on it": [
+    "Delay making a decision until the next day."
+  ],
+  "Square peg in a round hole": [
+    "A misfit in the environment."
+  ],
+  "Stab someone in the back": [
+    "Betray someone."
+  ],
+  "Stand by": [
+    "To support or remain loyal to someone."
+  ],
+  "Steal someone’s thunder": [
+    "Take credit for something someone else did."
+  ],
+  "Start/set/get the ball rolling": [
+    "To start doing something."
+  ],
+  "Stick to one’s guns": [
+    "Maintain one’s own opinion; not change one’s decision despite opposition."
+  ],
+  "Steer clear of": [
+    "Avoid someone or something because it is dangerous for you."
+  ],
+  "Still waters run deep": [
+    "Have passion or great intelligence underneath a calm expression."
+  ],
+  "Stir up a hornet’s nest": [
+    "Cause anger in many people or raise controversy."
+  ],
+  "Straight from the horse’s mouth": [
+    "Receive information directly from the person involved."
+  ],
+  "Strain every nerve": [
+    "Work very hard."
+  ],
+  "Strike while the iron is hot": [
+    "To act at the right time or grab a favourable opportunity promptly."
+  ],
+  "Struck several bad patches": [
+    "Had many professional difficulties."
+  ],
+  "Suit you to a T": [
+    "To be ideal or perfectly appropriate for one."
+  ],
+  "Sweep under the carpet": [
+    "To hide a problem or try to keep it secret instead of dealing with it."
+  ],
+  "Swollen-headed": [
+    "Pride."
+  ],
+  "Sword of Damocles": [
+    "Imminent danger."
+  ],
+  "Take a cue from someone": [
+    "Learn and act by being strongly influenced by someone."
+  ],
+  "Take exception to": [
+    "To object strongly."
+  ],
+  "Take heart": [
+    "To take courage or to gain confidence."
+  ],
+  "Take to one’s heels": [
+    "To run away or flee in fear."
+  ],
+  "Take with a pinch/grain of salt": [
+    "Not believe completely something that you are told."
+  ],
+  "Take the bull by the horn": [
+    "To face a difficult or dangerous situation in a very direct or confident way."
+  ],
+  "Takes after": [
+    "To be similar in appearance."
+  ],
+  "Taking a toll on": [
+    "To harm or damage someone or something, especially in a gradual way."
+  ],
+  "Talked over": [
+    "Discussed."
+  ],
+  "Talking through her hat": [
+    "Talking nonsense."
+  ],
+  "The bad egg": [
+    "A dishonest or ill-behaved person."
+  ],
+  "The early bird catches the worm": [
+    "One who arrives first gets the best chance at success."
+  ],
+  "The elephant in the room": [
+    "A big problem everyone is ignoring or afraid to talk about."
+  ],
+  "The grass is greener on the other side": [
+    "Other people always seem to be in a better situation, although it might not be true."
+  ],
+  "Teething problems": [
+    "Problems at the start of a new project."
+  ],
+  "The green-eyed monster": [
+    "Jealousy."
+  ],
+  "The last straw": [
+    "Final problem in a series of difficulties that makes a situation unbearable."
+  ],
+  "The Lion’s share": [
+    "The biggest and best part of a whole."
+  ],
+  "The man in the street": [
+    "The ordinary man."
+  ],
+  "The pot calling the kettle black": [
+    "People are guilty of the very fault they identify in others."
+  ],
+  "The pros and cons": [
+    "For and against; advantages and disadvantages."
+  ],
+  "The seamy side": [
+    "The unpleasant aspects."
+  ],
+  "The thin end of the wedge": [
+    "Start of harmful development; beginning of something bad."
+  ],
+  "The whys and wherefores": [
+    "Underlying reasons or causes of something."
+  ],
+  "Thick as thieves": [
+    "Having a close friendship."
+  ],
+  "Threw a spanner": [
+    "Do something that prevents a plan or activity from succeeding."
+  ],
+  "Through thick and thin": [
+    "Support under all circumstances."
+  ],
+  "Throw caution to the wind": [
+    "Behave recklessly without worrying about the risk."
+  ],
+  "Throw in the towel": [
+    "Acknowledge defeat or surrender."
+  ],
+  "Tickled pink": [
+    "Very pleased."
+  ],
+  "Tie the knot": [
+    "Get married."
+  ],
+  "To accept the gauntlet": [
+    "To accept or respond to a challenge."
+  ],
+  "To air dirty linen in public": [
+    "To discuss private affairs in public."
+  ],
+  "To be devil’s advocate": [
+    "To raise a counter argument just for the sake of it."
+  ],
+  "To be fair and square": [
+    "To be honest; according to the rules."
+  ],
+  "To be in a fix": [
+    "To be in a difficult situation."
+  ],
+  "To be on pins and needles": [
+    "To be in an agitated state of suspense."
+  ],
+  "To be on the horns of a dilemma": [
+    "To be in a difficult situation or choice."
+  ],
+  "To be taken aback": [
+    "To be surprised or shocked."
+  ],
+  "To beat a retreat": [
+    "To run away in fear; to withdraw."
+  ],
+  "To beat the clock": [
+    "To perform a task within the time limit."
+  ],
+  "To blow hot and cold": [
+    "To be friendly and unfriendly at the same time; vacillating."
+  ],
+  "To bring to light": [
+    "To reveal clearly."
+  ],
+  "To burn one’s fingers": [
+    "To suffer unpleasant consequences as a result of one's actions."
+  ],
+  "To burn the candle at both ends": [
+    "To work excessively hard or keep busy all the time."
+  ],
+  "To call a spade a spade": [
+    "To be frank or say the truth about something, even if it is not polite."
+  ],
+  "To clip one’s wings": [
+    "To restrict someone’s freedom."
+  ],
+  "To come out in the open": [
+    "To become public or evident."
+  ],
+  "To cry wolf": [
+    "To raise a false alarm or ask for help when you do not need it."
+  ],
+  "To cudgel one’s brains": [
+    "To think hard."
+  ],
+  "To cut a sorry figure": [
+    "Created a wrong impression."
+  ],
+  "To eat humble pie": [
+    "To accept defeat or suffer humiliation."
+  ],
+  "Throw up the sponge": [
+    "To surrender; to acknowledge defeat."
+  ],
+  "Till the cows come home": [
+    "For a very long time."
+  ],
+  "Tit for tat": [
+    "To do harm as done to you; counter attack."
+  ],
+  "To cut one's coat according to one's cloth": [
+    "To live within one's means."
+  ],
+  "To die in harness": [
+    "To continue occupation till death."
+  ],
+  "To draw the long bow": [
+    "To exaggerate."
+  ],
+  "To end in smoke": [
+    "To come to nothing; end without any practical result."
+  ],
+  "To feel at home": [
+    "To feel easy and comfortable."
+  ],
+  "To fight tooth and nail": [
+    "To make every possible effort; to fight furiously and fiercely."
+  ],
+  "To fish in troubled waters": [
+    "To profit out of disturbance; to get benefit in bad situation."
+  ],
+  "To flog/beating a dead horse": [
+    "To attempt the impossible; waste energy on an unalterable situation."
+  ],
+  "To foam at one’s mouth": [
+    "To get very angry; to be enraged and shout."
+  ],
+  "To get away with": [
+    "To escape from something."
+  ],
+  "To get cold feet": [
+    "To experience nervousness or anxiety before one attempts to do something."
+  ],
+  "To gird up the loins": [
+    "To prepare for hard work or a difficult situation."
+  ],
+  "To give the devil his due": [
+    "To give encouragement or credit to an enemy; to give credit to a notorious person."
+  ],
+  "To go bananas": [
+    "To become very excited or angry."
+  ],
+  "To go scot-free": [
+    "To escape without punishment; unpunished."
+  ],
+  "To go the whole hog": [
+    "To do something as completely as possible."
+  ],
+  "To go/run around in circles": [
+    "To waste one’s time and energy doing trivial things; to keep doing something without achieving much."
+  ],
+  "To hail from": [
+    "To come from a particular place."
+  ],
+  "To have a gut feeling": [
+    "Strong instinct or intuition."
+  ],
+  "To have second thoughts": [
+    "To reconsider."
+  ],
+  "To have something up one’s sleeve": [
+    "To have a secret plan; have an alternative plan."
+  ],
+  "To have a sigh of relief": [
+    "To suddenly feel very happy because something unpleasant has not happened or has ended."
+  ],
+  "To hit below the belt": [
+    "To attack in an unfair manner; contrary to the principles of fairness."
+  ],
+  "To hammer out": [
+    "To reach an agreement after long discussion."
+  ],
+  "To his heart's content": [
+    "As much as one wants."
+  ],
+  "To judge a book by its cover": [
+    "To evaluate people’s worth by their outward appearance."
+  ],
+  "To jump on the bandwagon": [
+    "To follow popular trends; to get involved in an activity because it is likely to succeed."
+  ],
+  "To keep an eye on": [
+    "To watch someone or something carefully; to be cautious."
+  ],
+  "To keep one’s temper": [
+    "To remain calm."
+  ],
+  "To let someone off": [
+    "To release someone from blame."
+  ],
+  "To lose ground": [
+    "Becoming less acceptable."
+  ],
+  "To make a mountain out of a molehill": [
+    "To give great importance to little things; exaggerate a minor problem."
+  ],
+  "To make amends": [
+    "To compensate; to correct a mistake."
+  ],
+  "To keep the wolf away from the door": [
+    "To keep away extreme poverty; to earn just enough for a living."
+  ],
+  "To keep under wraps": [
+    "To keep secret."
+  ],
+  "To hit the sack": [
+    "To prepare for sleep; to go to bed."
+  ],
+  "To make both ends meet": [
+    "To live within one’s income; manage expenses with just enough funds."
+  ],
+  "To make up one’s mind": [
+    "To decide what to do; decide firmly."
+  ],
+  "To meet one’s Waterloo": [
+    "To experience defeat; to be defeated by someone who is too strong for you."
+  ],
+  "To miss the boat": [
+    "To miss an opportunity; lose an opportunity."
+  ],
+  "To paddle one’s own canoe": [
+    "Manage independently; to work independently."
+  ],
+  "To pay through the nose": [
+    "To pay an extremely high price."
+  ],
+  "To pick holes in": [
+    "To criticize someone; finding fault with."
+  ],
+  "To play fast and loose": [
+    "To act in an unreliable way; to be playful."
+  ],
+  "To play second fiddle": [
+    "Position has lesser importance than anybody else; take a subordinate role."
+  ],
+  "To pour oil on troubled water": [
+    "To calm a dispute."
+  ],
+  "To put up with someone": [
+    "Tolerate."
+  ],
+  "To raise a dust": [
+    "To cause disruption or confusion."
+  ],
+  "To set the Thames on fire": [
+    "To do a heroic deed; do wonderful or exciting things."
+  ],
+  "To show a clean pair of heels": [
+    "To escape; ran away."
+  ],
+  "To smell a rat": [
+    "Suspect a trick or deceit; detect something wrong."
+  ],
+  "To prime the pump": [
+    "Encourage the growth or action of something."
+  ],
+  "To put a spoke in one’s wheel": [
+    "To put a difficulty in the way of progress; thwart in the execution of the plan."
+  ],
+  "To speak one’s mind": [
+    "To express one’s thoughts; to voice one’s thoughts plainly."
+  ],
+  "To stand on one’s feet": [
+    "To be strong and independent."
+  ],
+  "To stand one’s ground": [
+    "Refused to yield; refuse to change your opinion."
+  ],
+  "To stick one’s neck out": [
+    "To take a risk."
+  ],
+  "To take a back seat": [
+    "To become less important or to give up control over things."
+  ],
+  "To take a stock of": [
+    "To assess and evaluate before taking a decision; to think carefully."
+  ],
+  "To take French leave": [
+    "Absenting oneself without permission; leave without any intimation."
+  ],
+  "To take pains": [
+    "To make efforts; try hard."
+  ],
+  "To take to heart": [
+    "To be greatly affected by; to consider something very seriously."
+  ],
+  "To take to task": [
+    "To be punished; to be rebuked or scolded."
+  ],
+  "To throw dust in one’s eyes": [
+    "To deceive; to mislead or confuse."
+  ],
+  "To toe the line": [
+    "To follow the lead; follow the rules strictly."
+  ],
+  "To turn a deaf ear": [
+    "Disregard; refuse to obey; to be indifferent; neglect."
+  ],
+  "To turn over a new leaf": [
+    "To change one’s behaviour for better; to begin again."
+  ],
+  "To win laurels": [
+    "To achieve honours and glory."
+  ],
+  "Too many irons in the fire": [
+    "Engaged in too many enterprises at the same time."
+  ],
+  "Took a leap in the dark": [
+    "Took a risk; to do something without being certain of the outcome and result."
+  ],
+  "Tricks of the trade": [
+    "Special skills or knowledge."
+  ],
+  "True colours": [
+    "Real character; personality."
+  ],
+  "To take for granted": [
+    "To assume something without question."
+  ],
+  "To take into account": [
+    "To consider; to keep in mind."
+  ],
+  "To take one’s hat off (to someone)": [
+    "To admire or respect."
+  ],
+  "To the manner born": [
+    "Naturally suited for something."
+  ],
+  "To wrangle over an ass’s shadow": [
+    "To fight over trifles."
+  ],
+  "Toffee-nosed": [
+    "Snobbish; arrogant."
+  ],
+  "Took exception (to)": [
+    "Objected; felt offended."
+  ],
+  "Took to their heels": [
+    "Ran away."
+  ],
+  "Turn a blind eye": [
+    "To ignore a situation, facts, or reality."
+  ],
+  "Turn up one’s nose": [
+    "Treat other people with contempt; despise."
+  ],
+  "Twist someone’s arm": [
+    "Force someone to do something by making it hard for them to refuse; persuade someone."
+  ],
+  "Two heads are better than one": [
+    "It’s helpful to have the advice/opinion of a second person; two people working together can achieve more than a person working alone."
+  ],
+  "Under a cloud": [
+    "Under suspicion."
+  ],
+  "Under duress": [
+    "Under pressure; compulsion."
+  ],
+  "Under his nose": [
+    "Right in front of someone, often without them noticing."
+  ],
+  "Under the weather": [
+    "To not feel well; to feel sick or unhealthy; to be in low spirits"
+  ],
+  "Up a blind alley": [
+    "Following a course of action that is certain to lead to an undesirable outcome."
+  ],
+  "Up in arms": [
+    "To be angry; protesting vigorously about something; in rebellion."
+  ],
+  "Up to the mark": [
+    "As good as the others; up to the required standard."
+  ],
+  "Upset someone’s applecart": [
+    "To cause trouble, especially by spoiling someone’s plans."
+  ],
+  "Vanish/disappear into thin air": [
+    "Disappear suddenly."
+  ],
+  "Vote with your feet": [
+    "Show their disapproval; to show that you do not support something."
+  ],
+  "Walk the tightrope": [
+    "Be very cautious; to be in a precarious situation requiring caution and skill."
+  ],
+  "Walking on thin ice": [
+    "Doing something risky."
+  ],
+  "Water under the bridge": [
+    "Something that can’t be changed anymore; something happened in the past and is no longer important or worth arguing about."
+  ],
+  "Weal and woe": [
+    "Good times and bad times; joys and sorrows; in prosperity and adversity."
+  ],
+  "Wear and tear": [
+    "Damage."
+  ],
+  "Wears his heart on his sleeve": [
+    "Expresses his feelings openly; to show your true emotions."
+  ],
+  "Weather the storm": [
+    "Survive a period of difficulty."
+  ],
+  "When it rains, it pours": [
+    "Problems seem to happen together."
+  ],
+  "When pigs fly": [
+    "Something that is impossible."
+  ],
+  "When the crunch comes": [
+    "A critical moment near the end when a decisive action is needed."
+  ],
+  "Where there’s a will, there’s a way": [
+    "If you have a strong determination to do something, then you can find a method to do it."
+  ],
+  "Whistle in the dark": [
+    "Pretend to be unafraid; try to keep up his confidence."
+  ],
+  "White elephant": [
+    "Costly and troublesome possession useless to its owner."
+  ],
+  "Whole nine yards": [
+    "The entirety of something; everything all the way."
+  ],
+  "Wild goose chase": [
+    "A worthless hunt or chase; futile search; unprofitable adventure."
+  ],
+  "Will-o-the-wisp": [
+    "Something that is impossible to get or achieve; unreal imagining."
+  ],
+  "Went to the winds": [
+    "Dissipated."
+  ],
+  "With open arms": [
+    "Warmly welcome."
+  ],
+  "Word of mouth": [
+    "Through the verbal sharing of information."
+  ],
+  "Worth its weight in gold": [
+    "Very useful, valuable, or important."
+  ],
+  "Yeoman service": [
+    "Excellent service; useful help in need."
+  ],
+  "Your guess is as good as mine": [
+    "Have no idea of the answer."
+  ],
+  "Zero tolerance": [
+    "A policy of not allowing any violations of a rule or law."
+  ],
+  "Zip your lip": [
+    "Keep quiet about something."
+  ],
+  "Turn down": [
+    "To reject or refuse."
+  ],
+  "Turn turtle": [
+    "To overturn or capsize."
+  ],
+  "Wash one’s hands off something": [
+    "To withdraw from responsibility; disclaim connection with."
+  ]
+}
+{
+  'A bird in the hand is worth two in the bush': [
+    'Having something certain is better than the possibility of getting something better.'
+  ],
+  'A bird"s eye view': [ 'A general view from above.' ],
+  'A blessing/boon in disguise': [ 'An apparent misfortune that eventually has good results.' ],
+  'A blue-eyed boy': [ 'One who is favourite.' ],
+  'A bolt from the blue': [ 'Something unexpected and unpleasant.' ],
+  'A bone of contention': [ 'A cause of dispute or quarrel.' ],
+  'A bull in a China shop': [ 'A clumsy person in a delicate situation.' ],
+  'A cakewalk': [ 'An easy achievement or victory.' ],
+  'A carrot and stick approach': [ 'Rewards and punishments that influence someone’s behaviour.' ],
+  'A change of heart': [ 'A change in one’s opinion or feelings.' ],
+  'A close-fisted person': [ 'A miser.' ],
+  'A cold fish': [
+    'Someone who seems unfriendly and who does not share his feelings.'
+  ],
+  'A cut above something': [ 'Superior to.' ],
+  'A damp squib': [
+    'A disappointing result or situation less impressive than expected.'
+  ],
+  'A dark horse': [ 'An unexpected winner or competitor of unknown capabilities.' ],
+  'A dime a dozen': [ 'Very common and easily obtainable.' ],
+  'A dog’s life': [ 'A miserable existence.' ],
+  'A drop in a bucket': [ 'A very small part too insignificant to matter.' ],
+  'A dry run': [ 'A rehearsal or practice session.' ],
+  'A fire in someone’s belly': [ 'One who is energetic and enthusiastic about something.' ],
+  'A fish out of water': [ 'A person in an unfamiliar or uncomfortable environment.' ],
+  'A flying visit': [ 'A very short visit.' ],
+  'A fool’s paradise': [ 'A state of happiness based on ignorance of potential trouble.' ],
+  'A gentleman at large': [ 'A man without a job.' ],
+  'A golden mean': [
+    'Middle course between two extremes; neither too much nor too little.'
+  ],
+  'A green horn': [ 'An inexperienced man.' ],
+  'A grey area': [ 'An unclear or undefined situation.' ],
+  'A hairbreadth escape': [ 'A narrow escape.' ],
+  'A hard nut to crack': [ 'A tough challenge or difficult person.' ],
+  'A hornet’s nest': [ 'An unpleasant, difficult, or troublesome situation.' ],
+  'A hot potato': [ 'A controversial or difficult issue.' ],
+  'A house of cards': [ 'A fragile or unstable situation that can easily collapse.' ],
+  'A kick in the teeth': [ 'A grave setback or great disappointment.' ],
+  'A lame excuse': [ 'A weak or unsatisfactory explanation.' ],
+  'A laughing stock': [ 'An object of ridicule or laughter.' ],
+  'A left handed compliment': [ 'An ambiguous compliment that may be insulting.' ],
+  'A leopard can’t change its spots': [ 'It is impossible for one to change one’s character.' ],
+  'A little bird told me': [ 'To receive information from a secret source without naming it.' ],
+  'A live wire': [ 'A person who is full of energy.' ],
+  'A lot on your plate': [ 'Having many responsibilities or problems to deal with.' ],
+  'A man of letters': [ 'A scholar; someone proficient in literary art.' ],
+  'A man of straw': [ 'A man of no substance; a weak or cowardly person.' ],
+  'A mare’s nest': [ 'A complicated situation or false invention.' ],
+  'A needle in a haystack': [ 'Something very difficult to locate or attempt.' ],
+  'A pain in the neck': [ 'Something or someone that is annoying or a nuisance.' ],
+  'A Penelope’s web': [ 'An endless, never-ending job.' ],
+  'A penny for your thoughts': [ 'A way of asking what someone is thinking.' ],
+  'A picture paints a thousand words': [ 'An image conveying meaning more effectively than description.' ],
+  'A piece of cake': [ 'A very easy task.' ],
+  'A plum job': [ 'An easy, pleasant job that pays well.' ],
+  'A queer fish': [ 'An eccentric or unconventional person.' ],
+  'A red letter day': [ 'An important or memorable day.' ],
+  'A red rag to a bull': [ 'An act certain to provoke someone.' ],
+  'A rolling stone gathers no moss': [
+    'A person who does not settle in one place and therefore gains no advantage.'
+  ],
+  'A rotten apple': [ 'A single bad person in a group.' ],
+  'A safe pair of hands': [
+    'A reliable person who can be trusted to do something efficiently.'
+  ],
+  'A sea change': [ 'A profound or notable transformation.' ],
+  'A shot in the arm': [ 'Something that gives encouragement.' ],
+  'A skeleton in the cupboard': [ 'An embarrassing fact or shameful secret to be kept hidden.' ],
+  'A square deal': [ 'A fair and honest agreement.' ],
+  'A stitch in time saves nine': [ 'Fixing a problem promptly prevents it from worsening.' ],
+  'A stone’s throw away': [ 'A very short distance.' ],
+  'A storm in a teacup': [ 'A big fuss or excitement about a trivial matter.' ],
+  'A thorn in the flesh': [ 'A source of continual annoyance or trouble.' ],
+  'A turning point': [ 'A time when an important change begins.' ],
+  'A wet blanket': [ 'A person who discourages enjoyment or enthusiasm.' ],
+  'A wolf in sheep’s clothing': [ 'A dangerous person pretending to be harmless.' ],
+  'Above board': [ 'Honest and frank; without any secret.' ],
+  'Above/Over one’s head': [ 'Beyond one’s capability to understand something.' ],
+  'Achilles’ heel': [ 'A weakness or vulnerable point.' ],
+  'Acid test': [ 'Definitive proof of truth or falsehood.' ],
+  'Actions speak louder than words': [
+    'What you do is more important than what you say; intentions judged by actions.'
+  ],
+  'Add fuel to the fire/flames': [ 'Make a bad situation worse.' ],
+  'Add insult to injury': [
+    'To further a loss with mockery, making a bad situation even worse.'
+  ],
+  'After one’s own heart': [ 'Having likes and dislikes similar to one’s own.' ],
+  'Against the clock': [ 'Work very fast to complete something within a deadline.' ],
+  'Alive and kicking': [ 'In good health.' ],
+  'All agog': [ 'Amazed or full of interest and excitement.' ],
+  'All and sundry': [ 'Everybody without distinction; all included.' ],
+  'All at sea': [ 'Puzzled; in a state of confusion or lost.' ],
+  'All eyes': [ 'Watching eagerly; to watch something intently.' ],
+  'All eyes and ears': [ 'To be attentive and fully focused on something.' ],
+  'All moonshine': [ 'Nonsense; far from reality or concocted.' ],
+  'All our might and main': [ 'Exercising full force; with all one’s strength and energy.' ],
+  'All thumbs': [ 'Clumsy; physically awkward.' ],
+  'Alpha and omega': [ 'The beginning and the end; everything.' ],
+  'Alphabet soup': [ 'A confusing jumble of abbreviations or acronyms.' ],
+  'An eye opener': [ 'A shocking revelation.' ],
+  'An iron hand': [ 'Strict and harsh control.' ],
+  'An iron will': [ 'A firm opinion; strong determination.' ],
+  'An open book': [ 'Someone or something with no secrets; fully transparent.' ],
+  'Apple of discord': [ 'The cause of a quarrel or animosity.' ],
+  'Apple of one’s eye': [ 'Someone very precious or dearly loved.' ],
+  'Apples and oranges': [ 'Unequal comparisons between two unlike things.' ],
+  'Argus-eyed': [ 'Carefully observant and attentive; vigilant.' ],
+  'Armed to the teeth': [ 'Heavily armed or fortified.' ],
+  'Around the corner': [ 'Happening very soon; occurring shortly.' ],
+  'As daft as a brush': [ 'Extremely silly or foolish.' ],
+  'As fit as a fiddle': [ 'Strong, healthy, in top condition.' ],
+  'As hard as a nail': [ 'Emotionless or unrelenting; having no feelings.' ],
+  'As the crow flies': [ 'By the shortest, direct route in a straight line.' ],
+  'At a crossroads': [
+    'A point in life where decisions will have long-term consequences.'
+  ],
+  'At a snail’s pace': [ 'Doing something very slowly.' ],
+  'At beck and call': [ 'Always available to help; at one’s disposal.' ],
+  'At cross purposes': [
+    'Having opposing viewpoints or intentions; misunderstanding each other.'
+  ],
+  'At daggers drawn': [ 'To be bitterly hostile or open enemies.' ],
+  'At large': [ 'A criminal who has escaped or is not yet captured.' ],
+  'At loggerheads': [ 'In conflict with someone; to disagree strongly.' ],
+  'At loose ends': [ 'In an uncertain or unsettled situation.' ],
+  'At one’s wits’ end': [ 'Completely confused or perplexed.' ],
+  'At sixes and sevens': [ 'In disorder or confusion.' ],
+  'At the drop of a hat/dime': [ 'Without any hesitation; instantly or without planning.' ],
+  'At the eleventh hour': [ 'At the very last moment; just before the deadline.' ],
+  'Back out of': [ 'Withdraw from a commitment.' ],
+  'Back to square one': [ 'Return to the starting point; having to start all over again.' ],
+  'Back to the drawing board': [ 'An idea has failed and must be redesigned.' ],
+  'Back up': [ 'Defend or support.' ],
+  'Backseat driver': [
+    'Interfering in affairs without authority; someone who offers unsolicited advice.'
+  ],
+  'Bad blood': [ 'Angry feeling or enmity between people.' ],
+  'Bag and baggage': [ 'With all one’s belongings; with full luggage.' ],
+  'Baker’s dozen': [ 'A group of 13 items; one more than a usual dozen.' ],
+  'Ball is in your court': [
+    'It is up to you to make the next decision or be responsible for further action.'
+  ],
+  'Barking up the wrong tree': [
+    'Trying to do something in a way that will not work or accusing the wrong person.'
+  ],
+  'Be all ears': [ 'Listening intently; eager to hear.' ],
+  'Be behind the times': [ 'Outdated or old-fashioned.' ],
+  'Be glad to see the back of': [ 'Feel happy when someone or something leaves.' ],
+  'Be going places': [ 'To be talented and likely to succeed.' ],
+  'Be hard up': [ 'To be very short of money.' ],
+  'Be in the red': [ 'To be in debt or losing money.' ],
+  'Be in two minds': [ 'Unable to decide; holding conflicting opinions.' ],
+  'Be like chalk and cheese': [ 'To be completely different from each other.' ],
+  'Be out for the count': [ 'To be unconscious or in deep sleep.' ],
+  'Be out of order': [ 'An object or device not working properly.' ],
+  'Be under somebody’s thumb': [ 'To be completely controlled or dominated by someone.' ],
+  'Be wet behind the ears': [ 'To be inexperienced or naive.' ],
+  'Bear a grudge': [
+    'To hold resentment or feel anger against someone for a past incident.'
+  ],
+  'Bear fruit': [ 'To yield positive results.' ],
+  'Bear the brunt of': [ 'To suffer the worst of something; to endure the maximum impact.' ],
+  'Bear the palm': [ 'Win or be declared the victor.' ],
+  'Bear up with': [ 'Endure a difficult situation; be strong enough to continue.' ],
+  'Beat about/around the bush': [ 'Speak vaguely or avoid the main topic.' ],
+  'Bed of roses': [ 'A comfortable, pleasant situation or life.' ],
+  'Behind closed doors': [ 'Do something secretly.' ],
+  'Behind one’s back': [ 'In someone’s absence; without their knowledge.' ],
+  'Behind the eight ball': [ 'In a difficult or disadvantaged position.' ],
+  'Behind the scenes': [ 'Secretly or out of public view.' ],
+  'Bell the cat': [ 'Do the impossible or most dangerous job.' ],
+  'Below the belt': [ 'A cruel or unfair action.' ],
+  'Bend over backwards': [ 'Try very hard to accommodate or please someone.' ],
+  'Beside oneself': [ 'Almost out of one’s senses with emotion.' ],
+  'Beside the mark': [ 'Irrelevant or not applicable.' ],
+  'Best of both worlds': [ 'A situation offering two different advantages simultaneously.' ],
+  'Best thing since sliced bread': [ 'A truly remarkable innovation or idea.' ],
+  'Better late than never': [ 'It is better to arrive late than not to come at all.' ],
+  'Between a rock and a hard place': [ 'Stuck between two very bad options.' ],
+  'Between Scylla and Charybdis': [ 'Choice between two equally unpleasant alternatives.' ],
+  'Between the devil and the deep blue sea': [ 'Stuck between two very bad options.' ],
+  'Beyond the pale': [ 'Unacceptable or unreasonable.' ],
+  'Bid defiance': [ 'To offer resistance; disregard recklessly.' ],
+  'Birds of the same feather': [ 'Two people of the same character or interests.' ],
+  'Bite off more than one can chew': [ 'Take on more responsibility than one can handle.' ],
+  'Bite someone’s head off': [ 'Speak angrily without any reason.' ],
+  'Bite the bullet': [
+    'To force yourself to do something unpleasant because inevitable.'
+  ],
+  'Bite the dust': [ 'Suffer a defeat; die.' ],
+  'Bite your tongue': [ 'Stop yourself from saying something.' ],
+  'Black and blue': [ 'Describe someone badly bruised or to beat mercilessly.' ],
+  'Black sheep': [ 'A single bad person in a group because of bad conduct.' ],
+  'Blaze a trail': [ 'Lead the way as a pioneer; initiate something new.' ],
+  'Blow one’s own trumpet': [ 'Praise oneself; talk boastfully about one’s achievements.' ],
+  'Blue-blooded': [ 'Of noble birth.' ],
+  'Body and soul': [ 'With all your energy.' ],
+  'Boil the ocean': [ 'Undertaking an impossible chore or task.' ],
+  'Bone to pick': [
+    'Cause of quarrel; to be angry about something and want to discuss it.'
+  ],
+  'Born with a silver spoon in one’s mouth': [ 'To be born into a wealthy, privileged family.' ],
+  'Bread and butter': [ 'The means of livelihood; main source of income.' ],
+  'Break a leg': [ 'To wish someone good luck or to perform well.' ],
+  'Break in': [ 'To force entry into a building illegally.' ],
+  'Break new/fresh ground': [ 'To innovate; to do or discover something new.' ],
+  'Break the bank': [
+    'To be very expensive or to win more money than is held by the bank.'
+  ],
+  'Break the ice': [
+    'To initiate a conversation or to break a painful silence and make someone comfortable.'
+  ],
+  'Breathing down someone’s neck': [ 'Watching all someone’s actions closely; monitoring them.' ],
+  'Bring about': [ 'Cause to happen.' ],
+  'Bring home the bacon': [ 'To be successful; to earn a living.' ],
+  'Bring someone to book': [ 'To punish someone for wrongdoing or hold them accountable.' ],
+  'Bring the house down': [ 'To make an audience applaud enthusiastically.' ],
+  'Broke down': [ 'Wept bitterly; cried.' ],
+  'Broken reed': [ 'A weak person; support that failed.' ],
+  'Build castles in the air': [ 'To have unrealistic ideas or dreams.' ],
+  'Bull’s-eye': [ 'The centre of a target; a perfect hit.' ],
+  'Burn one’s bridges/boats': [ 'To destroy all relations or make return impossible.' ],
+  'Burn the midnight oil': [ 'To work or study very late at night.' ],
+  'Burning question': [ 'An important, pressing question or issue.' ],
+  'Bury the hatchet': [ 'To make peace; end a quarrel.' ],
+  'Butterflies in the stomach': [ 'To be anxious and nervous.' ],
+  'By and by': [ 'Gradually; after a while.' ],
+  'By and large': [ 'In general; on the whole.' ],
+  'By courtesy of': [ 'Given or allowed by; with kindly consideration.' ],
+  'By fair means or foul': [ 'In any way, by honest or dishonest methods.' ],
+  'By fits and starts': [ 'Unsteadily; irregularly.' ],
+  'By hook or by crook': [ 'By any means, good or bad; using whatever methods.' ],
+  'By leaps and bounds': [ 'Very quickly; rapidly; swiftly.' ],
+  'By the skin of one’s teeth': [ 'By the narrowest margin; barely manage to achieve something.' ],
+  'Call in question': [ 'To challenge; dispute something.' ],
+  'Call it a day': [ 'To decide to stop doing something and go home.' ],
+  'Call on': [ 'To pay a visit.' ],
+  'Call the shots': [ 'To be in control; to make decisions.' ],
+  'Called for': [ 'To require something; to demand.' ],
+  'Can’t cut the mustard': [ 'To be unable to do a job; not measure up.' ],
+  'Carry out': [ 'To execute or complete something.' ],
+  'Carry the day': [ 'To win a victory; emerge as the winner.' ],
+  'Cat nap': [ 'To have disturbed sleep; a brief sleep.' ],
+  'Catch 22': [ 'A particular situation in which one cannot do anything.' ],
+  'Catch a tartar': [ 'To catch someone unexpectedly powerful or troublesome.' ],
+  'Catch red-handed': [
+    'To catch someone doing something illegal; in the act of committing a crime.'
+  ],
+  'Change hands': [ 'Pass from one person to another; change of ownership.' ],
+  'Chapter and verse': [ 'To give exact information or minute details.' ],
+  'Charley horse': [ 'A cramp in a muscle.' ],
+  'Cheek by jowl': [ 'Very close together.' ],
+  'Chew the cud': [ 'To think slowly and carefully about something.' ],
+  'Chew the fat': [ 'Gossip and make small talk; have friendly talks.' ],
+  'Chew the scenery': [ 'To act over-dramatically.' ],
+  'Chicken out': [
+    'To decide not to do something because you are too frightened; withdraw.'
+  ],
+  'Chicken-hearted': [ 'Cowardly; easily frightened.' ],
+  'Child’s play': [ 'Something very easy to do; a very easy task.' ],
+  'Chill out': [ 'To calm down.' ],
+  'Chinks in the armour': [ 'Small flaws or weaknesses.' ],
+  'Chip off the old block': [ 'Resembling one’s father in character or behaviour.' ],
+  'Cloak and dagger': [ 'An activity involving secrecy and mystery.' ],
+  'Close shave': [ 'A narrow escape from danger or disaster.' ],
+  'Cock and bull story': [ 'An unbelievable or absurd story.' ],
+  'Cold comfort': [ 'Slight satisfaction; little consolation.' ],
+  'Come hell or high water': [ 'In spite of any obstacles; no matter what.' ],
+  'Come in handy': [ 'To turn out to be useful.' ],
+  'Come of age': [ 'To mature and develop fully.' ],
+  'Come rain or shine': [ 'Under any circumstances; whatever the weather.' ],
+  'Come to blows': [ 'To get into a physical fight.' ],
+  'Come to light': [ 'To be revealed; become known publicly.' ],
+  'Come what may': [ 'No matter what happens.' ],
+  'Cook the books': [ 'To falsify financial records; dishonest accounting.' ],
+  'Cool as a cucumber': [ 'Not nervous or emotional; calm and composed.' ],
+  'Cool your heels': [ 'To be kept waiting; unwillingly wait for something or someone.' ],
+  'Cost an arm and a leg': [ 'To be very expensive; a large amount of money.' ],
+  'Couch potato': [ 'A person who watches too much television; a lazy person.' ],
+  'Crack someone up': [ 'Laugh out loud; to make someone laugh.' ],
+  'Cross one’s mind': [ 'To think of something; to be thought of by one.' ],
+  'Cross swords': [ 'To disagree; to fight.' ],
+  'Cross that bridge when you come to it': [ 'To deal with a problem only when it arises.' ],
+  'Cross your fingers': [
+    'To hope that things will happen the way you want them to; to wish for good luck or success.'
+  ],
+  'Crux of the matter': [ 'The most important or critical point.' ],
+  'Cry for the moon': [
+    'To make an impractical, unreasonable request; to aspire to the impossible.'
+  ],
+  'Cry in the wilderness': [ 'An unrealistic demand; an unheeded warning.' ],
+  'Cry over spilt milk': [
+    'To complain about a loss from the past; feeling sorry over a mistake that cannot be changed.'
+  ],
+  'Cup of tea': [ 'One’s chosen or preferred thing; something that pleases one.' ],
+  'Currying favour with': [ 'Behaving obsequiously to ingratiate oneself with someone.' ],
+  'Cut and dried': [ 'Ready made; already decided.' ],
+  'Cuts corners': [ 'To save money, time, or effort by omitting necessary parts.' ],
+  'Cut no ice with me': [ 'Had no influence on me.' ],
+  'Cut one short': [ 'To interrupt someone.' ],
+  'Cut someone some slack': [ 'Not to criticize too strictly; to be more lenient.' ],
+  'Cut the Gordian knot': [
+    'Solve a complex problem by a bold stroke; remove the difficulty.'
+  ],
+  'Cut the mustard': [ 'To perform well; to succeed.' ],
+  'Cut to the chase': [ 'To come to the point; get to the important matters.' ],
+  'Cut to the quick': [ 'Hurt intensely; deeply offend.' ],
+  'Dance to someone’s tune': [ 'Do what others want you to do.' ],
+  'Dead ringer': [ 'An exact duplicate.' ],
+  'Desperate times call for desperate measures': [
+    'When you are extremely desperate you need extremely drastic actions.'
+  ],
+  'Died in harness': [ 'Worked or served until death.' ],
+  'Do a good turn': [ 'Render a service; help someone.' ],
+  'Don’t (or never) judge a book by its cover': [ 'We should not judge something by its outward appearance.' ],
+  'Done for': [ 'Ruined; beyond help.' ],
+  'Donkey’s years': [ 'A very long time.' ],
+  'Don’t count your chickens before they hatch': [ 'Don’t make plans based on events that have not yet happened.' ],
+  'Don’t put all your eggs in one basket': [ 'Don’t rely on just one plan or resource.' ],
+  'Dot one’s i’s and cross one’s t’s': [ 'Be detailed and exact; pay attention to every minor point.' ],
+  'Down in the dumps': [ 'Sad and depressed.' ],
+  'Down the drain': [ 'Wasted or lost.' ],
+  'Down to earth': [ 'Practical and sensible.' ],
+  'Drag one’s feet': [
+    'To be reluctant to act; do something deliberately at a slow pace.'
+  ],
+  'Draw a blank': [ 'Fail to find or obtain anything; come up with nothing.' ],
+  'Draw a line': [ 'To fix a limit; accept something only up to a certain point.' ],
+  'Drew on his fancy': [ 'To use one’s imagination; draw upon creative powers.' ],
+  'Drive home': [ 'To emphasize or make something clearly understood.' ],
+  'Drive someone up the wall': [ 'To make someone very irritated or angry.' ],
+  'Drop names': [
+    'To name‐drop; hint at high connections by mentioning famous people.'
+  ],
+  'Dropping like flies': [
+    'Collapsing in large numbers; a great many people or things falling ill or dying.'
+  ],
+  'Eagle eye': [ 'An eye with sharp visual power; a careful or close watcher.' ],
+  'Easier said than done': [ 'More easily talked about than actually accomplished.' ],
+  'Eat anyone’s salt': [ 'To be one’s guest; enjoy someone’s hospitality.' ],
+  'Eats like a horse': [ 'To eat a lot of food.' ],
+  'Egg on': [ 'To encourage or provoke someone.' ],
+  'Elbow grease': [ 'A lot of physical effort; hard manual work.' ],
+  'Elbow room': [ 'Freedom to act; enough space to move or operate.' ],
+  'Ended in a fiasco': [ 'A complete failure.' ],
+  'Every cloud has a silver lining': [ 'Every unpleasant situation has a positive side.' ],
+  'Every dog has his day': [ 'Everyone enjoys success or good luck at some point.' ],
+  'Eye wash': [ 'A deception or pretence.' ],
+  'Face the music': [ 'To accept punishment for a mistake; bear the consequences.' ],
+  'Fair weather friends': [
+    'Friends who are supportive in good times only; convenient allies.'
+  ],
+  'Fall back on': [ 'To resort to something; seek support out of necessity.' ],
+  'Fall flat': [ 'To fail to produce the intended effect; have no impact.' ],
+  Fallout: [ 'To quarrel; stop being friendly after an argument.' ],
+  'Far cry from': [ 'To be very different from; nothing like.' ],
+  'Feather in one’s cap': [ 'An accomplishment to be proud of.' ],
+  'Feather one’s own nest': [ 'To enrich oneself improperly; profit by dishonest means.' ],
+  'Fed up': [ 'Annoyed; irritated.' ],
+  'Feel the pinch': [ 'Have financial problems all of a sudden.' ],
+  'Few and far between': [ 'Rare or seldom seen; not frequent or usual.' ],
+  'Fight shy of': [ 'To avoid encountering.' ],
+  'Finding their feet': [ 'Beginning to understand the work and feeling confident.' ],
+  'First and foremost': [ 'Highest priority; the most important aspect.' ],
+  'Flash in the pan': [
+    'Something whose success is short-lived and unlikely to be repeated.'
+  ],
+  'Flying off the handle': [ 'To lose one’s temper suddenly; become enraged.' ],
+  'Follow suit': [ 'To imitate what others have done.' ],
+  'Foot the bill': [ 'To pay for something; pay the cost.' ],
+  'Forty winks': [ 'A short nap or sleep during the day.' ],
+  'Fought to the bitter end': [ 'Carried on regardless of the consequences.' ],
+  'From rags to riches': [ 'To go from very poor to very wealthy.' ],
+  'From the bottom of my heart': [ 'Sincerely; with genuine feeling.' ],
+  'Full of beans': [ 'Lively and energetic; full of energy.' ],
+  'Full of hot air': [ 'Merely loud and angry words but ineffectual.' ],
+  'Gall and wormwood': [ 'To feel hatred or bitterness; something extremely unpleasant.' ],
+  'Gave the game away': [ 'To leak or reveal a secret unintentionally.' ],
+  'Gave vent to something': [ 'To express something forcefully; to let feelings out.' ],
+  'Get a foot in the door': [ 'To gain an initial advantage or entry into a position.' ],
+  'Get a second wind': [ 'To have a burst of renewed energy after fatigue.' ],
+  'Get a taste of your own medicine': [
+    'To be given the same (bad) treatment that you have given to others.'
+  ],
+  'Get down to brass tacks': [ 'To start discussing only the important facts of a situation.' ],
+  'Get into hot water': [
+    'To get into trouble; to be in a difficult situation in which you can be criticised.'
+  ],
+  'Get on like a house on fire': [ 'To become friends very quickly.' ],
+  'Get on somebody’s nerves': [ 'To irritate or annoy someone.' ],
+  'Get out of hand': [ 'To become uncontrollable; to get out of control.' ],
+  'Get someone’s goat': [ 'To irritate someone.' ],
+  'Get something off one’s chest': [
+    'To express something that has been worrying you; get it out in the open.'
+  ],
+  'Get the axe': [ 'To lose one’s job; be fired.' ],
+  'Get the hang of': [ 'To learn how to use; to grasp the main idea.' ],
+  'Get the sack': [ 'To be dismissed; lose one’s job.' ],
+  'Get up on the wrong side of the bed': [ 'To wake up in a bad mood that persists all day.' ],
+  'Get wind of something': [ 'To hear about something; come to know.' ],
+  'Get your act together': [
+    'To organize your work in a better way; get oneself under control.'
+  ],
+  'Getting a new lease of life': [
+    'A chance to continue living or to become successful or popular again; regain energy.'
+  ],
+  'Gift of the gab': [
+    'Ability to speak eloquently and persuasively; a talent for talking.'
+  ],
+  'Give a free hand': [
+    'To exercise complete control over something; have full freedom of action.'
+  ],
+  'Give a piece of one’s mind': [ 'To rebuke someone sharply; scold.' ],
+  'Give a wide berth to': [ 'To stay well away from; avoid.' ],
+  'Give and take': [ 'Adjustment; mutual concessions.' ],
+  'Give in': [ 'To yield or surrender.' ],
+  'Give it a shot/whirl': [ 'To try out something; have a go.' ],
+  'Give me a hand with': [ 'To assist; help someone.' ],
+  'Give oneself airs': [ 'To pretend to be superior; act haughty.' ],
+  'Give someone the cold shoulder': [ 'To ignore someone deliberately; be unfriendly.' ],
+  'Give someone the slip': [ 'To escape from someone; elude.' ],
+  'Give the benefit of the doubt': [ 'To accept someone as innocent until proven guilty.' ],
+  'Give up the ghost': [ 'To collapse or die; to cease functioning.' ],
+  'Go against the grain': [
+    'To act in a way contrary to one’s natural inclination or values.'
+  ],
+  'Go belly up': [ 'To go bankrupt; fail completely.' ],
+  'Go cold turkey': [ 'To quit an addictive habit abruptly and completely.' ],
+  'Go down in flames': [ 'To fail completely; fail miserably.' ],
+  'Go down like a lead balloon': [ 'To be received badly by an audience.' ],
+  'Go for a song': [ 'To be sold cheaply.' ],
+  'Go for the jugular': [ 'To attack in the most aggressive way; go all out.' ],
+  'Go-getter': [ 'A real achiever; an ambitious, energetic person.' ],
+  'Go the extra mile': [ 'To exceed expectations; make an extra effort.' ],
+  'Go through fire and water': [ 'To experience many dangers in order to achieve something.' ],
+  'Go through the roof': [ 'To rise very high.' ],
+  'Go to rack and ruin': [ 'To be ruined or deteriorate shockingly.' ],
+  'Go to the dogs': [ 'To be ruined or fall into a very poor state.' ],
+  'Go to the wall': [ 'To be ruined; to fail completely.' ],
+  'Go/start with a bang': [ 'To begin in a very exciting and successful way.' ],
+  'God’s ape': [ 'A born fool.' ],
+  'Got the green light': [ 'To receive permission to go ahead with something.' ],
+  'Grasp at straws': [
+    'To make a desperate attempt to succeed when nothing else will work.'
+  ],
+  'Grease the palm': [ 'To bribe someone discreetly.' ],
+  'Great minds think alike': [
+    'Said when two people make the same choice or have the same idea.'
+  ],
+  'Green thumb': [ 'A person with a natural talent for gardening.' ],
+  'Green-eyed': [ 'Full of envy; jealous.' ],
+  'Grist to the mill': [
+    'Something which provides useful advantage; turns to one’s benefit.'
+  ],
+  'Halcyon days': [ 'A time of peace and happiness; idyllic prosperity.' ],
+  'Hale and hearty': [ 'Strong and healthy.' ],
+  'Hand in glove': [
+    'In a very close association or partnership; working together intimately.'
+  ],
+  'Hand over fist': [ 'Quickly and continuously (often of earning or losing money).' ],
+  'Hang in there': [ 'Don’t give up; persist in a difficult situation.' ],
+  'Hang up one’s boots': [ 'To retire from a sport or profession; stop doing it.' ],
+  'Hanging by a thread': [ 'To be in a dangerous or precarious situation.' ],
+  'Hard and fast': [ 'That cannot be altered; strict and fixed.' ],
+  'Hard of hearing': [ 'Partially deaf; having difficulty hearing.' ],
+  'Haste makes waste': [ 'Doing things in a hurry results in poor outcomes.' ],
+  'Haul over the coals': [ 'To scold someone severely for an error.' ],
+  'Have a bee in her bonnet': [ 'To talk and think a lot; to be obsessed with something.' ],
+  'Have a chip on one’s shoulder': [ 'To be upset about something in the past; to harbor a grudge.' ],
+  'Have a finger in every pie': [ 'To be involved in many varied activities or enterprises.' ],
+  'Have a whale of a time': [ 'To have an exceptionally fun or exciting experience.' ],
+  'Have an axe to grind': [ 'To have a private interest or ulterior motive.' ],
+  'Have bigger fish to fry': [ 'To have more important work to attend to.' ],
+  'Have green fingers': [ 'To be naturally gifted at gardening.' ],
+  'Have one’s hands full': [ 'To be very busy; have too much to do.' ],
+  'Have one’s heart in one’s mouth': [ 'To be extremely frightened and nervous.' ],
+  'Have your back to/against the wall': [ 'To be in a desperate situation with very few options.' ],
+  'Head in the clouds': [ 'Daydreaming; being absent-minded.' ],
+  'Head over heels': [ 'Madly in love; completely enamored.' ],
+  'Heads will roll': [ 'Those responsible will be punished or dismissed.' ],
+  'Heart and soul': [ 'Completely; with all the effort you can put in.' ],
+  'Heart to heart talk': [ 'Frank, candid discussion.' ],
+  'Helter-skelter': [ 'In disorderly haste; here and there.' ],
+  'Herculean task': [ 'A very difficult, demanding task.' ],
+  'High and dry': [ 'Neglected; abandoned in a difficult situation.' ],
+  'High and mighty': [ 'Arrogant; puffed up with pride.' ],
+  'High time': [ 'Past the appropriate or proper time; overdue.' ],
+  'Hit a bad patch': [ 'To experience difficulty; go through a rough period.' ],
+  'Hit a brick wall': [ 'To be unable to make any progress; encounter an obstacle.' ],
+  'Hit the books': [ 'To study very hard.' ],
+  'Hit the ceiling/roof': [ 'To explode in anger; lose one’s temper.' ],
+  'Hit the jackpot': [ 'To make money quickly; to find exactly what was sought.' ],
+  'Hold one’s tongue': [ 'To be silent; to keep quiet.' ],
+  'Hold out an olive branch': [
+    'To make a peace offering; to show a desire to end a disagreement.'
+  ],
+  'Hold the fort': [ 'To take temporary responsibility for a situation.' ],
+  'Hold water': [ 'To appear acceptable or reasonable; remain valid.' ],
+  'Hold your horses': [ 'To be patient; to wait.' ],
+  'Hope against hope': [
+    'To nurture an impossible hope; expect success despite little chance.'
+  ],
+  'Hue and cry': [ 'A noisy expression of protest or anger; loud clamour.' ],
+  'I can’t think straight': [ 'To feel unable to think rationally due to overwhelming emotion.' ],
+  'I don’t buy it': [ 'I am not convinced; I doubt its truth.' ],
+  'Icing on the cake': [ 'Something that makes a good situation even better.' ],
+  'Ignorance is bliss': [
+    'To remain unaware of things that could cause stress; sometimes it’s better not to know.'
+  ],
+  'Ill at ease': [ 'To feel uncomfortable or worried in a situation.' ],
+  'In a jiffy': [ 'Very quickly; in a moment or two.' ],
+  'In a nutshell': [ 'Briefly and concisely; in a few words.' ],
+  'In a pickle': [ 'Experiencing a difficult situation; in trouble.' ],
+  'In a tight corner/spot': [ 'In a difficult or awkward situation.' ],
+  'In apple-pie order': [ 'In perfect order; neatly arranged.' ],
+  'In black and white': [ 'In writing; printed or recorded.' ],
+  'In cold blood': [ 'Angrily or cruelly, without any emotions; deliberately.' ],
+  'In deep water': [ 'In great difficulty; in trouble.' ],
+  'In dire straits': [ 'In a very bad or difficult situation.' ],
+  'In full swing': [ 'Very active; at the height of activity.' ],
+  'In high/good spirits': [ 'Full of hope and enthusiasm; joyful; cheerful.' ],
+  'In seventh heaven': [ 'Extremely happy; in delight.' ],
+  'In the air': [ 'When an emotion or idea is on everyone’s mind; prevalent.' ],
+  'In the blink of an eye': [ 'Within a very short period of time; almost instantly.' ],
+  'In the blues': [ 'Cheerless and depressed; low-spirited.' ],
+  'In the dark': [ 'To not know something others are aware of.' ],
+  'In the doldrums': [ 'In low spirits and despair.' ],
+  "In the driver's seat": [ 'In charge or in control of a situation.' ],
+  'In the eye of a storm': [ 'In the middle of a difficult situation.' ],
+  'In the fast lane': [ 'A life filled with great excitement.' ],
+  'In the good books': [ 'In favour with someone.' ],
+  'In the heat of the moment': [ 'Acting impulsively under strong emotions.' ],
+  'In the long run': [ 'Eventually after a significant time.' ],
+  'In the nick of time': [ 'At the very last possible moment.' ],
+  'In the pink': [ 'In good health.' ],
+  'In the same boat': [ 'Facing the same difficult situation.' ],
+  'In the soup': [ 'In trouble or difficulty.' ],
+  'In the teeth of': [ 'In spite of opposition or difficulty.' ],
+  'In vogue': [ 'Popular or in fashion.' ],
+  'Ins and outs': [ 'Full details or complexities of something.' ],
+  'It’s Greek to me': [ 'I cannot understand it at all.' ],
+  'It’s Raining Cats and Dogs': [ 'It’s raining very heavily.' ],
+  'Ivory towers': [ 'Detachment and seclusion from practical affairs.' ],
+  'Jump the gun': [ 'Start something too soon or prematurely.' ],
+  'Keep a straight face': [ 'To maintain a serious expression despite wanting to laugh.' ],
+  'Keep an ear to the ground': [ 'Stay informed about developments.' ],
+  'Keep at arm’s length': [ 'Maintain a safe or distant relationship.' ],
+  'Keep in touch': [ 'Continue to communicate with someone.' ],
+  'Keep one’s head': [ 'Remain calm and composed in difficult situations.' ],
+  'Keep under one’s hat': [ 'Keep something secret or confidential.' ],
+  'Keep up appearances': [
+    'To pretend to be happier or richer so as to conceal the real situation.'
+  ],
+  'Keep your chin up': [ 'To remain cheerful and hopeful in difficult circumstances.' ],
+  'Keep/hold something at bay': [
+    'To control something and prevent it from causing you problems or moving closer.'
+  ],
+  'Kick the bucket': [ 'To die.' ],
+  'Kicked up a row': [ 'To make a great fuss or cause a disturbance.' ],
+  'Kill two birds with one stone': [ 'To achieve two results with a single effort.' ],
+  'Kith and kin': [ 'One’s blood relatives or family members.' ],
+  'Know something inside out': [ 'To know everything about something thoroughly.' ],
+  'Latin and Greek': [ 'Unable to understand.' ],
+  'Lay out': [ 'Spend.' ],
+  'Lead someone by the nose': [ 'To completely control or dominate someone.' ],
+  'Learn by heart': [ 'To memorize something.' ],
+  'Learn/Know the ropes': [ 'To learn how to do a job or task properly.' ],
+  'Leave no stone unturned': [
+    'To try every possible course of action in order to achieve something.'
+  ],
+  'Leaves you in the lurch': [ 'To desert someone in difficulties.' ],
+  'Left out in cold': [ 'To be ignored.' ],
+  'Lend me your ear': [ 'Pay attention to me.' ],
+  'Lend someone a hand': [ 'To help or assist, especially voluntarily.' ],
+  'Let bygones be bygones': [ 'To forgive and forget past conflicts.' ],
+  'Let sleeping dogs lie': [ 'To avoid old controversies and let things remain undisturbed.' ],
+  'Let the cat out of the bag': [ 'To reveal a secret carelessly or by mistake.' ],
+  'Let the chips fall where they may': [
+    'To accept whatever happens without worrying about the consequences.'
+  ],
+  'Let the grass grow under one’s feet': [ 'To remain idle and do nothing.' ],
+  'Let your hair down': [ 'To behave freely and uninhibitedly / to relax and enjoy.' ],
+  'Level playing field': [
+    'A situation where everyone has a fair and equal chance to succeed.'
+  ],
+  'Light at the end of the tunnel': [ 'Signs of improvement in a difficult situation.' ],
+  'Like a shag on a rock': [ 'Completely alone.' ],
+  'Like two peas in a pod': [ 'Things that are very similar in appearance or always together.' ],
+  'Lily-livered': [ 'Not brave or cowardly.' ],
+  'Lion’s mouth': [ 'A difficult or dangerous situation.' ],
+  'Live from hand to mouth': [
+    'To survive with just enough money, without saving anything extra.'
+  ],
+  'Lock, stock and barrel': [ 'Completely; including all or every part of something.' ],
+  'Look before you leap': [ 'Think carefully about the consequences before acting.' ],
+  'Look down your nose at': [ 'Regard with contempt or consider someone inferior.' ],
+  'Loosen the purse strings': [ 'To increase the money available for expenditure.' ],
+  'Lose face': [ 'To become embarrassed or lose respect.' ],
+  'Lose one’s head': [ 'To panic or lose self-control.' ],
+  'Lose your marbles': [ 'To become mentally confused or insane.' ],
+  'Made a clean breast of': [ 'To admit or confess something fully.' ],
+  'Made light of': [ 'To treat something lightly or with little importance.' ],
+  'Maiden speech': [ 'The first speech ever given by someone.' ],
+  'Make a beeline for': [ 'To go straight to something.' ],
+  'Make a hash of': [ 'To do something very badly or make a mess of it.' ],
+  'Make a quick buck': [ 'To earn money quickly and easily.' ],
+  'Make head or tail of something': [ 'To understand or figure something out.' ],
+  'Make no bones about': [ 'To state something clearly and without hesitation.' ],
+  'Make one’s blood boil': [ 'To become extremely angry.' ],
+  'Make one’s mark': [ 'To distinguish oneself or attain recognition.' ],
+  'Make up with (someone)': [ 'To settle differences and become friendly again.' ],
+  'Making hay while the sun shines': [ 'To take advantage of a favorable opportunity.' ],
+  'Mealy mouthed': [
+    'To be afraid to state something directly or to speak insincerely.'
+  ],
+  'Method to my madness': [ 'A reason or purpose behind apparently crazy or random actions.' ],
+  'Milk and water': [ 'Weak ideas or statements.' ],
+  'Much ado about nothing': [ 'Making a big fuss over a small matter.' ],
+  'Neck of the woods': [ 'Neighbourhood or region.' ],
+  'New kid on the block': [ 'Someone new to a place or activity.' ],
+  'Nine days’ wonder': [ 'A short-lived sensation.' ],
+  'Nip in the bud': [ 'To stop something at the start before it develops.' ],
+  'No love lost between': [ 'There is intense dislike or people are not on good terms.' ],
+  'Not fit to hold a candle': [ 'Inferior to or cannot be compared to another.' ],
+  'Not hold water': [ 'To not seem reasonable or believable.' ],
+  'Not mince words': [ 'To be blunt or frank.' ],
+  'Not to look a gift horse in the mouth': [ 'To not find fault with what is received as a gift.' ],
+  'Off and on / On and Off': [ 'Occasionally or periodically.' ],
+  'It’s a small world': [ 'People often meet unexpectedly or have common acquaintances.' ],
+  'Lock horns': [ 'To get into an argument or fight.' ],
+  "Make one's flesh crawl/creep": [ 'To be very frightened or disgusted.' ],
+  'Mouth watering': [ 'Appealing to taste; looks or smells delicious.' ],
+  'Move heaven and earth': [ 'Do everything possible to achieve something.' ],
+  'Not one’s cup of tea': [ 'Not something one likes or enjoys.' ],
+  'Null and void': [ 'Invalid; without legal force.' ],
+  'Of the first water': [ 'Of the best quality.' ],
+  'Off the hook': [ 'No longer in difficulty or trouble.' ],
+  'On a roll': [ 'To be experiencing a period of repeated success.' ],
+  'On cloud nine': [ 'Extremely happy and excited.' ],
+  'On tenterhooks': [ 'In suspense or anxious.' ],
+  'On the back burner': [ 'To temporarily not deal with something as it is less urgent.' ],
+  'On the ball': [ 'To be alert and quick to respond.' ],
+  'On the breadline': [ 'Very poor or living at a subsistence level.' ],
+  'On the brink/verge of': [ 'At the edge of a major change or event.' ],
+  'On the cards': [ 'Likely to happen or probable.' ],
+  'On the face of it': [ 'According to what appears on the surface.' ],
+  'On the horizon': [ 'An event that is likely to happen soon.' ],
+  'On the same page': [ 'To be in agreement or think in the same way.' ],
+  'On the spur of the moment': [ 'Acting impulsively without thinking.' ],
+  'On the wane': [ 'On the decline or decreasing.' ],
+  'On thin ice': [ 'In a dangerous or risky situation.' ],
+  'Once and for all': [ 'To bring to an end conclusively or finally.' ],
+  'Once bitten, twice shy': [ 'An unpleasant experience makes one cautious for future.' ],
+  'Once in a blue moon': [ 'Rarely or very infrequently.' ],
+  'Out of date': [ 'Out of date.' ],
+  'Out of sorts': [ 'To be unwell or slightly sick.' ],
+  'Out of the blue': [ 'Completely unexpectedly.' ],
+  'Out of the question': [ 'Impossible.' ],
+  'Out of the woods': [ 'Out of the woods.' ],
+  'Over the moon': [ 'Extremely happy or delighted.' ],
+  'Pandora’s Box': [ 'A source of many unforeseen problems or trouble.' ],
+  'Part and parcel': [ 'An essential or integral element.' ],
+  'Pass the buck': [ 'To refuse responsibility or blame someone else.' ],
+  'Pass the hat round/around': [ 'To collect money.' ],
+  'Pat on the back': [ 'To praise or approve for doing something good.' ],
+  'Pay lip service': [ 'To pretend to agree or say something without meaning it.' ],
+  'Penny wise and pound foolish': [ 'Careful with trivial matters but wasteful in large issues.' ],
+  'Pig in a poke': [ 'Something bought without examining properly.' ],
+  'Pillar to post': [ 'Moving from one place to another repeatedly.' ],
+  'Pipe dream': [ 'A dream or idea that is unlikely to happen.' ],
+  'Play devil’s advocate': [ 'To argue the opposite just for the sake of argument.' ],
+  'Play it by ear': [ 'To do something without special preparation or to improvise.' ],
+  'Play one’s ace': [ 'To use one’s best weapon or resource.' ],
+  'Play to the gallery': [ 'To seek to win approval or to impress others.' ],
+  'Play with fire': [ 'To do something dangerous or take a foolish risk.' ],
+  'Played ducks and drakes': [ 'To squander or waste recklessly.' ],
+  'Pocket an insult': [ 'To bear an insult quietly or tolerate it without protest.' ],
+  'Point-blank': [ 'Directly or very close.' ],
+  'Poke one’s nose': [ 'To interfere or meddle in others’ affairs.' ],
+  'Pour/Throw cold water': [ 'To discourage by showing indifference.' ],
+  'Pull someone up': [ 'To criticize or reprimand someone.' ],
+  'Pull someone’s leg': [ 'To play a joke on or tease someone.' ],
+  'Pull strings': [ 'To use personal influence.' ],
+  'Pull the plug': [ 'To stop something from happening or continuing.' ],
+  'Pull up your socks': [ 'To put in extra effort or improve performance.' ],
+  'Pull yourself together': [ 'To calm yourself down and behave appropriately.' ],
+  'Pulled all the stops': [ 'To do something with maximum effort or ability.' ],
+  'Put off': [ 'To postpone or delay something.' ],
+  'Put one’s foot down': [ 'To take a firm stand or assert authority.' ],
+  'Put two and two together': [ 'To deduce or reason logically from facts.' ],
+  'Putting the cart before the horse': [ 'To do things in the wrong order.' ],
+  'Queer pitch': [ 'To spoil somebody’s chance of doing something.' ],
+  'Rained on the bride’s parade': [ 'To spoil and ruin someone’s happiness or plans.' ],
+  'Raise a few eyebrows': [ 'To cause surprise or mild shock in others.' ],
+  'Raise the alarm': [ 'To warn of a dangerous situation.' ],
+  'Ran in the groove': [ 'To move in harmony or smoothly.' ],
+  'Rat race': [ 'Fierce competition for power or success.' ],
+  'Read between the lines': [ 'To find a hidden meaning not explicitly stated.' ],
+  'Red-tape': [ 'Official procedures causing delay or excessive bureaucracy.' ],
+  'Rest on one’s laurels': [ 'To be satisfied with past success and not make further effort.' ],
+  'Ring a bell': [ 'To sound familiar or remind you of something.' ],
+  'Rise like a phoenix': [ 'To become successful again or to emerge with new life.' ],
+  'Rise to the occasion': [ 'To deal successfully with a difficult situation.' ],
+  'Rock the boat': [ 'To disturb a stable situation.' ],
+  'Roll up your sleeves': [ 'To get ready to do something difficult or hard work.' ],
+  'Rub somebody the wrong way': [ 'To irritate or annoy someone.' ],
+  'Run out of steam': [ 'To lose impetus or enthusiasm and stop doing something.' ],
+  'Rule the roost': [ 'To dominate or make all the decisions; be in complete control.' ],
+  'Salt of the earth': [ 'A good, reliable, honest person.' ],
+  Scapegoats: [ 'People who are blamed or punished for others’ misdeeds.' ],
+  'Scrape the bottom of the barrel': [ 'To use one’s last and weakest resource.' ],
+  'See eye to eye': [ 'To be in full agreement with someone.' ],
+  'See the light of day': [ 'To become publicly known or visible.' ],
+  'Selling like hot cakes': [ 'Selling very quickly and in large numbers.' ],
+  'Separate the wheat from the chaff': [ 'To sort out the valuable from the worthless.' ],
+  'Shake off': [ 'To get rid of something.' ],
+  'Sharp as a tack': [ 'Extremely intelligent and mentally active.' ],
+  'Shed crocodile tears': [ 'To pretend to be sad or show false sympathy.' ],
+  'Shot in the dark': [ 'A random attempt with little chance of success.' ],
+  'Sit on the fence': [ 'To remain neutral or undecided between two options.' ],
+  'Snake in the grass': [ 'An unreliable and deceitful person.' ],
+  'Snowed under': [ 'Busy.' ],
+  'Soft option': [ 'Easy and agreeable option.' ],
+  'Sought after': [ 'In great demand.' ],
+  'Sow wild oats': [ 'To waste time by doing foolish things, especially in youth.' ],
+  'Speak of the devil': [ 'The person we were just talking about showed up.' ],
+  'Speaks volumes': [ 'Gives enough proof without using words.' ],
+  'Spick and span': [ 'Very neat, clean, or tidy.' ],
+  'Spill the beans': [ 'Disclose the secrets accidentally.' ],
+  'Spin one’s wheels': [ 'Expel much effort for little or no gain.' ],
+  'Split one’s sides (laughing)': [ 'Be extremely amused.' ],
+  'Spread like wildfire': [ 'Spread rapidly.' ],
+  'Slap on the wrist': [ 'Mild punishment.' ],
+  'Sleep on it': [ 'Delay making a decision until the next day.' ],
+  'Square peg in a round hole': [ 'A misfit in the environment.' ],
+  'Stab someone in the back': [ 'Betray someone.' ],
+  'Stand by': [ 'To support or remain loyal to someone.' ],
+  'Steal someone’s thunder': [ 'Take credit for something someone else did.' ],
+  'Start/set/get the ball rolling': [ 'To start doing something.' ],
+  'Stick to one’s guns': [
+    'Maintain one’s own opinion; not change one’s decision despite opposition.'
+  ],
+  'Steer clear of': [ 'Avoid someone or something because it is dangerous for you.' ],
+  'Still waters run deep': [
+    'Have passion or great intelligence underneath a calm expression.'
+  ],
+  'Stir up a hornet’s nest': [ 'Cause anger in many people or raise controversy.' ],
+  'Straight from the horse’s mouth': [ 'Receive information directly from the person involved.' ],
+  'Strain every nerve': [ 'Work very hard.' ],
+  'Strike while the iron is hot': [
+    'To act at the right time or grab a favourable opportunity promptly.'
+  ],
+  'Struck several bad patches': [ 'Had many professional difficulties.' ],
+  'Suit you to a T': [ 'To be ideal or perfectly appropriate for one.' ],
+  'Sweep under the carpet': [
+    'To hide a problem or try to keep it secret instead of dealing with it.'
+  ],
+  'Swollen-headed': [ 'Pride.' ],
+  'Sword of Damocles': [ 'Imminent danger.' ],
+  'Take a cue from someone': [ 'Learn and act by being strongly influenced by someone.' ],
+  'Take exception to': [ 'To object strongly.' ],
+  'Take heart': [ 'To take courage or to gain confidence.' ],
+  'Take to one’s heels': [ 'To run away or flee in fear.' ],
+  'Take with a pinch/grain of salt': [ 'Not believe completely something that you are told.' ],
+  'Take the bull by the horn': [
+    'To face a difficult or dangerous situation in a very direct or confident way.'
+  ],
+  'Takes after': [ 'To be similar in appearance.' ],
+  'Taking a toll on': [
+    'To harm or damage someone or something, especially in a gradual way.'
+  ],
+  'Talked over': [ 'Discussed.' ],
+  'Talking through her hat': [ 'Talking nonsense.' ],
+  'The bad egg': [ 'A dishonest or ill-behaved person.' ],
+  'The early bird catches the worm': [ 'One who arrives first gets the best chance at success.' ],
+  'The elephant in the room': [ 'A big problem everyone is ignoring or afraid to talk about.' ],
+  'The grass is greener on the other side': [
+    'Other people always seem to be in a better situation, although it might not be true.'
+  ],
+  'Teething problems': [ 'Problems at the start of a new project.' ],
+  'The green-eyed monster': [ 'Jealousy.' ],
+  'The last straw': [
+    'Final problem in a series of difficulties that makes a situation unbearable.'
+  ],
+  'The Lion’s share': [ 'The biggest and best part of a whole.' ],
+  'The man in the street': [ 'The ordinary man.' ],
+  'The pot calling the kettle black': [ 'People are guilty of the very fault they identify in others.' ],
+  'The pros and cons': [ 'For and against; advantages and disadvantages.' ],
+  'The seamy side': [ 'The unpleasant aspects.' ],
+  'The thin end of the wedge': [ 'Start of harmful development; beginning of something bad.' ],
+  'The whys and wherefores': [ 'Underlying reasons or causes of something.' ],
+  'Thick as thieves': [ 'Having a close friendship.' ],
+  'Threw a spanner': [ 'Do something that prevents a plan or activity from succeeding.' ],
+  'Through thick and thin': [ 'Support under all circumstances.' ],
+  'Throw caution to the wind': [ 'Behave recklessly without worrying about the risk.' ],
+  'Throw in the towel': [ 'Acknowledge defeat or surrender.' ],
+  'Tickled pink': [ 'Very pleased.' ],
+  'Tie the knot': [ 'Get married.' ],
+  'To accept the gauntlet': [ 'To accept or respond to a challenge.' ],
+  'To air dirty linen in public': [ 'To discuss private affairs in public.' ],
+  'To be devil’s advocate': [ 'To raise a counter argument just for the sake of it.' ],
+  'To be fair and square': [ 'To be honest; according to the rules.' ],
+  'To be in a fix': [ 'To be in a difficult situation.' ],
+  'To be on pins and needles': [ 'To be in an agitated state of suspense.' ],
+  'To be on the horns of a dilemma': [ 'To be in a difficult situation or choice.' ],
+  'To be taken aback': [ 'To be surprised or shocked.' ],
+  'To beat a retreat': [ 'To run away in fear; to withdraw.' ],
+  'To beat the clock': [ 'To perform a task within the time limit.' ],
+  'To blow hot and cold': [ 'To be friendly and unfriendly at the same time; vacillating.' ],
+  'To bring to light': [ 'To reveal clearly.' ],
+  'To burn one’s fingers': [ "To suffer unpleasant consequences as a result of one's actions." ],
+  'To burn the candle at both ends': [ 'To work excessively hard or keep busy all the time.' ],
+  'To call a spade a spade': [
+    'To be frank or say the truth about something, even if it is not polite.'
+  ],
+  'To clip one’s wings': [ 'To restrict someone’s freedom.' ],
+  'To come out in the open': [ 'To become public or evident.' ],
+  'To cry wolf': [ 'To raise a false alarm or ask for help when you do not need it.' ],
+  'To cudgel one’s brains': [ 'To think hard.' ],
+  'To cut a sorry figure': [ 'Created a wrong impression.' ],
+  'To eat humble pie': [ 'To accept defeat or suffer humiliation.' ],
+  'Throw up the sponge': [ 'To surrender; to acknowledge defeat.' ],
+  'Till the cows come home': [ 'For a very long time.' ],
+  'Tit for tat': [ 'To do harm as done to you; counter attack.' ],
+  "To cut one's coat according to one's cloth": [ "To live within one's means." ],
+  'To die in harness': [ 'To continue occupation till death.' ],
+  'To draw the long bow': [ 'To exaggerate.' ],
+  'To end in smoke': [ 'To come to nothing; end without any practical result.' ],
+  'To feel at home': [ 'To feel easy and comfortable.' ],
+  'To fight tooth and nail': [ 'To make every possible effort; to fight furiously and fiercely.' ],
+  'To fish in troubled waters': [ 'To profit out of disturbance; to get benefit in bad situation.' ],
+  'To flog/beating a dead horse': [
+    'To attempt the impossible; waste energy on an unalterable situation.'
+  ],
+  'To foam at one’s mouth': [ 'To get very angry; to be enraged and shout.' ],
+  'To get away with': [ 'To escape from something.' ],
+  'To get cold feet': [
+    'To experience nervousness or anxiety before one attempts to do something.'
+  ],
+  'To gird up the loins': [ 'To prepare for hard work or a difficult situation.' ],
+  'To give the devil his due': [
+    'To give encouragement or credit to an enemy; to give credit to a notorious person.'
+  ],
+  'To go bananas': [ 'To become very excited or angry.' ],
+  'To go scot-free': [ 'To escape without punishment; unpunished.' ],
+  'To go the whole hog': [ 'To do something as completely as possible.' ],
+  'To go/run around in circles': [
+    'To waste one’s time and energy doing trivial things; to keep doing something without achieving much.'
+  ],
+  'To hail from': [ 'To come from a particular place.' ],
+  'To have a gut feeling': [ 'Strong instinct or intuition.' ],
+  'To have second thoughts': [ 'To reconsider.' ],
+  'To have something up one’s sleeve': [ 'To have a secret plan; have an alternative plan.' ],
+  'To have a sigh of relief': [
+    'To suddenly feel very happy because something unpleasant has not happened or has ended.'
+  ],
+  'To hit below the belt': [
+    'To attack in an unfair manner; contrary to the principles of fairness.'
+  ],
+  'To hammer out': [ 'To reach an agreement after long discussion.' ],
+  "To his heart's content": [ 'As much as one wants.' ],
+  'To judge a book by its cover': [ 'To evaluate people’s worth by their outward appearance.' ],
+  'To jump on the bandwagon': [
+    'To follow popular trends; to get involved in an activity because it is likely to succeed.'
+  ],
+  'To keep an eye on': [ 'To watch someone or something carefully; to be cautious.' ],
+  'To keep one’s temper': [ 'To remain calm.' ],
+  'To let someone off': [ 'To release someone from blame.' ],
+  'To lose ground': [ 'Becoming less acceptable.' ],
+  'To make a mountain out of a molehill': [
+    'To give great importance to little things; exaggerate a minor problem.'
+  ],
+  'To make amends': [ 'To compensate; to correct a mistake.' ],
+  'To keep the wolf away from the door': [ 'To keep away extreme poverty; to earn just enough for a living.' ],
+  'To keep under wraps': [ 'To keep secret.' ],
+  'To hit the sack': [ 'To prepare for sleep; to go to bed.' ],
+  'To make both ends meet': [
+    'To live within one’s income; manage expenses with just enough funds.'
+  ],
+  'To make up one’s mind': [ 'To decide what to do; decide firmly.' ],
+  'To meet one’s Waterloo': [
+    'To experience defeat; to be defeated by someone who is too strong for you.'
+  ],
+  'To miss the boat': [ 'To miss an opportunity; lose an opportunity.' ],
+  'To paddle one’s own canoe': [ 'Manage independently; to work independently.' ],
+  'To pay through the nose': [ 'To pay an extremely high price.' ],
+  'To pick holes in': [ 'To criticize someone; finding fault with.' ],
+  'To play fast and loose': [ 'To act in an unreliable way; to be playful.' ],
+  'To play second fiddle': [
+    'Position has lesser importance than anybody else; take a subordinate role.'
+  ],
+  'To pour oil on troubled water': [ 'To calm a dispute.' ],
+  'To put up with someone': [ 'Tolerate.' ],
+  'To raise a dust': [ 'To cause disruption or confusion.' ],
+  'To set the Thames on fire': [ 'To do a heroic deed; do wonderful or exciting things.' ],
+  'To show a clean pair of heels': [ 'To escape; ran away.' ],
+  'To smell a rat': [ 'Suspect a trick or deceit; detect something wrong.' ],
+  'To prime the pump': [ 'Encourage the growth or action of something.' ],
+  'To put a spoke in one’s wheel': [
+    'To put a difficulty in the way of progress; thwart in the execution of the plan.'
+  ],
+  'To speak one’s mind': [ 'To express one’s thoughts; to voice one’s thoughts plainly.' ],
+  'To stand on one’s feet': [ 'To be strong and independent.' ],
+  'To stand one’s ground': [ 'Refused to yield; refuse to change your opinion.' ],
+  'To stick one’s neck out': [ 'To take a risk.' ],
+  'To take a back seat': [ 'To become less important or to give up control over things.' ],
+  'To take a stock of': [
+    'To assess and evaluate before taking a decision; to think carefully.'
+  ],
+  'To take French leave': [
+    'Absenting oneself without permission; leave without any intimation.'
+  ],
+  'To take pains': [ 'To make efforts; try hard.' ],
+  'To take to heart': [
+    'To be greatly affected by; to consider something very seriously.'
+  ],
+  'To take to task': [ 'To be punished; to be rebuked or scolded.' ],
+  'To throw dust in one’s eyes': [ 'To deceive; to mislead or confuse.' ],
+  'To toe the line': [ 'To follow the lead; follow the rules strictly.' ],
+  'To turn a deaf ear': [ 'Disregard; refuse to obey; to be indifferent; neglect.' ],
+  'To turn over a new leaf': [ 'To change one’s behaviour for better; to begin again.' ],
+  'To win laurels': [ 'To achieve honours and glory.' ],
+  'Too many irons in the fire': [ 'Engaged in too many enterprises at the same time.' ],
+  'Took a leap in the dark': [
+    'Took a risk; to do something without being certain of the outcome and result.'
+  ],
+  'Tricks of the trade': [ 'Special skills or knowledge.' ],
+  'True colours': [ 'Real character; personality.' ],
+  'To take for granted': [ 'To assume something without question.' ],
+  'To take into account': [ 'To consider; to keep in mind.' ],
+  'To take one’s hat off (to someone)': [ 'To admire or respect.' ],
+  'To the manner born': [ 'Naturally suited for something.' ],
+  'To wrangle over an ass’s shadow': [ 'To fight over trifles.' ],
+  'Toffee-nosed': [ 'Snobbish; arrogant.' ],
+  'Took exception (to)': [ 'Objected; felt offended.' ],
+  'Took to their heels': [ 'Ran away.' ],
+  'Turn a blind eye': [ 'To ignore a situation, facts, or reality.' ],
+  'Turn up one’s nose': [ 'Treat other people with contempt; despise.' ],
+  'Twist someone’s arm': [
+    'Force someone to do something by making it hard for them to refuse; persuade someone.'
+  ],
+  'Two heads are better than one': [
+    'It’s helpful to have the advice/opinion of a second person; two people working together can achieve more than a person working alone.'
+  ],
+  'Under a cloud': [ 'Under suspicion.' ],
+  'Under duress': [ 'Under pressure; compulsion.' ],
+  'Under his nose': [ 'Right in front of someone, often without them noticing.' ],
+  'Under the weather': [
+    'To not feel well; to feel sick or unhealthy; to be in low spirits'
+  ],
+  'Up a blind alley': [
+    'Following a course of action that is certain to lead to an undesirable outcome.'
+  ],
+  'Up in arms': [
+    'To be angry; protesting vigorously about something; in rebellion.'
+  ],
+  'Up to the mark': [ 'As good as the others; up to the required standard.' ],
+  'Upset someone’s applecart': [ 'To cause trouble, especially by spoiling someone’s plans.' ],
+  'Vanish/disappear into thin air': [ 'Disappear suddenly.' ],
+  'Vote with your feet': [
+    'Show their disapproval; to show that you do not support something.'
+  ],
+  'Walk the tightrope': [
+    'Be very cautious; to be in a precarious situation requiring caution and skill.'
+  ],
+  'Walking on thin ice': [ 'Doing something risky.' ],
+  'Water under the bridge': [
+    'Something that can’t be changed anymore; something happened in the past and is no longer important or worth arguing about.'
+  ],
+  'Weal and woe': [
+    'Good times and bad times; joys and sorrows; in prosperity and adversity.'
+  ],
+  'Wear and tear': [ 'Damage.' ],
+  'Wears his heart on his sleeve': [ 'Expresses his feelings openly; to show your true emotions.' ],
+  'Weather the storm': [ 'Survive a period of difficulty.' ],
+  'When it rains, it pours': [ 'Problems seem to happen together.' ],
+  'When pigs fly': [ 'Something that is impossible.' ],
+  'When the crunch comes': [
+    'A critical moment near the end when a decisive action is needed.'
+  ],
+  'Where there’s a will, there’s a way': [
+    'If you have a strong determination to do something, then you can find a method to do it.'
+  ],
+  'Whistle in the dark': [ 'Pretend to be unafraid; try to keep up his confidence.' ],
+  'White elephant': [ 'Costly and troublesome possession useless to its owner.' ],
+  'Whole nine yards': [ 'The entirety of something; everything all the way.' ],
+  'Wild goose chase': [
+    'A worthless hunt or chase; futile search; unprofitable adventure.'
+  ],
+  'Will-o-the-wisp': [
+    'Something that is impossible to get or achieve; unreal imagining.'
+  ],
+  'Went to the winds': [ 'Dissipated.' ],
+  'With open arms': [ 'Warmly welcome.' ],
+  'Word of mouth': [ 'Through the verbal sharing of information.' ],
+  'Worth its weight in gold': [ 'Very useful, valuable, or important.' ],
+  'Yeoman service': [ 'Excellent service; useful help in need.' ],
+  'Your guess is as good as mine': [ 'Have no idea of the answer.' ],
+  'Zero tolerance': [ 'A policy of not allowing any violations of a rule or law.' ],
+  'Zip your lip': [ 'Keep quiet about something.' ],
+  'Turn down': [ 'To reject or refuse.' ],
+  'Turn turtle': [ 'To overturn or capsize.' ],
+  'Wash one’s hands off something': [ 'To withdraw from responsibility; disclaim connection with.' ]
+}
 
-
-
+MM_OWS_DATA = {
+  "A place where animals are slaughtered for consumption as food": [
+    "Abattoir"
+  ],
+  "To reduce to a shorter form intended to stand for the whole": [
+    "Abbreviation"
+  ],
+  "To give up one's authority or throne": [
+    "Abdicate"
+  ],
+  "Act of giving up (renouncing) the throne": [
+    "Abdication"
+  ],
+  "Formally put an end to a system, practice, or institution": [
+    "Abolish"
+  ],
+  "The original inhabitants/natives of a country": [
+    "Aborigines"
+  ],
+  "To increase the speed": [
+    "Accelerate"
+  ],
+  "A person who helps another to commit a crime or to do something morally wrong": [
+    "Accomplice"
+  ],
+  "Sharp, bitter, or harsh in temper, language, etc.": [
+    "Acerbic"
+  ],
+  "The scientific study of sound": [
+    "Acoustics"
+  ],
+  "To decide and state officially in court that somebody is not guilty of a crime": [
+    "Acquit"
+  ],
+  "An entertainer who performs difficult physical feats": [
+    "Acrobat"
+  ],
+  "An abbreviation formed from the initial letters of other words and pronounced as a word": [
+    "Acronym"
+  ],
+  "Fear of great heights": [
+    "Acrophobia"
+  ],
+  "The ability to make good judgments and take quick decisions": [
+    "Acumen"
+  ],
+  "A person who is physically dependent on a substance/harmful drugs": [
+    "Addict"
+  ],
+  "The period between the beginning of puberty and adulthood": [
+    "Adolescence"
+  ],
+  "Growing/existing/living in air": [
+    "Aerial"
+  ],
+  "Concerned with beauty or the appreciation of beauty": [
+    "Aesthetic"
+  ],
+  "A list of items to be discussed at a meeting": [
+    "Agenda"
+  ],
+  "To increase the importance, position or wealth": [
+    "Aggrandize"
+  ],
+  "Extreme mental or physical suffering": [
+    "Agony"
+  ],
+  "Study of chemistry in a medieval fashion": [
+    "Alchemy"
+  ],
+  "Fear of pain": [
+    "Algophobia"
+  ],
+  "A person belonging to a foreign country": [
+    "Alien"
+  ],
+  "The money paid to former wife, husband or partner when the marriage is ended": [
+    "Alimony"
+  ],
+  "A story, play, picture, etc. in which each character/event is a symbol representing an idea/a quality": [
+    "Allegory"
+  ],
+  "Words that begin with the same letter, syllable or sound": [
+    "Alliteration"
+  ],
+  "The school or college in which one has been educated": [
+    "Alma Mater"
+  ],
+  "A publication containing astronomical or meteorological annual calendar that contains important dates and time": [
+    "Almanac"
+  ],
+  "A table or flat surface where offerings are made to a deity": [
+    "Altar"
+  ],
+  "The height above sea level": [
+    "Altitude"
+  ],
+  "Someone who makes charitable donations intended to the welfare of other people": [
+    "Altruist"
+  ],
+  "One who plays for pleasure rather than as a profession": [
+    "Amateur"
+  ],
+  "Able to use the left hand and right hand equally well": [
+    "Ambidextrous"
+  ],
+  "Capable of being understood in either of two or more possible senses": [
+    "Ambiguous"
+  ],
+  "One who has the qualities like shyness and openness at the same time": [
+    "Ambivert"
+  ],
+  "Walk or move at a slow, relaxed pace": [
+    "Amble"
+  ],
+  "Make (something bad or unsatisfactory) better": [
+    "Ameliorate"
+  ],
+  "A partial or total loss of memory": [
+    "Amnesia"
+  ],
+  "An official pardon": [
+    "Amnesty"
+  ],
+  "Not following any moral rules and not caring about right/wrong": [
+    "Amoral"
+  ],
+  "Animals that can live both on land and in water": [
+    "Amphibians"
+  ],
+  "A similarity between like features of two things, on which a comparison may be based": [
+    "Analogy"
+  ],
+  "A person who believes that laws and governments are not necessary": [
+    "Anarchist"
+  ],
+  "A situation in a country, an organization, etc. in which there is no government, order/control": [
+    "Anarchy"
+  ],
+  "A person who presents a radio/television programme": [
+    "Anchor"
+  ],
+  "Belonging to the long past": [
+    "Ancient"
+  ],
+  "A short, interesting or amusing story about a real person or an event": [
+    "Anecdote"
+  ],
+  "A medical specialist who administers drugs for relieving pain during surgery": [
+    "Anesthetist"
+  ],
+  "A strong dislike or hostility": [
+    "Animosity"
+  ],
+  "To destroy completely": [
+    "Annihilate"
+  ],
+  "The date on which an event happened in some previous year": [
+    "Anniversary"
+  ],
+  "Whose names are not known": [
+    "Anonymous"
+  ],
+  "Obsessive desire to lose weight by refusing to eat": [
+    "Anorexia"
+  ],
+  "A collection of poems, stories, etc. that have been written by different people and published together in a book": [
+    "Anthology"
+  ],
+  "One who studies the evolution of mankind": [
+    "Anthropologist"
+  ],
+  "The study of human race, especially of its origin, development, customs and beliefs": [
+    "Anthropology"
+  ],
+  "A medicine to nullify the effect of poison or another medicine": [
+    "Antidote"
+  ],
+  "Strong dislike between two persons": [
+    "Antipathy"
+  ],
+  "One who studies/deals antique things": [
+    "Antiquarian"
+  ],
+  "The exact opposite": [
+    "Antithesis"
+  ],
+  "A policy that segregates people on the basis of race": [
+    "Apartheid"
+  ],
+  "Showing or feeling no interest, enthusiasm, or concern": [
+    "Apathetic"
+  ],
+  "The feeling of not being interested in or enthusiastic": [
+    "Apathy"
+  ],
+  "A place where bees are kept": [
+    "Apiary"
+  ],
+  "A person who renounces a religious or political belief or principle": [
+    "Apostate"
+  ],
+  "A person who works for an expert to learn a trade": [
+    "Apprentice"
+  ],
+  "Being afraid of water or being near water": [
+    "Aquaphobia"
+  ],
+  "A glass tank where fish and water plants are kept": [
+    "Aquarium"
+  ],
+  "Animals and plants growing or living in, or near water": [
+    "Aquatic"
+  ],
+  "A person who is chosen to settle a disagreement": [
+    "Arbitrator"
+  ],
+  "One who studies human Antiquities": [
+    "Archaeologist"
+  ],
+  "The study of human history and prehistory through the excavation of sites": [
+    "Archaeology"
+  ],
+  "No longer in use": [
+    "Archaic"
+  ],
+  "A large body of water with many islands": [
+    "Archipelago"
+  ],
+  "The place where public, government or historical records are kept": [
+    "Archive"
+  ],
+  "A place where fights take place": [
+    "Arena"
+  ],
+  "A government by the nobles": [
+    "Aristocracy"
+  ],
+  "A military structure where arms and ammunition and other military equipment are stored": [
+    "Arsenal"
+  ],
+  "Deliberately and meticulously set something on fire": [
+    "Arson"
+  ],
+  "A criminal who illegally sets fire to property": [
+    "Arsonist"
+  ],
+  "Fear of fire": [
+    "Arsonphobia"
+  ],
+  "Good at expressing ideas, feelings clearly in words": [
+    "Articulate"
+  ],
+  "One who practices one of the fine arts": [
+    "Artist"
+  ],
+  "One who denies oneself ordinary bodily pleasures": [
+    "Ascetic"
+  ],
+  "To attribute a cause or characteristic to something": [
+    "Ascribe"
+  ],
+  "The science of foretelling events by mapping stars": [
+    "Astrology"
+  ],
+  "A person engaged in or trained for spaceflight": [
+    "Astronaut"
+  ],
+  "The scientific study of celestial bodies like sun, moon, stars, planets, etc.": [
+    "Astronomy"
+  ],
+  "Place that provides refuge": [
+    "Asylum"
+  ],
+  "One who doesn\"t believe in the existence of God": [
+    "Atheist"
+  ],
+  "That can be heard clearly": [
+    "Audible"
+  ],
+  "One who makes an official examination of accounts/financial records": [
+    "Auditor"
+  ],
+  "A building where an audience sits": [
+    "Auditorium"
+  ],
+  "Made or done in the traditional or original way": [
+    "Authentic"
+  ],
+  "The life history of a person written by himself": [
+    "Autobiography"
+  ],
+  "A system of government of a country in which one person has complete power": [
+    "Autocracy"
+  ],
+  "A ruler who has complete power": [
+    "Autocrat"
+  ],
+  "A self-governing country or region": [
+    "Autonomy"
+  ],
+  "An official examination of a dead body by a doctor in order to discover the cause of death": [
+    "Autopsy"
+  ],
+  "A mass of snow, ice and rocks falling rapidly down a mountainside": [
+    "Avalanche"
+  ],
+  "Insatiable desire for wealth": [
+    "Avarice"
+  ],
+  "Having an extreme desire for wealth": [
+    "Avaricious"
+  ],
+  "A place for keeping the birds in a confined space": [
+    "Aviary"
+  ],
+  "A rule/principle that most people believe to be true": [
+    "Axiom"
+  ],
+  "A man having no hair on the scalp": [
+    "Bald"
+  ],
+  "A large bundle bound for storage or transport": [
+    "Bale"
+  ],
+  "A poem that tells a story and has a regular rhythm and rhyme scheme": [
+    "Ballad"
+  ],
+  "One who is unable to pay his debts": [
+    "Bankrupt"
+  ],
+  "Jokes and funny remarks amongst friends": [
+    "Banter"
+  ],
+  "An instrument used for measuring atmospheric pressure": [
+    "Barometer"
+  ],
+  "Housing for soldiers": [
+    "Barracks"
+  ],
+  "A cylindrical container": [
+    "Barrel"
+  ],
+  "A group of guns or missile launchers operated together at one place": [
+    "Battery"
+  ],
+  "Something of monstrous size or power": [
+    "Behemoth"
+  ],
+  "A person who is fond of fighting": [
+    "Bellicose"
+  ],
+  "The sound made by the crocodile": [
+    "Bellow"
+  ],
+  "One who helps people by giving them money or other aid": [
+    "Benefactor"
+  ],
+  "A group of girls/boys/birds etc.": [
+    "Bevy"
+  ],
+  "A list of the books referred to in a scholarly work": [
+    "Bibliography"
+  ],
+  "Preoccupation with the acquisition and possession of books": [
+    "Bibliomania"
+  ],
+  "A person who loves or collects books": [
+    "Bibliophile"
+  ],
+  "A thing which happens every two years": [
+    "Biennial"
+  ],
+  "A person who is intolerant towards those holding different opinions": [
+    "Bigot"
+  ],
+  "A person who can speak only two languages": [
+    "Bilingual"
+  ],
+  "The story of a person’s life written by somebody else": [
+    "Biography"
+  ],
+  "Study of living organisms": [
+    "Biology"
+  ],
+  "The removal of tissue from the body of somebody who is ill for examination": [
+    "Biopsy"
+  ],
+  "Words uttered impiously about God or sacred things": [
+    "Blasphemy"
+  ],
+  "The sound made by sheep": [
+    "Bleat"
+  ],
+  "One who does not follow the usual rules of social life": [
+    "Bohemian"
+  ],
+  "Huge fire for celebration": [
+    "Bonfire"
+  ],
+  "An avid book reader": [
+    "Bookworm"
+  ],
+  "One who is well-versed in the knowledge of plants": [
+    "Botanist"
+  ],
+  "The scientific study of plants and their structure": [
+    "Botany"
+  ],
+  "A broad road bordered with trees": [
+    "Boulevard"
+  ],
+  "An arrangement of flowers that is usually given as a present": [
+    "Bouquet"
+  ],
+  "A small shop that sells fashionable clothes": [
+    "Boutique"
+  ],
+  "Affecting or relating to cows or cattle": [
+    "Bovine"
+  ],
+  "A shady place under trees": [
+    "Bower"
+  ],
+  "A factory where beer is made": [
+    "Brewery"
+  ],
+  "Member of a band of robbers": [
+    "Brigand"
+  ],
+  "Hard but easily broken": [
+    "Brittle"
+  ],
+  "The young of an animal cared for at one time": [
+    "Brood"
+  ],
+  "A woman with dark brown hair": [
+    "Brunette"
+  ],
+  "A government run by officials": [
+    "Bureaucracy"
+  ],
+  "A hole excavated by an animal as dwelling": [
+    "Burrow"
+  ],
+  "A group of things that have been hidden in some place": [
+    "Cache"
+  ],
+  "One who is bad in spellings": [
+    "Cacographer"
+  ],
+  "Harsh or discordant sound": [
+    "Cacophony"
+  ],
+  "A person who is skilled at producing beautiful handwriting": [
+    "Calligrapher"
+  ],
+  "The art of beautiful handwriting": [
+    "Calligraphy"
+  ],
+  "That which makes it difficult to recognize the presence or real nature of something": [
+    "Obfuscation"
+  ],
+  "A person who eats human flesh": [
+    "Cannibal"
+  ],
+  "House or shelter of a gipsy": [
+    "Caravan"
+  ],
+  "The dead body of an animal": [
+    "Carcass"
+  ],
+  "A doctor who specializes in the study or treatment of heart diseases": [
+    "Cardiologist"
+  ],
+  "A picture of a person or thing drawn in such an exaggerated manner as to cause laughter": [
+    "Caricature"
+  ],
+  "A person who draws or makes maps": [
+    "Cartographer"
+  ],
+  "The art or process of drawing or making maps": [
+    "Cartography"
+  ],
+  "A place where gambling games are played": [
+    "Casino"
+  ],
+  "A list or collection of books or informative graphics": [
+    "Catalogue"
+  ],
+  "A substance that speeds up a chemical reaction without being consumed by the reaction": [
+    "Catalyst"
+  ],
+  "Event resulting in sudden and great damage or suffering": [
+    "Catastrophe"
+  ],
+  "Causing great damage or suffering": [
+    "Catastrophic"
+  ],
+  "A local meeting of party members to select candidates, etc.": [
+    "Caucus"
+  ],
+  "Soldiers who fight on horseback": [
+    "Cavalry"
+  ],
+  "A time when enemies agree to stop fighting": [
+    "Ceasefire"
+  ],
+  "A person who readily believes others": [
+    "Credulous"
+  ],
+  "A person or idea that can be believed or trusted": [
+    "Credible"
+  ],
+  "A place where a dead person’s body is cremated": [
+    "Crematorium"
+  ],
+  "A principle or standard by which anything is or can be judged": [
+    "Criterion"
+  ],
+  "A person who sneers at the aims and beliefs of his fellow men": [
+    "Cynic"
+  ],
+  "The sound made by frogs": [
+    "Croak"
+  ],
+  "The study of secret writing and coded language or words": [
+    "Cryptography"
+  ],
+  "Guilty of the crime": [
+    "Culpable"
+  ],
+  "Person who is the custodian of a museum or gallery": [
+    "Curator"
+  ],
+  "A long and determined attempt to achieve something that you believe in strongly": [
+    "Crusade"
+  ],
+  "Extreme fear of dogs": [
+    "Cynophobia"
+  ],
+  "Center of attraction": [
+    "Cynosure"
+  ],
+  "The branch of biology dealing with cells": [
+    "Cytology"
+  ],
+  "A period of ten years": [
+    "Decade"
+  ],
+  "To injure someone’s reputation by false and harmful communication": [
+    "Defamation"
+  ],
+  "A disturbed state of mind caused by an illness, fever or intoxication": [
+    "Delirium"
+  ],
+  "A political system in which people elect representatives to form a government": [
+    "Democracy"
+  ],
+  "The study of population and its characteristics": [
+    "Demography"
+  ],
+  "The branch of medicine that deals with skin diseases": [
+    "Dermatology"
+  ],
+  "A doctor who studies and treats skin diseases": [
+    "Dermatologist"
+  ],
+  "Skillful with the hands": [
+    "Dexterous"
+  ],
+  "The process of finding the nature of a disease": [
+    "Diagnosis"
+  ],
+  "A form of language peculiar to a specific region or group": [
+    "Dialect"
+  ],
+  "A leader who wins his followers by his powerful oratory": [
+    "Demagogue"
+  ],
+  "A ruler with total power over a country, typically one who has obtained control by force": [
+    "Dictator"
+  ],
+  "A person who dabbles in the arts or literature without serious interest": [
+    "Dilettante"
+  ],
+  "A person who craves for alcoholic drinks": [
+    "Dipsomaniac"
+  ],
+  "A song sung in the past at a funeral or a lament for the dead": [
+    "Dirge"
+  ],
+  "Government by two rulers or authorities": [
+    "Diarchy"
+  ],
+  "A person who investigates and solves crimes": [
+    "Detective"
+  ],
+  "A person without a home, a job or property": [
+    "Derelict"
+  ],
+  "A file system in a computer that organizes documents and folders": [
+    "Directory"
+  ],
+  "Angry or dissatisfied, especially due to unfair treatment": [
+    "Disgruntled"
+  ],
+  "To break into small parts as the result of impact or decay": [
+    "Disintegrate"
+  ],
+  "To make known private or sensitive information": [
+    "Divulge"
+  ],
+  "A place under the control of a ruler or government": [
+    "Dominion"
+  ],
+  "A building primarily offering sleeping accommodation to students": [
+    "Dormitory"
+  ],
+  "To pull out or extract something": [
+    "Draw"
+  ],
+  "Nest of a squirrel": [
+    "Drey"
+  ],
+  "An uncontrollable urge or mania for wandering or traveling": [
+    "Dromomania"
+  ],
+  "A place of fixed and permanent home by an individual": [
+    "Domicile"
+  ],
+  "Capable of being bent or pulled into a shape without breaking": [
+    "Ductile"
+  ],
+  "One who can’t speak": [
+    "Dumb"
+  ],
+  "A range of different things": [
+    "Diversity"
+  ],
+  "Change the appearance to deceive or to hide true identity": [
+    "Disguise"
+  ],
+  "One who listens secretly to private conversation": [
+    "Eavesdropper"
+  ],
+  "A person with abnormal habits or eccentricities": [
+    "Eccentric"
+  ],
+  "Repetition of a sound caused by reflection of sound waves": [
+    "Echo"
+  ],
+  "Study of the interaction of organisms with their environment": [
+    "Ecology"
+  ],
+  "A thing fit to be eaten": [
+    "Edible"
+  ],
+  "A man behaving more like a woman than a man": [
+    "Effeminate"
+  ],
+  "Productive and achieving maximum output with minimum wasted effort or expense": [
+    "Efficient"
+  ],
+  "A person who believes in the equality of all people": [
+    "Egalitarian"
+  ],
+  "A person who is preoccupied with his own interests": [
+    "Egoist"
+  ],
+  "A person who speaks always in praise of himself / excessively conceited": [
+    "Egotist"
+  ],
+  "All the people in a country or area who are entitled to vote": [
+    "Electorate"
+  ],
+  "A poem that expresses lament for the dead": [
+    "Elegy"
+  ],
+  "A small mischievous fairy": [
+    "Elf"
+  ],
+  "The art of effective speaking or public oratory skills": [
+    "Elocution"
+  ],
+  "To run away secretly with a romantic partner": [
+    "Elope"
+  ],
+  "An official order to stop doing business with another country": [
+    "Embargo"
+  ],
+  "An act of misappropriation of money": [
+    "Embezzlement"
+  ],
+  "A person who leaves his country to live in another": [
+    "Emigrant"
+  ],
+  "The ability to understand another person’s feelings or experience": [
+    "Empathy"
+  ],
+  "A book or set of books giving information about all areas of knowledge": [
+    "Encyclopedia"
+  ],
+  "Regularly found in a particular place or among a particular group; native": [
+    "Endemic"
+  ],
+  "Mysterious; difficult to understand": [
+    "Enigmatic"
+  ],
+  "A scientist who studies insects": [
+    "Entomologist"
+  ],
+  "The scientific study of insects and worms": [
+    "Entomology"
+  ],
+  "Lasting for a very short time": [
+    "Ephemeral"
+  ],
+  "Widespread outbreak of a disease affecting large populations at the same time": [
+    "Epidemic"
+  ],
+  "A speech at the end of a book or play": [
+    "Epilogue"
+  ],
+  "An inscription on a tombstone": [
+    "Epitaph"
+  ],
+  "A state of perfect balance": [
+    "Equilibrium"
+  ],
+  "The dates when days and nights are of equal length": [
+    "Equinox"
+  ],
+  "One who accompanies somebody to protect him": [
+    "Escort"
+  ],
+  "Something which lasts forever; having no end": [
+    "Eternal"
+  ],
+  "Forever; endless duration": [
+    "Eternity"
+  ],
+  "Something which lasts forever; having no end (adj.)": [
+    "Eternal"
+  ],
+  "The scientific study of cultures, customs, and origins of human races": [
+    "Ethnology"
+  ],
+  "The customary code of polite behaviour in society": [
+    "Etiquette"
+  ],
+  "The study of the origin and history of words": [
+    "Etymology"
+  ],
+  "A formal speech or piece of writing praising someone who has died": [
+    "Eulogy"
+  ],
+  "Substitution of a mild for a very blunt expression": [
+    "Euphemism"
+  ],
+  "Feelings of great happiness and excitement": [
+    "Euphoria"
+  ],
+  "A person who lives outside his native country": [
+    "Expatriate"
+  ],
+  "Bringing about gentle and painless death from incurable disease": [
+    "Euthanasia"
+  ],
+  "A long and carefully organized journey or trip, especially for exploration": [
+    "Expedition"
+  ],
+  "To make amends for (a sin or fault)": [
+    "Expiate"
+  ],
+  "To remove objectionable passages from a text": [
+    "Expurgate"
+  ],
+  "Spoken or done without preparation": [
+    "Extempore"
+  ],
+  "Spending much more than is necessary or wise": [
+    "Extravagant"
+  ],
+  "An outgoing, sociable person": [
+    "Extrovert"
+  ],
+  "A short imaginary story, especially one with a moral": [
+    "Fable"
+  ],
+  "An exact copy of handwriting or a picture produced by a machine": [
+    "Facsimile"
+  ],
+  "Marked by excessive enthusiasm or devotion": [
+    "Fanatic"
+  ],
+  "A pleasant situation that you imagine but is unlikely to happen": [
+    "Fantasy"
+  ],
+  "Very attentive to and concerned about accuracy and detail": [
+    "Fastidious"
+  ],
+  "Causing or resulting in death": [
+    "Fatal"
+  ],
+  "The belief that events are decided by fate and cannot be controlled": [
+    "Fatalism"
+  ],
+  "A person who believes that all events are predetermined or subject to fate": [
+    "Fatalist"
+  ],
+  "The animals of a particular region or period": [
+    "Fauna"
+  ],
+  "Capable of being done or carried out; practical": [
+    "Feasible"
+  ],
+  "One who believes in giving equal opportunity to women in all fields": [
+    "Feminist"
+  ],
+  "A group of birds of one kind": [
+    "Flock"
+  ],
+  "To struggle helplessly or clumsily in water or mud": [
+    "Flounder"
+  ],
+  "An unlikely piece of good luck": [
+    "Fluke"
+  ],
+  "A person who sells and arranges cut flowers": [
+    "Florist"
+  ],
+  "A group of ships sailing together": [
+    "Fleet"
+  ],
+  "Capable of bending easily without breaking": [
+    "Flexible"
+  ],
+  "The plants and vegetation of a particular region": [
+    "Flora"
+  ],
+  "A person who attracts attention with a flashy style": [
+    "Flamboyant"
+  ],
+  "Falsification of documents, etc.": [
+    "Forgery"
+  ],
+  "Direct and outspoken": [
+    "Forthright"
+  ],
+  "A period of two weeks": [
+    "Fortnight"
+  ],
+  "An entrance hall in a building used by the public, especially a hotel or theatre": [
+    "Foyer"
+  ],
+  "Something which gets broken easily": [
+    "Fragile"
+  ],
+  "License granted to an individual or group to market a company's goods or services in a territory": [
+    "Franchise"
+  ],
+  "Murder of one’s brother or sister": [
+    "Fratricide"
+  ],
+  "An act of deceiving somebody in order to make money": [
+    "Fraud"
+  ],
+  "A person who has escaped from captivity or is in hiding": [
+    "Fugitive"
+  ],
+  "One who walks on ropes": [
+    "Funambulist"
+  ],
+  "An act or remark that is calculated to gain an advantage": [
+    "Gambit"
+  ],
+  "Talks a lot to explain something very trivial": [
+    "Garrulous"
+  ],
+  "The art and practice of cooking and eating good food": [
+    "Gastronomy"
+  ],
+  "Affecting or concerned with all or most people, things, etc.": [
+    "General"
+  ],
+  "A branch of biology that studies heredity": [
+    "Genetics"
+  ],
+  "The deliberate and systematic destruction of a racial, political, or cultural group": [
+    "Genocide"
+  ],
+  "A person who studies the origin, history, and structure of the Earth": [
+    "Geologist"
+  ],
+  "The study of the Earth’s physical structure, including rocks and soil": [
+    "Geology"
+  ],
+  "The branch of medicine dealing with the health and care of older adults": [
+    "Geriatrics"
+  ],
+  "Government by a council of old people; rule by elders": [
+    "Gerontocracy"
+  ],
+  "A large, longstanding mass of ice that moves slowly down a mountain valley": [
+    "Glacier"
+  ],
+  "A person who repairs broken window-glasses": [
+    "Glazier"
+  ],
+  "A movement of part of the body to express an idea or feeling": [
+    "Gesture"
+  ],
+  "Critical explanation or interpretation of a text, especially of scripture": [
+    "Glossary"
+  ],
+  "One who eats too much": [
+    "Glutton"
+  ],
+  "A person who loves good food and knows a lot about it; connoisseur of food": [
+    "Gourmet"
+  ],
+  "Writing or drawings scribbled, scratched, or sprayed illicitly on a wall or other surface in a public place": [
+    "Graffiti"
+  ],
+  "A building where grain is stored": [
+    "Granary"
+  ],
+  "The study of handwriting and its connection with character": [
+    "Graphology"
+  ],
+  "Tending to associate with others of one’s kind": [
+    "Gregarious"
+  ],
+  "One who is easily deceived": [
+    "Gullible"
+  ],
+  "A room filled with equipment for games and physical exercise": [
+    "Gymnasium"
+  ],
+  "A false perception of things that do not really exist": [
+    "Hallucination"
+  ],
+  "A very small village": [
+    "Hamlet"
+  ],
+  "A building in which aircraft are housed": [
+    "Hangar"
+  ],
+  "A lengthy and aggressive speech addressed to a large assembly": [
+    "Harangue"
+  ],
+  "A transport vehicle for conveying the coffin at a funeral": [
+    "Hearse"
+  ],
+  "One who believes gaining pleasure is the most important thing in life": [
+    "Hedonist"
+  ],
+  "Preferring or attracted to sunlight": [
+    "Heliophilous"
+  ],
+  "The therapeutic use of sunlight": [
+    "Heliotherapy"
+  ],
+  "Animals that feed on plants": [
+    "Herbivores"
+  ],
+  "A group of cattle or sheep": [
+    "Herd"
+  ],
+  "A belief or opinion contrary to accepted doctrines": [
+    "Heresy"
+  ],
+  "One who is against religion": [
+    "Heretic"
+  ],
+  "Consisting of parts of different kinds; varied": [
+    "Heterogeneous"
+  ],
+  "A geometrical figure with six sides": [
+    "Hexagon"
+  ],
+  "To seize and divert (a vehicle) to one’s own use": [
+    "Hijack"
+  ],
+  "Intellectually pretentious or snobbish person": [
+    "Highbrow"
+  ],
+  "Very dramatic": [
+    "Histrionic"
+  ],
+  "The killing of a person by another": [
+    "Homicide"
+  ],
+  "(Things or people) of the same or similar kind or nature": [
+    "Homogeneous"
+  ],
+  "Holding an office or position without receiving a salary": [
+    "Honorary"
+  ],
+  "The sound of an owl": [
+    "Hoot"
+  ],
+  "A large group of people": [
+    "Horde"
+  ],
+  "The line where the land and sky seem to meet": [
+    "Horizon"
+  ],
+  "The study of growing garden plants": [
+    "Horticulture"
+  ],
+  "Friendly and welcoming to visitors": [
+    "Hospitable"
+  ],
+  "A person who is kept captive until demands are met": [
+    "Hostage"
+  ],
+  "A store or supply accumulated for future use": [
+    "Hoard"
+  ],
+  "A box or cage for rabbits or small animals": [
+    "Hutch"
+  ],
+  "Extreme fear of water": [
+    "Hydrophobia"
+  ],
+  "A song or music in praise of God": [
+    "Hymn"
+  ],
+  "A person who suffers from an imaginary illness / abnormally anxious about health": [
+    "Hypochondriac"
+  ],
+  "A pretence of having virtuous character or beliefs that one does not really possess": [
+    "Hypocrisy"
+  ],
+  "A person pretending to be someone he is not": [
+    "Hypocrite"
+  ],
+  "One who attacks or criticizes cherished beliefs or institutions": [
+    "Iconoclast"
+  ],
+  "A person’s peculiar habit or characteristic": [
+    "Idiosyncrasy"
+  ],
+  "An image of a god used for worship": [
+    "Idol"
+  ],
+  "The practice of worshipping statues as gods": [
+    "Idolatry"
+  ],
+  "A circular house made of blocks of hard snow": [
+    "Igloo"
+  ],
+  "An exaggerated statement not meant to be taken literally": [
+    "Hyperbole"
+  ],
+  "Handwriting which is difficult or impossible to read": [
+    "Illegible"
+  ],
+  "Unable to read or write": [
+    "Illiterate"
+  ],
+  "To light up or make clear": [
+    "Illuminate"
+  ],
+  "Pictures given in a book for the purpose of explaining things": [
+    "Illustration"
+  ],
+  "Freedom from punishment or harm": [
+    "Impunity"
+  ],
+  "A complicated or confusing state of affairs": [
+    "Imbroglio"
+  ],
+  "A foreigner who settles in a country": [
+    "Immigrant"
+  ],
+  "Matter which is against moral values": [
+    "Immoral"
+  ],
+  "Resistant to a particular infection": [
+    "Immune"
+  ],
+  "The policy of extending a country’s empire and influence": [
+    "Imperialism"
+  ],
+  "Not allowing fluid to pass through; unaffected by outside opinions": [
+    "Impervious"
+  ],
+  "A person who dishonestly pretends to be somebody else": [
+    "Imposter"
+  ],
+  "Strong and impossible to defeat or change; that which cannot be taken by force": [
+    "Impregnable"
+  ],
+  "Incapable of being approached": [
+    "Inaccessible"
+  ],
+  "Incapable of speech distinctly or express oneself clearly": [
+    "Inarticulate"
+  ],
+  "Not endowed with life; lifeless objects": [
+    "Inanimate"
+  ],
+  "A sound that cannot be heard": [
+    "Inaudible"
+  ],
+  "A reward or bonus offered to motivate action": [
+    "Incentive"
+  ],
+  "Lack of civic-mindedness or of patriotism": [
+    "Incivism"
+  ],
+  "Impossible to deny or disapprove": [
+    "Incontrovertible"
+  ],
+  "That which cannot be corrected; beyond reform": [
+    "Incorrigible"
+  ],
+  "That which cannot be believed": [
+    "Incredible"
+  ],
+  "Incapable of feeling tired or exhausted": [
+    "Indefatigable"
+  ],
+  "That which cannot be effaced; permanent": [
+    "Indelible"
+  ],
+  "Originating or occurring naturally in the place where found": [
+    "Indigenous"
+  ],
+  "Anger about an unfair situation or someone’s unfair behaviour": [
+    "Indignation"
+  ],
+  "Not fit to eat": [
+    "Inedible"
+  ],
+  "Something that cannot be avoided; certain to happen": [
+    "Inevitable"
+  ],
+  "One who cannot make a mistake": [
+    "Infallible"
+  ],
+  "Murder of an infant": [
+    "Infanticide"
+  ],
+  "Not limited by number": [
+    "Infinite"
+  ],
+  "A place in a large institution for the care of those who are ill": [
+    "Infirmary"
+  ],
+  "Something that is difficult to understand": [
+    "Incomprehensible"
+  ],
+  "Something that is necessary or crucial": [
+    "Indispensable"
+  ],
+  "That cannot be expressed in words": [
+    "Ineffable"
+  ],
+  "Someone not fit to be chosen or appointed": [
+    "Ineligible"
+  ],
+  "Something that cannot be stopped or changed; certain to happen": [
+    "Inexorable"
+  ],
+  "Easily set on fire; flammable": [
+    "Inflammable"
+  ],
+  "That which cannot be satisfied": [
+    "Insatiable"
+  ],
+  "One who is unable to pay debts": [
+    "Insolvent"
+  ],
+  "The condition of being unable to sleep over a period of time": [
+    "Insomnia"
+  ],
+  "The quality of being honest and having strong moral principles": [
+    "Integrity"
+  ],
+  "Interval between two events": [
+    "Interlude"
+  ],
+  "One who intervenes between two or more parties to settle differences": [
+    "Intermediary"
+  ],
+  "The act of burying a dead person": [
+    "Interment"
+  ],
+  "One who dies without a will": [
+    "Intestate"
+  ],
+  "The examination or observation of one’s own mental and emotional processes": [
+    "Introspection"
+  ],
+  "A quiet person more interested in their own thoughts and feelings than in socializing": [
+    "Introvert"
+  ],
+  "A detailed list of things in a place": [
+    "Inventory"
+  ],
+  "A person who supervises during an examination": [
+    "Invigilator"
+  ],
+  "Refresh and revive": [
+    "Invigorate"
+  ],
+  "That which cannot be conquered": [
+    "Invincible"
+  ],
+  "That which cannot be called back": [
+    "Irrevocable"
+  ],
+  "A period between reigns or governments": [
+    "Interregnum"
+  ],
+  "A person who travels from place to place": [
+    "Itinerant"
+  ],
+  "A plan of a journey, including the route and the places that will be visited": [
+    "Itinerary"
+  ],
+  "Special words and phrases used by particular groups, especially in their work": [
+    "Jargon"
+  ],
+  "A person or thing that brings bad luck": [
+    "Jinx"
+  ],
+  "A person who rides in horse races, especially as a profession": [
+    "Jockey"
+  ],
+  "The work of collecting and writing news, stories for newspapers, magazines, radio or television": [
+    "Journalism"
+  ],
+  "The science or philosophy of law": [
+    "Jurisprudence"
+  ],
+  "A group of members of the public who listen to the facts of a case in a court and decide guilt or innocence": [
+    "Jury"
+  ],
+  "Placing different things side by side to create an interesting effect": [
+    "Juxtapose"
+  ],
+  "Small shelter for dog": [
+    "Kennel"
+  ],
+  "The inner soft part of a seed, fruit or nut": [
+    "Kernel"
+  ],
+  "A recurrent urge to steal, without need or profit": [
+    "Kleptomania"
+  ],
+  "A natural skill or aptitude": [
+    "Knack"
+  ],
+  "The solemn sound of a funeral bell": [
+    "Knell"
+  ],
+  "Two lengths of rope, bamboo or wood with rungs, used for climbing": [
+    "Ladder"
+  ],
+  "A secluded or hidden retreat": [
+    "Lair"
+  ],
+  "Property or money bequeathed by will": [
+    "Legacy"
+  ],
+  "Pertaining to or resembling a lion": [
+    "Leonine"
+  ],
+  "One who compiles or writes dictionaries": [
+    "Lexicographer"
+  ],
+  "The art or practice of compiling dictionaries": [
+    "Lexicography"
+  ],
+  "A strong band of tissues in the body that connects bones and supports organs": [
+    "Ligament"
+  ],
+  "Feeding on mud or slime": [
+    "Limivorous"
+  ],
+  "A person who knows several foreign languages well; one who studies languages": [
+    "Linguist"
+  ],
+  "Easy to understand": [
+    "Lucid"
+  ],
+  "Profitable, yielding financial gain": [
+    "Lucrative"
+  ],
+  "A soft gentle song sung to make a child go to sleep": [
+    "Lullaby"
+  ],
+  "Related to the moon": [
+    "Lunar"
+  ],
+  "One who is mentally not sound": [
+    "Lunatic"
+  ],
+  "A girl or young woman, especially an unmarried one": [
+    "Maiden"
+  ],
+  "The first public speech delivered by a person": [
+    "Maiden-speech"
+  ],
+  "A person who is never happy with what he has": [
+    "Malcontent"
+  ],
+  "Any female animal which feeds its young on milk from her own body": [
+    "Mammal"
+  ],
+  "One who talks a lot": [
+    "Loquacious"
+  ],
+  "A large impressive house": [
+    "Mansion"
+  ],
+  "A document written by hand before printing": [
+    "Manuscript"
+  ],
+  "Someone who is killed for the cause of religion or faith": [
+    "Martyr"
+  ],
+  "A person skilled in cutting, dressing, and laying stone in buildings": [
+    "Mason"
+  ],
+  "Concerned solely with material needs; money-oriented": [
+    "Materialistic"
+  ],
+  "A cinema show held in the afternoon": [
+    "Matinee"
+  ],
+  "The killing of one’s mother": [
+    "Matricide"
+  ],
+  "A stately or impressive building housing a tomb or group of tombs": [
+    "Mausoleum"
+  ],
+  "An established principle of practical wisdom; a short statement of a general truth": [
+    "Maxim"
+  ],
+  "An area of grassland where animals graze": [
+    "Meadow"
+  ],
+  "To try to settle a dispute between two or more parties": [
+    "Mediate"
+  ],
+  "A sound that is pleasing to hear": [
+    "Melodious"
+  ],
+  "Something that serves as a reminder": [
+    "Memento"
+  ],
+  "Of only average standard": [
+    "Mediocre"
+  ],
+  "A person or thing that is likely to cause harm or danger": [
+    "Menace"
+  ],
+  "Someone working or acting merely for money or other rewards; a soldier who fights for the sake of money": [
+    "Mercenary"
+  ],
+  "Paying careful attention to every detail": [
+    "Meticulous"
+  ],
+  "A traveller who moves from one region to another": [
+    "Migrant"
+  ],
+  "A period of one thousand years": [
+    "Millennium"
+  ],
+  "A place where money is coined by authority of the government": [
+    "Mint"
+  ],
+  "A person who hates and avoids other people": [
+    "Misanthrope"
+  ],
+  "A person who loves money and hates spending it": [
+    "Miser"
+  ],
+  "A word or name that is inappropriate for a person or thing": [
+    "Misnomer"
+  ],
+  "One who hates the institution of marriage": [
+    "Misogamist"
+  ],
+  "A person who dislikes women": [
+    "Misogynist"
+  ],
+  "One who hates reason, argument, or enlightenment": [
+    "Misologist"
+  ],
+  "Very important or serious": [
+    "Momentous"
+  ],
+  "A supreme ruler": [
+    "Monarch"
+  ],
+  "A system of government by a king or queen": [
+    "Monarchy"
+  ],
+  "A building where monks live as a community": [
+    "Monastery"
+  ],
+  "The practice of marrying one person at a time": [
+    "Monogamy"
+  ],
+  "Complete control of trade in particular goods or the supply of a service": [
+    "Monopoly"
+  ],
+  "A person who believes that there is only one god": [
+    "Monotheist"
+  ],
+  "Lacking in variety and interest; never changing and therefore boring": [
+    "Monotonous"
+  ],
+  "A place for keeping dead bodies before burial or cremation": [
+    "Mortuary"
+  ],
+  "A place where dead bodies are kept for identification": [
+    "Morgue"
+  ],
+  "Commonplace; of this world rather than spiritual": [
+    "Mundane"
+  ],
+  "A place where antiques are kept": [
+    "Museum"
+  ],
+  "The act of refusing to obey the orders of somebody in authority, especially by soldiers/sailors": [
+    "Mutiny"
+  ],
+  "A person or thing that has the same name as another": [
+    "Namesake"
+  ],
+  "The habit of admiring yourself too much, especially your appearance": [
+    "Narcissism"
+  ],
+  "A person who admires himself/herself too much, especially his appearance": [
+    "Narcissist"
+  ],
+  "Highly unpleasant, annoying, disagreeable": [
+    "Nasty"
+  ],
+  "Connected with the place you were born // a person, animal or plant belonging to a place by birth": [
+    "Native"
+  ],
+  "Guide the course of a ship especially by using instruments or maps": [
+    "Navigate"
+  ],
+  "Deserved and unavoidable punishment/ Downfall that satisfies natural justice": [
+    "Nemesis"
+  ],
+  "A person who has recently started an activity": [
+    "Neophyte"
+  ],
+  "A doctor who studies and treats diseases of the kidneys": [
+    "Nephrologist"
+  ],
+  "Giving undue favors to one’s own family or friends in business or politics": [
+    "Nepotism"
+  ],
+  "A doctor who studies and treats diseases of the nervous system": [
+    "Neurologist"
+  ],
+  "The cry of a horse": [
+    "Neigh"
+  ],
+  "Beginning to exist; recently formed or developed": [
+    "Nascent"
+  ],
+  "A transcendent state in which there is neither suffering, desire, nor sense of self": [
+    "Nirvana"
+  ],
+  "People of no fixed abode": [
+    "Nomads"
+  ],
+  "Sentimental longing for a period in the past": [
+    "Nostalgia"
+  ],
+  "Well-known for being bad; having an evil reputation": [
+    "Notorious"
+  ],
+  "A person who is new to a profession without training or experience in a skill or subject": [
+    "Novice"
+  ],
+  "The study or collection of coins": [
+    "Numismatics"
+  ],
+  "A person who collects or studies coins": [
+    "Numismatist"
+  ],
+  "An extreme fear of darkness": [
+    "Nyctophobia"
+  ],
+  "A notice of a person’s death, especially in a newspaper": [
+    "Obituary"
+  ],
+  "Something no longer in use": [
+    "Obsolete"
+  ],
+  "Relating to the countries of the West": [
+    "Occidental"
+  ],
+  "A geometrical figure with eight sides": [
+    "Octagon"
+  ],
+  "One who is eighty years old": [
+    "Octogenarian"
+  ],
+  "A person who attends to the diseases of the eye": [
+    "Oculist"
+  ],
+  "Obsession for wine": [
+    "Oenomania"
+  ],
+  "Government or rule by a small group of people": [
+    "Oligarchy"
+  ],
+  "Suggesting that something unpleasant is likely to happen": [
+    "Ominous"
+  ],
+  "One who is all-powerful": [
+    "Omnipotent"
+  ],
+  "Present everywhere": [
+    "Omnipresent"
+  ],
+  "One who knows everything": [
+    "Omniscient"
+  ],
+  "An animal or person that eats a variety of food of both plant and animal origin": [
+    "Omnivore"
+  ],
+  "One who eats both vegetables and meat": [
+    "Omnivorous"
+  ],
+  "That through which light cannot pass": [
+    "Opaque"
+  ],
+  "Fear of snakes": [
+    "Ophiophobia"
+  ],
+  "A doctor who specializes in the diseases of the eyes": [
+    "Ophthalmologist"
+  ],
+  "The study of snakes": [
+    "Ophiology"
+  ],
+  "One who sees the bright side of things": [
+    "Optimist"
+  ],
+  "A proficient public speaker": [
+    "Orator"
+  ],
+  "A piece of land or garden in which fruit trees are planted": [
+    "Orchard"
+  ],
+  "A person who studies birds": [
+    "Ornithologist"
+  ],
+  "The scientific study of birds": [
+    "Ornithology"
+  ],
+  "A child whose parents are dead": [
+    "Orphan"
+  ],
+  "A public institution for the care and protection of children without parents": [
+    "Orphanage"
+  ],
+  "Conforming to established doctrine, especially in religion": [
+    "Orthodox"
+  ],
+  "Doctor who deals with bone problems": [
+    "Orthopaedist"
+  ],
+  "Belief that war and violence are unjustified": [
+    "Pacifism"
+  ],
+  "A person who opposes war or use of military force": [
+    "Pacifist"
+  ],
+  "A formal agreement between two or more nations or peoples": [
+    "Pact"
+  ],
+  "A doctor who treats children’s diseases": [
+    "Pediatrician"
+  ],
+  "A solution for all difficulties or diseases": [
+    "Panacea"
+  ],
+  "Disease that spreads over a whole country or the world": [
+    "Pandemic"
+  ],
+  "The belief that God is in everything, including nature": [
+    "Pantheism"
+  ],
+  "A small room in a big house, hotel, ship etc. where glasses, dishes, spoons, food etc. are kept": [
+    "Pantry"
+  ],
+  "Story told to illustrate a moral or spiritual truth": [
+    "Parable"
+  ],
+  "One who lives/survives on others’ or other lives": [
+    "Parasite"
+  ],
+  "Permission given to a prisoner to leave prison before sentence ends on condition of good behaviour": [
+    "Parole"
+  ],
+  "The crime of killing your father, mother or a close relative": [
+    "Parricide"
+  ],
+  "One who has suddenly gained new wealth, power or prestige": [
+    "Parvenu"
+  ],
+  "The scientific study of diseases": [
+    "Pathology"
+  ],
+  "The study of ancient writings and scriptures": [
+    "Palaeography"
+  ],
+  "A word that reads the same backwards as forwards": [
+    "Palindrome"
+  ],
+  "A system of society or government in which men hold the power and women are largely excluded from it": [
+    "Patriarchy"
+  ],
+  "Killing of one’s own father": [
+    "Patricide"
+  ],
+  "Property that is given to somebody when his father dies": [
+    "Patrimony"
+  ],
+  "One who loves, supports and defends his country": [
+    "Patriot"
+  ],
+  "One who has no money or means of livelihood left": [
+    "Pauper"
+  ],
+  "A person who insists on adherence to formal rules or literary meaning": [
+    "Pedant"
+  ],
+  "Overly concerned with minute details or formalisms": [
+    "Pedantic"
+  ],
+  "A structure in the garden where climbing plants can grow and people can walk under": [
+    "Pergola"
+  ],
+  "Continuing for a long period of time without interruption; lasting forever or indefinitely": [
+    "Perpetual"
+  ],
+  "An incidental benefit awarded for certain types of employment; an extra profit or allowance additional to a main income": [
+    "Perquisite"
+  ],
+  "A person who walks on foot and not travelling in a vehicle": [
+    "Pedestrian"
+  ],
+  "A strong or habitual liking for something; a tendency": [
+    "Penchant"
+  ],
+  "Constant effort to achieve something": [
+    "Perseverance"
+  ],
+  "A person who always expects bad things to happen": [
+    "Pessimist"
+  ],
+  "A chemical used to kill insects or rodents": [
+    "Pesticide"
+  ],
+  "Someone who freely gives money or help to people in need": [
+    "Philanthropist"
+  ],
+  "Love of mankind; charitable goodwill": [
+    "Philanthropy"
+  ],
+  "A collector or student of postage stamps": [
+    "Philatelist"
+  ],
+  "One who dislikes or is hostile to culture and the arts": [
+    "Philistine"
+  ],
+  "Study of language and its development": [
+    "Philology"
+  ],
+  "Intense and unreasonable fear or dislike": [
+    "Phobia"
+  ],
+  "Study of the sounds of human speech": [
+    "Phonetics"
+  ],
+  "Branch of biology dealing with the function of living organisms": [
+    "Physiology"
+  ],
+  "The act of stealing things of little value in small amounts": [
+    "Pilferage"
+  ],
+  "One who does something for the first time; a trailblazer": [
+    "Pioneer"
+  ],
+  "Someone who attacks and robs ships at sea": [
+    "Pirate"
+  ],
+  "Evoking a keen sense of sadness or regret": [
+    "Poignant"
+  ],
+  "The study or art of political governance": [
+    "Politics"
+  ],
+  "Having more than one wife at the same time": [
+    "Polygamy"
+  ],
+  "One who knows and uses several languages": [
+    "Polyglot"
+  ],
+  "Practice of a woman having more than one husband": [
+    "Polyandry"
+  ],
+  "A formal promise or undertaking": [
+    "Pledge"
+  ],
+  "Seeming reasonable or probable": [
+    "Plausible"
+  ],
+  "One who brings a lawsuit": [
+    "Plaintiff"
+  ],
+  "Stealing another’s written work": [
+    "Plagiarism"
+  ],
+  "One who steals another’s writings or ideas": [
+    "Plagiarist"
+  ],
+  "To steal and pass off another’s work as one’s own": [
+    "Plagiarise"
+  ],
+  "Something that can be carried easily": [
+    "Portable"
+  ],
+  "A collection of drawings, documents, etc., representing an artist’s work": [
+    "Portfolio"
+  ],
+  "Occurring or coming into existence after a person’s death": [
+    "Posthumous"
+  ],
+  "A medical examination of a dead body": [
+    "Postmortem"
+  ],
+  "A note appended to a letter after its signature": [
+    "Postscript"
+  ],
+  "Fit to drink (water)": [
+    "Potable"
+  ],
+  "An animal that lives by killing and eating other animals": [
+    "Predator"
+  ],
+  "An introduction to a book explaining the author’s aims": [
+    "Preface"
+  ],
+  "The first public performance of a theatrical work or film": [
+    "Premiere"
+  ],
+  "A strong feeling that something is about to happen, especially something unpleasant": [
+    "Premonition"
+  ],
+  "To make evasive or misleading statements": [
+    "Prevaricate"
+  ],
+  "A person, especially a young one, with exceptional abilities": [
+    "Prodigy"
+  ],
+  "An introduction to a literary work": [
+    "Prologue"
+  ],
+  "The first design of something from which other forms are copied or developed": [
+    "Prototype"
+  ],
+  "A feeling of deep pleasure or satisfaction derived from one’s own achievements": [
+    "Pride"
+  ],
+  "To put off doing something, especially out of habitual carelessness or laziness": [
+    "Procrastinate"
+  ],
+  "Spending money or resources wastefully or recklessly": [
+    "Prodigal"
+  ],
+  "To forbid or condemn something as harmful or unlawful": [
+    "Proscribe"
+  ],
+  "The main character in a literary work or story": [
+    "Protagonist"
+  ],
+  "A formal set of rules or procedures governing conduct": [
+    "Protocol"
+  ],
+  "The study of election trends by means of opinion polls": [
+    "Psephologist"
+  ],
+  "The scientific study of voting behavior": [
+    "Psephology"
+  ],
+  "A fictitious name especially one assumed by an author": [
+    "Pseudonym"
+  ],
+  "The scientific study of the mind and how it influences behaviour": [
+    "Psychology"
+  ],
+  "Careful in performing duties; showing great attention to detail": [
+    "Punctilious"
+  ],
+  "Having a sharply strong taste or smell": [
+    "Pungent"
+  ],
+  "A compulsion to set fire to things": [
+    "Pyromania"
+  ],
+  "An animal with four feet": [
+    "Quadruped"
+  ],
+  "Search for something": [
+    "Quest"
+  ],
+  "Occurring every five years": [
+    "Quinquennial"
+  ],
+  "Unrealistically optimistic or idealistic": [
+    "Quixotic"
+  ],
+  "A skilled storyteller or narrator": [
+    "Raconteur"
+  ],
+  "Medical doctor who specializes in imaging (X-rays, CT, ultrasound)": [
+    "Radiologist"
+  ],
+  "Having a stale smell or taste": [
+    "Rancid"
+  ],
+  "To free a prisoner on payment": [
+    "Ransom"
+  ],
+  "A person who withdraws from the world to live in seclusion": [
+    "Recluse"
+  ],
+  "To adjust or correct; amend": [
+    "Rectify"
+  ],
+  "Excessive adherence to official formalities": [
+    "Red-Tapism"
+  ],
+  "Excessively wordy or repetitive": [
+    "Redundant"
+  ],
+  "A public vote on a particular issue": [
+    "Referendum"
+  ],
+  "Symbols or emblems of royalty": [
+    "Regalia"
+  ],
+  "The act of killing a king": [
+    "Regicide"
+  ],
+  "Something belonging to or surviving from an earlier period": [
+    "Relic"
+  ],
+  "The return of someone to his own country": [
+    "Repatriation"
+  ],
+  "A large natural or artificial lake used as a source of water supply": [
+    "Reservoir"
+  ],
+  "To become strong in spite of many difficulties": [
+    "Resilient"
+  ],
+  "To give back in kind or retaliate": [
+    "Retaliate"
+  ],
+  "A person very reserved in speech": [
+    "Reticent"
+  ],
+  "A characteristic of one thing that is suggestive of another": [
+    "Reminiscence"
+  ],
+  "Action of reviewing past events in one’s life": [
+    "Retrospection"
+  ],
+  "Meaningless language with an exaggerated style intended to impress; the art of effective or persuasive speaking or writing": [
+    "Rhetoric"
+  ],
+  "One who has fixed opinions and beliefs; hard and difficult to bend": [
+    "Rigid"
+  ],
+  "Deliberately destroy something for military advantage": [
+    "Sabotage"
+  ],
+  "Violation of something holy or sacred": [
+    "Sacrilege"
+  ],
+  "The state or quality of being holy": [
+    "Sanctity"
+  ],
+  "A place of good climate for invalids": [
+    "Sanatorium"
+  ],
+  "One who helps a person in need": [
+    "Samaritan"
+  ],
+  "A protected place for birds and animals": [
+    "Sanctuary"
+  ],
+  "A sacred place": [
+    "Sanctum"
+  ],
+  "Optimistic in an apparently difficult situation": [
+    "Sanguine"
+  ],
+  "Full of criticism and mockery": [
+    "Satire"
+  ],
+  "A sheath for the blade of a sword": [
+    "Scabbard"
+  ],
+  "A person who is blamed for the wrongdoings of others": [
+    "Scapegoat"
+  ],
+  "Someone who habitually doubts accepted beliefs": [
+    "Sceptic"
+  ],
+  "A plan of what is to be done and when": [
+    "Schedule"
+  ],
+  "A group of fish": [
+    "School"
+  ],
+  "Small room where dishes are washed": [
+    "Scullery"
+  ],
+  "The artists who make sculptures": [
+    "Sculptor"
+  ],
+  "Government not connected with religious or spiritual matters": [
+    "Secular"
+  ],
+  "A drug or other substance that induces sleep": [
+    "Soporific"
+  ],
+  "An instrument for detecting an earthquake": [
+    "Seismograph"
+  ],
+  "The scientific study of earthquakes": [
+    "Seismology"
+  ],
+  "Making or spreading scandalous claims about someone with the intention of damaging their reputation; severely abusive writing in journals": [
+    "Scurrilous"
+  ],
+  "Aware of and able to understand other people and their feelings": [
+    "Sensitive"
+  ],
+  "A person between the ages of 70 and 79": [
+    "Septuagenarian"
+  ],
+  "The occurrence and development of events by chance in a happy or beneficial way": [
+    "Serendipity"
+  ],
+  "Repeatedly committing the same offence and typically following a characteristic, predictable behaviour pattern": [
+    "Serial"
+  ],
+  "Rearing of silkworms for production of silk": [
+    "Sericulture"
+  ],
+  "A close-fitting cover for the blade of a weapon or tool": [
+    "Sheath"
+  ],
+  "A large number of fish swimming together": [
+    "Shoal"
+  ],
+  "A figure of speech by which a thing is spoken of as being that which it only resembles": [
+    "Simile"
+  ],
+  "Happening or being done at exactly the same time": [
+    "Simultaneous"
+  ],
+  "An office or position requiring little or no work but giving the holder status or financial benefit": [
+    "Sinecure"
+  ],
+  "The internal or external framework of bones in a vertebrate": [
+    "Skeleton"
+  ],
+  "A brief or short stay at a place": [
+    "Sojourn"
+  ],
+  "A speech made to oneself, especially when alone": [
+    "Soliloquy"
+  ],
+  "Walking in sleep": [
+    "Somnambulism"
+  ],
+  "Someone who walks about in sleep": [
+    "Somnambulist"
+  ],
+  "One who talks in sleep": [
+    "Somniloquist"
+  ],
+  "The act or habit of talking in one’s sleep": [
+    "Somniloquy"
+  ],
+  "A fourteen-line poem": [
+    "Sonnet"
+  ],
+  "The murder of one’s sister": [
+    "Sororicide"
+  ],
+  "Something kept as a reminder of an event": [
+    "Souvenir"
+  ],
+  "The scientific study of caves": [
+    "Speleology"
+  ],
+  "One who speaks on behalf of others": [
+    "Spokesman"
+  ],
+  "Written law of a legislative body": [
+    "Statute"
+  ],
+  "One who loads and unloads ships": [
+    "Stevedore"
+  ],
+  "A person who can endure pain or hardship without showing his feelings": [
+    "Stoic"
+  ],
+  "Indifference to pleasure and pain": [
+    "Stoicism"
+  ],
+  "A government by the military class": [
+    "Stratocracy"
+  ],
+  "A written order to attend a court of law to give evidence": [
+    "Subpoena"
+  ],
+  "The right to vote in political elections": [
+    "Suffrage"
+  ],
+  "The action of killing oneself intentionally": [
+    "Suicide"
+  ],
+  "A final performance or effort, especially before retirement or death": [
+    "Swan Song"
+  ],
+  "A group or large number of insects or people moving together": [
+    "Swarm"
+  ],
+  "A building where the Jews meet for religious worship and teaching": [
+    "Synagogue"
+  ],
+  "Words of the same meanings": [
+    "Synonyms"
+  ],
+  "Of or connected with the sense of touch": [
+    "Tactile"
+  ],
+  "A person who preserves skin or hides of dead animals by stuffing and mounting them": [
+    "Taxidermist"
+  ],
+  "The art of cleaning and preserving animal skins": [
+    "Taxidermy"
+  ],
+  "A person who never takes alcoholic drinks": [
+    "Teetotaller"
+  ],
+  "Power of reading thoughts of others": [
+    "Telepathy"
+  ],
+  "A violent windstorm": [
+    "Tempest"
+  ],
+  "Holding on to something or keeping an opinion with determination": [
+    "Tenacious"
+  ],
+  "A written statement about someone’s character, usually provided by an employer": [
+    "Testimonial"
+  ],
+  "One who believes in the existence of a god or gods": [
+    "Theist"
+  ],
+  "Government of a country by religious leaders": [
+    "Theocracy"
+  ],
+  "The study of the nature of God and religious beliefs": [
+    "Theology"
+  ],
+  "A strong and fast moving stream of water": [
+    "Torrent"
+  ],
+  "A system of government in which only one political party is allowed to function": [
+    "Totalitarianism"
+  ],
+  "A person who works against his country": [
+    "Traitor"
+  ],
+  "Free from disturbance; quiet and peaceful": [
+    "Tranquil"
+  ],
+  "Lasting for only a short time (noun)": [
+    "Transient"
+  ],
+  "That which lasts for a short time (adjective)": [
+    "Transitory"
+  ],
+  "Allowing you to see through it (glass, etc.)": [
+    "Transparent"
+  ],
+  "Distorted representation of something": [
+    "Travesty"
+  ],
+  "The crime of betraying one’s country": [
+    "Treason"
+  ],
+  "Those who pass through this gate without permission will be prosecuted (noun)": [
+    "Trespassers"
+  ],
+  "Happening every three years": [
+    "Triennial"
+  ],
+  "A set of three related works by the same author": [
+    "Trilogy"
+  ],
+  "Not important or serious; obvious and dull": [
+    "Trivial"
+  ],
+  "A student who idly or without excuse absents himself/herself from school": [
+    "Truant"
+  ],
+  "The sound made by an elephant": [
+    "Trumpet"
+  ],
+  "By everyone in a particular group": [
+    "Unanimously"
+  ],
+  "Found all over the world": [
+    "Universal"
+  ],
+  "Something never done or known before": [
+    "Unprecedented"
+  ],
+  "Difficult to manage or handle because of size or weight": [
+    "Unwieldy"
+  ],
+  "One who lends money on high rates of interest": [
+    "Usurer"
+  ],
+  "An imagined society where everything is perfect and everyone is happy": [
+    "Utopia"
+  ],
+  "Excessively fond of one’s wife": [
+    "Uxorious"
+  ],
+  "One who switches to an opposing party": [
+    "Turncoat"
+  ],
+  "A person who is unduly anxious about his/her health": [
+    "Valetudinarian"
+  ],
+  "One who damages public property": [
+    "Vandal"
+  ],
+  "Killer of a prophet": [
+    "Vaticide"
+  ],
+  "One who eats no animal flesh": [
+    "Vegetarian"
+  ],
+  "The speed of something in a particular direction": [
+    "Velocity"
+  ],
+  "A slight fault that can be forgiven": [
+    "Venial"
+  ],
+  "One who has the art of speaking in such a way that the sound seems to come from another person/place": [
+    "Ventriloquist"
+  ],
+  "In exactly the same words as were used originally": [
+    "Verbatim"
+  ],
+  "Someone having many skills": [
+    "Versatile"
+  ],
+  "Evening prayer in church": [
+    "Vespers"
+  ],
+  "A person who is long experienced or practiced in an activity": [
+    "Veteran"
+  ],
+  "To show or state that someone or something is not guilty of something; proved to be right in court": [
+    "Vindicate"
+  ],
+  "A person who possesses outstanding technical ability in a particular art or field": [
+    "Virtuoso"
+  ],
+  "The cultivation of grapevines": [
+    "Viticulture"
+  ],
+  "A substance easily evaporated at normal temperatures": [
+    "Volatile"
+  ],
+  "Of one’s own free will": [
+    "Voluntary"
+  ],
+  "One who offers one’s services without being forced": [
+    "Volunteer"
+  ],
+  "A long sea journey": [
+    "Voyage"
+  ],
+  "Exposed to the possibility of being attacked or harmed, either physically or emotionally": [
+    "Vulnerable"
+  ],
+  "Forsaken or neglected child who has no home and spends most of his/her time on the streets": [
+    "Waif"
+  ],
+  "A place where clothes are kept": [
+    "Wardrobe"
+  ],
+  "A man whose wife is dead": [
+    "Widower"
+  ],
+  "An unexpected piece of good fortune": [
+    "Windfall"
+  ],
+  "To dispute angrily": [
+    "Wrangle"
+  ],
+  "A decorative ring of flowers and leaves": [
+    "Wreath"
+  ],
+  "Fear of foreigners": [
+    "Xenophobia"
+  ],
+  "A person who is fanatical and uncompromising in pursuit of their ideals": [
+    "Zealot"
+  ]
+}
 
 def swap_key_value(data):
     """Swaps the keys and values of the input dictionary."""
