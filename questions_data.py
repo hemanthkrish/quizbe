@@ -1,9 +1,13 @@
 import random
-
 # --- Data for Prepositions Quiz ---
 PREPOSITIONS_DATA = {
-    
-    
+    "Abhorrence of": ["Strong hatred or disgust for something"],
+    "Abhorrent to": ["Causing disgust or hatred"],
+    "Abide by": ["To follow or comply with a rule or decision"],
+    "Abound with / Abound in": ["To be present in large numbers or amounts"],
+    "Absolve from": ["To free from guilt, blame, or responsibility"],
+    "Abstain from": ["To refrain from doing something"],
+    "Abstemious in": ["Sparing or moderate in eating and drinking"],
     "Abstinence from": ["The practice of restraining oneself from indulging in something"],
     "Accede to": ["To agree to a demand, request, or treaty"],
     "Acceptable to": ["Satisfactory or allowed; Suitable"],
@@ -890,8 +894,7 @@ PREPOSITIONS_DATA = {
 
 # --- Data for Phrasal Verbs Quiz (Sample) ---
 # I've added a sample set. You can expand this with your own data.
-PHRASAL_VERBS_DATA = {
-    "Abide by": ["To follow a rule, decision, or instruction"],
+PHRASAL_VERBS_DATA = {"Abide by": ["To follow a rule, decision, or instruction"],
     "Account for": ["To explain, give a reason"],
     "Act for": ["To represent"],
     "Act on": ["To take action because of something"],
@@ -1090,7 +1093,7 @@ PHRASAL_VERBS_DATA = {
     "Come up": ["To arise or occur"],
     "Come up with": ["To suggest or think of an idea or plan"],
     "Come upon": ["To find or discover by chance"],
-    "Con into": ["To trick someone into doing something"],
+    "Con into": ["To trick someone into doing something"],// 1-200 done// 201 starts here
     "Con out of": ["To deceive someone in order to take something from them"],
     "Cool off": ["To calm down or reduce in intensity"],
     "Cope with": ["To deal effectively with something difficult"],
@@ -1932,6 +1935,9 @@ PHRASAL_VERBS_DATA = {
     "Zonked out": ["To be completely exhausted or asleep"],
     "Zoom in": ["To focus more closely something, to adjust a camera to make person or thing being photographed appear larger or closer"]
 }
+
+
+
 
 
 def swap_key_value(data):
